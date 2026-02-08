@@ -3,8 +3,6 @@ import { Tabs } from 'expo-router';
 import { MaterialIcons } from '@expo/vector-icons';
 import { useTranslation } from 'react-i18next';
 import { colors } from '@/constants/colors';
-import { fontFamily } from '@/constants/typography';
-import { Platform } from 'react-native';
 
 export default function TabLayout() {
   const { t } = useTranslation();
@@ -13,27 +11,8 @@ export default function TabLayout() {
     <Tabs
       screenOptions={{
         headerShown: true,
-        headerStyle: {
-          backgroundColor: colors.surface,
-        },
-        headerTitleStyle: {
-          fontFamily: fontFamily.semiBold,
-          fontSize: 18,
-          color: colors.textPrimary,
-        },
-        headerShadowVisible: false,
         tabBarActiveTintColor: colors.primary,
         tabBarInactiveTintColor: colors.textTertiary,
-        tabBarStyle: {
-          backgroundColor: colors.surface,
-          borderTopColor: colors.borderLight,
-          paddingTop: 4,
-          height: Platform.OS === 'ios' ? 88 : 64,
-        },
-        tabBarLabelStyle: {
-          fontFamily: fontFamily.medium,
-          fontSize: 11,
-        },
       }}
     >
       <Tabs.Screen

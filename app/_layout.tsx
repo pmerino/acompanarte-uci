@@ -1,14 +1,9 @@
-import React, { useEffect, useState } from 'react';
+import React, { useEffect, useState, useCallback } from 'react';
 import { Stack } from 'expo-router';
 import { StatusBar } from 'expo-status-bar';
+import { View, ActivityIndicator } from 'react-native';
 import * as SplashScreen from 'expo-splash-screen';
-import {
-  useFonts,
-  Inter_400Regular,
-  Inter_500Medium,
-  Inter_600SemiBold,
-  Inter_700Bold,
-} from '@expo-google-fonts/inter';
+import * as Font from 'expo-font';
 import { ThemeProvider } from '@/theme';
 import { initI18n } from '@/i18n';
 import { colors } from '@/constants/colors';
@@ -16,37 +11,54 @@ import { colors } from '@/constants/colors';
 SplashScreen.preventAutoHideAsync();
 
 export default function RootLayout() {
-  const [i18nReady, setI18nReady] = useState(false);
-  const [fontsLoaded] = useFonts({
-    Inter_400Regular,
-    Inter_500Medium,
-    Inter_600SemiBold,
-    Inter_700Bold,
-  });
+  const [appReady, setAppReady] = useState(false);
 
   useEffect(() => {
-    initI18n().then(() => setI18nReady(true));
+    async function prepare() {
+      try {
+        await Font.loadAsync({
+          Inter_400Regular: require('@expo-google-fonts/inter/400Regular/Inter_400Regular.ttf'),
+          Inter_500Medium: require('@expo-google-fonts/inter/500Medium/Inter_500Medium.ttf'),
+          Inter_600SemiBold: require('@expo-google-fonts/inter/600SemiBold/Inter_600SemiBold.ttf'),
+          Inter_700Bold: require('@expo-google-fonts/inter/700Bold/Inter_700Bold.ttf'),
+        });
+      } catch (e) {
+        console.warn('Font loading failed:', e);
+      }
+
+      try {
+        await initI18n();
+      } catch (e) {
+        console.warn('i18n init failed:', e);
+      }
+
+      setAppReady(true);
+    }
+
+    prepare();
   }, []);
 
-  useEffect(() => {
-    if (fontsLoaded && i18nReady) {
-      SplashScreen.hideAsync();
+  const onLayoutRootView = useCallback(async () => {
+    if (appReady) {
+      await SplashScreen.hideAsync();
     }
-  }, [fontsLoaded, i18nReady]);
+  }, [appReady]);
 
-  if (!fontsLoaded || !i18nReady) {
+  if (!appReady) {
     return null;
   }
 
   return (
-    <ThemeProvider>
-      <StatusBar style="dark" />
-      <Stack
-        screenOptions={{
-          headerShown: false,
-          contentStyle: { backgroundColor: colors.background },
-        }}
-      />
-    </ThemeProvider>
+    <View style={{ flex: 1 }} onLayout={onLayoutRootView}>
+      <ThemeProvider>
+        <StatusBar style="dark" />
+        <Stack
+          screenOptions={{
+            headerShown: false,
+            contentStyle: { backgroundColor: colors.background },
+          }}
+        />
+      </ThemeProvider>
+    </View>
   );
 }
