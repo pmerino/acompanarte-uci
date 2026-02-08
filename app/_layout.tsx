@@ -7,6 +7,7 @@ import * as Font from 'expo-font';
 import { ThemeProvider } from '@/theme';
 import { initI18n } from '@/i18n';
 import { colors } from '@/constants/colors';
+import InstallPrompt from '@/components/ui/InstallPrompt';
 
 SplashScreen.preventAutoHideAsync();
 
@@ -58,6 +59,7 @@ export default function RootLayout() {
             contentStyle: { backgroundColor: colors.background },
           }}
         />
+        <InstallPrompt />
       </ThemeProvider>
     </View>
   );
