@@ -1,65 +1,65 @@
 {
   "title": "Contactos de emergencia",
-  "subtitle": "Teléfonos y recursos importantes",
-  "importantNote": "Aquí tienes los contactos que pueden serte útiles durante estos días. No dudes en utilizarlos cuando lo necesites: para eso están. Pedir ayuda es un acto de responsabilidad y de cuidado, tanto hacia ti como hacia tu familiar.",
+  "subtitle": "Teléfonos y recursos del Hospital Río Hortega",
+  "importantNote": "Estos son los teléfonos de referencia durante la estancia de tu familiar en la UCI del Hospital Universitario Río Hortega. Guárdalos en tu móvil para tenerlos siempre a mano.",
   "contacts": [
     {
-      "name": "Teléfono de emergencias",
+      "name": "Emergencias",
       "number": "112",
-      "description": "Para emergencias médicas graves, situaciones de riesgo vital o cualquier emergencia que requiera asistencia inmediata. Disponible las 24 horas del día, los 365 días del año.",
+      "description": "Teléfono europeo de emergencias, disponible 24 horas",
       "icon": "emergency",
-      "available": "24 horas"
+      "available": "24 horas, todos los días"
     },
     {
-      "name": "UCI - Control de enfermería",
-      "number": "Consulta en tu unidad",
-      "description": "Para consultas sobre el estado de tu familiar, avisar de cualquier cambio que observes durante la visita, o resolver dudas sobre los cuidados. El equipo de enfermería es tu contacto más cercano y accesible.",
+      "name": "Centralita del Hospital",
+      "number": "983 42 04 00",
+      "description": "Número principal del Hospital Río Hortega. Pide que te pasen con la UCI (Medicina Intensiva) para consultas sobre tu familiar.",
       "icon": "local-hospital",
+      "available": "24 horas, todos los días"
+    },
+    {
+      "name": "Extensión de habitaciones",
+      "number": "983 44 16 26",
+      "description": "Para contactar con habitaciones de hospitalización. Necesitarás la extensión de la habitación.",
+      "icon": "phone",
       "available": "24 horas"
     },
     {
-      "name": "Trabajo Social del hospital",
-      "number": "Consulta en Admisión",
-      "description": "Los trabajadores sociales pueden ayudarte con trámites administrativos, gestión de bajas laborales, prestaciones, alojamiento cercano al hospital si vienes de lejos, y cualquier necesidad socioeconómica que surja durante el ingreso.",
-      "icon": "social-distance",
-      "available": "Horario laboral"
-    },
-    {
-      "name": "Servicio de Psicología clínica",
-      "number": "Consulta en tu unidad",
-      "description": "Los psicólogos del hospital ofrecen apoyo emocional tanto a los pacientes como a sus familias. No necesitas estar en crisis para pedir ayuda; el simple hecho de acompañar a un ser querido en la UCI es una situación que merece apoyo profesional.",
-      "icon": "psychology",
-      "available": "Horario laboral, urgencias 24h"
-    },
-    {
-      "name": "Atención al Paciente y Familia",
-      "number": "Consulta en Admisión",
-      "description": "Este servicio puede ayudarte con reclamaciones, sugerencias, solicitud de informes médicos, segundas opiniones, y cualquier cuestión relacionada con tus derechos como familiar de un paciente ingresado.",
+      "name": "Atención al Paciente",
+      "number": "983 420 400 ext. 83145",
+      "description": "Para información sobre derechos, quejas, sugerencias o documentación.",
       "icon": "support-agent",
-      "available": "Horario laboral"
+      "available": "Horario laboral (confirmar llamando)"
     },
     {
-      "name": "Servicio de atención religiosa y espiritual",
-      "number": "Consulta en Información",
-      "description": "Si tú o tu familiar deseáis apoyo espiritual o religioso, la mayoría de hospitales cuentan con un servicio de capellanía o atención espiritual multireligiosa. No dudes en solicitarlo si sientes que puede aportarte consuelo.",
-      "icon": "church",
-      "available": "Variable según hospital"
+      "name": "Parking del Hospital",
+      "number": "983 31 51 25",
+      "description": "Parking Empark/Telpark del hospital. 825 plazas, 24 horas.",
+      "icon": "local-parking",
+      "available": "24 horas"
     },
     {
       "name": "Teléfono de la Esperanza",
       "number": "717 003 717",
-      "description": "Línea de atención en crisis emocional y prevención del suicidio, atendida por profesionales y voluntarios formados. Si sientes que la situación te desborda, que no puedes más, o que necesitas hablar con alguien que te escuche, llama sin dudarlo.",
+      "description": "Línea de apoyo emocional y escucha activa. Confidencial y gratuita.",
       "icon": "phone-in-talk",
-      "available": "24 horas"
+      "available": "24 horas, todos los días"
     },
     {
       "name": "Línea de atención a la conducta suicida",
       "number": "024",
-      "description": "Línea pública gratuita y confidencial de atención a la conducta suicida del Ministerio de Sanidad. Si tú o alguien cercano tenéis pensamientos de haceros daño, llamad a este número. No estáis solos.",
-      "icon": "healing",
-      "available": "24 horas"
+      "description": "Línea de atención a personas con conducta suicida y su entorno. Confidencial y gratuita.",
+      "icon": "psychology",
+      "available": "24 horas, todos los días"
+    },
+    {
+      "name": "Trabajo Social del Hospital",
+      "number": "983 42 04 00 (centralita)",
+      "description": "Llama a la centralita y pide que te transfieran al Servicio de Trabajo Social. Te ayudarán con recursos, alojamiento, trámites y apoyo.",
+      "icon": "groups",
+      "available": "Horario laboral (lunes a viernes)"
     }
   ],
-  "whenToCall": "Si tienes dudas sobre el estado de tu familiar, el primer paso es siempre contactar con el control de enfermería de la UCI. Ellos pueden informarte por teléfono si no estás en el hospital, o decirte si es necesario que acudas. Para cuestiones administrativas o de servicios, utiliza los horarios laborales siempre que sea posible. Y recuerda: si sientes una emergencia emocional o una angustia que no puedes manejar, los teléfonos de crisis están disponibles las 24 horas, sin juicio y con total confidencialidad.",
-  "afterHours": "Fuera del horario de visitas, si estás preocupado por el estado de tu familiar, puedes llamar al control de enfermería de la UCI. El equipo que lo atiende está ahí las 24 horas y podrá darte información actualizada o tranquilizarte. No te sientas culpable por llamar: entienden perfectamente tu preocupación y prefieren que llames a que pases la noche en vela sin saber cómo está."
+  "whenToCall": "Llama a la centralita del hospital (983 42 04 00) siempre que tengas una duda o preocupación sobre tu familiar. El personal de enfermería de la UCI puede atenderte e informarte. Si es fuera del horario de visitas y estás preocupado/a, no dudes en llamar: es mejor preguntar que quedarse con la incertidumbre.",
+  "afterHours": "Fuera del horario de visitas (13:00-13:30 y 20:00-20:30), puedes llamar a la centralita (983 42 04 00) y pedir que te comuniquen con la UCI. El equipo de enfermería está disponible las 24 horas y puede informarte del estado general de tu familiar. Recuerda que la puerta principal del hospital cierra a las 22:30 h."
 }

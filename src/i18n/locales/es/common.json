@@ -1,5 +1,5 @@
 {
-  "appName": "Acompañarte UCI",
+  "appName": "Acompañarte UCI - Río Hortega",
   "tabs": {
     "home": "Inicio",
     "conditions": "Patologías",
@@ -10,7 +10,7 @@
   "home": {
     "welcome": "Bienvenido/a",
     "subtitle": "Estamos contigo en este momento difícil",
-    "description": "Esta aplicación está diseñada para ayudarte a entender qué le ocurre a tu ser querido, qué significan los aparatos que le rodean, y cómo puedes acompañarle durante su estancia en la UCI.",
+    "description": "Esta aplicación está diseñada para ayudarte a entender qué le ocurre a tu ser querido, qué significan los aparatos que le rodean, y cómo puedes acompañarle durante su estancia en la UCI del Hospital Universitario Río Hortega de Valladolid.",
     "sections": {
       "conditions": {
         "title": "Patologías",
@@ -37,7 +37,7 @@
         "description": "Respuestas a las dudas más comunes"
       }
     },
-    "emergencyBanner": "Si necesitas ayuda urgente, llama a la UCI al número que te facilitaron.",
+    "emergencyBanner": "Si necesitas ayuda urgente, llama a la centralita del hospital: 983 42 04 00 y pide que te pasen con la UCI.",
     "encouragement": "Recuerda: no estás solo/a. El equipo de la UCI está aquí para ayudaros."
   },
   "navigation": {
@@ -51,7 +51,7 @@
     "spanish": "Español",
     "english": "English",
     "about": "Sobre esta app",
-    "aboutText": "Acompañarte UCI es una herramienta creada para acompañar a las familias de pacientes ingresados en Unidades de Cuidados Intensivos. Todo el contenido ha sido revisado por profesionales sanitarios.",
+    "aboutText": "Acompañarte UCI es una herramienta creada por el equipo de la UCI del Hospital Universitario Río Hortega de Valladolid para acompañar a las familias de pacientes ingresados en nuestra Unidad de Cuidados Intensivos. Todo el contenido ha sido revisado por profesionales sanitarios del hospital.",
     "version": "Versión"
   },
   "more": {

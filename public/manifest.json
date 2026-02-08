@@ -1,0 +1,23 @@
+{
+  "name": "Acompañarte UCI - Río Hortega",
+  "short_name": "UCI Río Hortega",
+  "description": "App para familias de pacientes en la UCI del Hospital Universitario Río Hortega de Valladolid",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#EDF4F8",
+  "theme_color": "#4A90B8",
+  "orientation": "portrait",
+  "lang": "es",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
