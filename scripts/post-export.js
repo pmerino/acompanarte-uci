@@ -70,3 +70,27 @@ html = html.replace('</head>', pwaTags + '\n  </head>');
 
 fs.writeFileSync(indexPath, html);
 console.log('Injected PWA meta tags into index.html');
+
+// Fix: Vercel ignores node_modules directories even inside dist/assets.
+// Rename the assets/node_modules dir to assets/_packages so fonts are served.
+const assetsNM = path.join(distDir, 'assets', 'node_modules');
+const assetsPkg = path.join(distDir, 'assets', '_packages');
+if (fs.existsSync(assetsNM)) {
+  fs.renameSync(assetsNM, assetsPkg);
+  console.log('Renamed assets/node_modules → assets/_packages');
+
+  // Update references in JS bundle(s)
+  const jsDir = path.join(distDir, '_expo', 'static', 'js', 'web');
+  if (fs.existsSync(jsDir)) {
+    const jsFiles = fs.readdirSync(jsDir).filter(f => f.endsWith('.js'));
+    for (const file of jsFiles) {
+      const filePath = path.join(jsDir, file);
+      let content = fs.readFileSync(filePath, 'utf8');
+      if (content.includes('assets/node_modules/')) {
+        content = content.replace(/assets\/node_modules\//g, 'assets/_packages/');
+        fs.writeFileSync(filePath, content);
+        console.log(`Updated references in ${file}`);
+      }
+    }
+  }
+}
