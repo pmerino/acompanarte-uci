@@ -1,0 +1,85 @@
+{
+  "appName": "Acompañarte UCI",
+  "tabs": {
+    "home": "Inicio",
+    "conditions": "Patologías",
+    "devices": "Dispositivos",
+    "info": "Info útil",
+    "more": "Más"
+  },
+  "home": {
+    "welcome": "Bienvenido/a",
+    "subtitle": "Estamos contigo en este momento difícil",
+    "description": "Esta aplicación está diseñada para ayudarte a entender qué le ocurre a tu ser querido, qué significan los aparatos que le rodean, y cómo puedes acompañarle durante su estancia en la UCI.",
+    "sections": {
+      "conditions": {
+        "title": "Patologías",
+        "description": "Entiende el diagnóstico de tu familiar"
+      },
+      "devices": {
+        "title": "Dispositivos",
+        "description": "Qué hace cada aparato que ves"
+      },
+      "info": {
+        "title": "Información útil",
+        "description": "Horarios, cafetería, parking..."
+      },
+      "help": {
+        "title": "Cómo ayudar",
+        "description": "Maneras de acompañar a tu familiar"
+      },
+      "emotional": {
+        "title": "Apoyo emocional",
+        "description": "Cuídate para poder cuidar"
+      },
+      "faq": {
+        "title": "Preguntas frecuentes",
+        "description": "Respuestas a las dudas más comunes"
+      }
+    },
+    "emergencyBanner": "Si necesitas ayuda urgente, llama a la UCI al número que te facilitaron.",
+    "encouragement": "Recuerda: no estás solo/a. El equipo de la UCI está aquí para ayudaros."
+  },
+  "navigation": {
+    "back": "Volver",
+    "seeAll": "Ver todo",
+    "readMore": "Leer más"
+  },
+  "settings": {
+    "title": "Ajustes",
+    "language": "Idioma",
+    "spanish": "Español",
+    "english": "English",
+    "about": "Sobre esta app",
+    "aboutText": "Acompañarte UCI es una herramienta creada para acompañar a las familias de pacientes ingresados en Unidades de Cuidados Intensivos. Todo el contenido ha sido revisado por profesionales sanitarios.",
+    "version": "Versión"
+  },
+  "more": {
+    "title": "Más opciones",
+    "help": "Cómo ayudar a tu familiar",
+    "helpDescription": "Comunicación, diarios UCI, autocuidado",
+    "social": "Trabajador/a social",
+    "socialDescription": "Horarios, citas y recursos disponibles",
+    "glossary": "Glosario médico",
+    "glossaryDescription": "Términos médicos explicados con claridad",
+    "faq": "Preguntas frecuentes",
+    "faqDescription": "Respuestas a dudas comunes sobre la UCI",
+    "emergency": "Contactos de emergencia",
+    "emergencyDescription": "Teléfonos importantes y cómo contactar",
+    "emotional": "Apoyo emocional",
+    "emotionalDescription": "Recursos y estrategias para cuidarte",
+    "settings": "Ajustes",
+    "settingsDescription": "Idioma y preferencias"
+  },
+  "accessibility": {
+    "goBack": "Volver atrás",
+    "expandSection": "Expandir sección",
+    "collapseSection": "Contraer sección",
+    "openDetail": "Abrir detalle"
+  },
+  "notFound": {
+    "title": "Página no encontrada",
+    "message": "Lo sentimos, esta página no existe.",
+    "goHome": "Ir al inicio"
+  }
+}

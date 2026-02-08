@@ -1,0 +1,43 @@
+{
+  "title": "Apoyo emocional",
+  "subtitle": "Cuidar de ti es también cuidar de tu familiar",
+  "intro": "Tener a un ser querido en la UCI es una de las experiencias más difíciles que se pueden vivir. Es normal sentirse abrumado, perdido o sin fuerzas. Queremos que sepas que lo que sientes es completamente válido y que no tienes que enfrentar esto solo. Cuidar de tu bienestar emocional no es un lujo ni un egoísmo: es una necesidad para poder acompañar a tu familiar de la mejor manera posible.",
+  "sections": [
+    {
+      "id": "sentimientos",
+      "title": "Lo que puedes estar sintiendo",
+      "icon": "psychology",
+      "content": "Es posible que en estos días estés experimentando una montaña rusa de emociones que cambian de un momento a otro. El miedo a perder a tu ser querido, la incertidumbre sobre qué va a pasar, la impotencia de no poder hacer nada para mejorar la situación. Quizá sientas culpa: por no haber hecho algo antes, por ir a casa a descansar, por sentirte enfadado o incluso por tener momentos en los que te ríes o te distraes. Puede que sientas rabia hacia la situación, hacia los médicos, o incluso hacia la persona que está enferma. La tristeza profunda, el agotamiento emocional y la sensación de irrealidad, como si todo esto no pudiera estar pasando, son también reacciones muy frecuentes. Todas estas emociones son respuestas normales ante una situación que no es normal. No hay una forma correcta o incorrecta de sentir. Date permiso para sentir lo que sientes sin juzgarte."
+    },
+    {
+      "id": "estrategias",
+      "title": "Estrategias para estos días",
+      "icon": "spa",
+      "content": "Aunque la situación parece inabarcable, hay pequeñas cosas que puedes hacer para cuidarte y sentirte un poco mejor. Intenta mantener unas rutinas mínimas: comer aunque no tengas hambre, dormir aunque te cueste, salir a caminar aunque sea unos minutos. La respiración consciente puede ayudarte en los momentos de mayor angustia: inspira despacio contando hasta cuatro, mantén el aire contando hasta cuatro, y exhala contando hasta cuatro. Repítelo varias veces. Acepta la ayuda que te ofrezcan: cuando alguien te pregunte qué puede hacer, dile algo concreto como traerte comida, acompañarte al hospital o encargarse de una gestión. Escribe lo que sientes en un cuaderno o en el móvil; poner palabras a las emociones ayuda a procesarlas. Permite que otros te releven en el acompañamiento para que puedas descansar. No intentes ser fuerte todo el tiempo: llorar es necesario y liberador. Y recuerda que cuidar de ti no es abandonar a tu familiar; es recargar fuerzas para poder seguir a su lado."
+    },
+    {
+      "id": "profesional",
+      "title": "Ayuda profesional",
+      "icon": "support-agent",
+      "content": "Pedir ayuda profesional no es un signo de debilidad, sino de inteligencia y valentía. Los psicólogos del hospital están preparados para acompañarte en esta situación y pueden ofrecerte herramientas específicas para afrontar el estrés, la ansiedad y el duelo anticipatorio. Si sientes que la angustia no te deja dormir, comer o funcionar durante varios días seguidos, si tienes pensamientos de hacerte daño, o si sientes que ya no puedes más, es importante que busques ayuda cuanto antes. Pregunta al equipo de enfermería o de trabajo social del hospital cómo acceder al servicio de psicología. Muchos hospitales ofrecen además grupos de apoyo para familiares de pacientes en UCI, donde puedes compartir tu experiencia con otras personas que están pasando por lo mismo. También existen psicólogos externos especializados en crisis y duelo si prefieres un espacio fuera del hospital."
+    },
+    {
+      "id": "familia",
+      "title": "Cuidar las relaciones familiares",
+      "icon": "family-restroom",
+      "content": "Una situación de crisis en la UCI pone a prueba las relaciones familiares. Cada persona gestiona el dolor de una manera diferente: algunos necesitan hablar constantemente, otros prefieren el silencio; algunos quieren estar en el hospital todo el día, otros necesitan mantener distancia. Ninguna forma es mejor que otra. Intentad no juzgaros mutuamente ni interpretar las reacciones de los demás como falta de cariño o de preocupación. Es muy útil organizar turnos de acompañamiento y designar a una persona que centralice la información médica para transmitirla al resto, evitando así confusiones y agotamiento. Si surgen desacuerdos sobre decisiones médicas, pedid al equipo que os explique las opciones con calma y, si es necesario, solicitad una reunión familiar con el médico. Sed pacientes los unos con los otros: el agotamiento y el miedo pueden provocar discusiones que en circunstancias normales no ocurrirían."
+    },
+    {
+      "id": "ninos",
+      "title": "Hablar con los niños",
+      "icon": "child-care",
+      "content": "Explicar a un niño que un ser querido está en la UCI es difícil, pero los niños perciben que algo ocurre y necesitan información adaptada a su edad para no llenar los vacíos con su imaginación, que a menudo es peor que la realidad. Con los más pequeños, usa un lenguaje sencillo y concreto: 'El abuelo está muy malito y está en un hospital especial donde los médicos le cuidan mucho'. Evita expresiones como 'se ha dormido' porque pueden generar miedo a dormir. Con niños más mayores y adolescentes, puedes dar más detalles y permitir que hagan preguntas, respondiendo siempre con honestidad. Si el niño quiere visitar al familiar, prepárale explicándole qué va a ver: las máquinas, los tubos, los sonidos. Dile que puede tocarle la mano y hablarle. Pero respeta también si el niño prefiere no entrar; nunca le obligues. Es normal que los niños muestren su preocupación a través del comportamiento en lugar de las palabras: pueden estar más irritables, tener problemas para dormir o para concentrarse en el colegio. Mantén sus rutinas lo máximo posible y asegúrales que hay adultos cuidando de la situación."
+    },
+    {
+      "id": "recursos",
+      "title": "Recursos y líneas de ayuda",
+      "icon": "phone-in-talk",
+      "content": "Si necesitas hablar con alguien, hay personas dispuestas a escucharte en cualquier momento. El Teléfono de la Esperanza (717 003 717) ofrece atención las 24 horas para personas en situación de crisis emocional. La línea 024 está especializada en atención a la conducta suicida y es completamente gratuita y confidencial. El Colegio Oficial de Psicólogos de tu comunidad autónoma puede orientarte hacia profesionales especializados en crisis y duelo. Muchas asociaciones de pacientes ofrecen también grupos de apoyo específicos para familiares. No tienes que pasar por esto solo: hay una red de personas y recursos preparados para ayudarte, y utilizarlos es un acto de fortaleza, no de debilidad."
+    }
+  ]
+}

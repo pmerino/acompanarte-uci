@@ -1,0 +1,29 @@
+{
+  "title": "Trabajador/a social",
+  "subtitle": "Un recurso importante para las familias",
+  "intro": "El trabajador o trabajadora social del hospital es un profesional especializado en ayudar a las familias a afrontar las dificultades prácticas, emocionales y administrativas que surgen durante el ingreso de un ser querido en la UCI. Su función es orientarte, informarte sobre los recursos disponibles y acompañarte en la gestión de todo aquello que necesites para que puedas centrarte en lo más importante: estar junto a tu familiar. No dudes en solicitar una cita con este servicio, ya que está pensado precisamente para situaciones como la que estás viviendo y puede marcar una gran diferencia en tu experiencia hospitalaria. Muchas familias desconocen la existencia de este recurso o sienten que su situación no es lo suficientemente grave como para pedir ayuda, pero los trabajadores sociales están ahí para todos y cualquier consulta es válida.",
+  "services": [
+    {
+      "title": "Orientación y apoyo",
+      "description": "El trabajador social te ayudará a entender cómo funciona el sistema sanitario, qué trámites administrativos necesitas realizar y cómo navegar la burocracia hospitalaria. Puede orientarte sobre tus derechos como familiar, explicarte los procedimientos de consentimiento informado, ayudarte con la gestión de bajas laborales y asesorarte sobre cualquier aspecto legal o administrativo que te preocupe. Si te sientes perdido o abrumado ante la cantidad de información y decisiones que debes tomar, este profesional puede ser tu guía y tu punto de apoyo para poner orden y priorizar lo que necesitas resolver."
+    },
+    {
+      "title": "Recursos económicos",
+      "description": "Un ingreso prolongado en UCI puede generar dificultades económicas para la familia, desde gastos de desplazamiento y alojamiento hasta la pérdida de ingresos por no poder trabajar. El trabajador social puede informarte sobre prestaciones sociales, ayudas de emergencia, certificados de discapacidad, incapacidades laborales y otros recursos económicos a los que podrías tener derecho. También puede ponerte en contacto con organizaciones sociales y fundaciones que ofrecen apoyo económico a familias en situación de vulnerabilidad derivada de problemas de salud. No sientas vergüenza por preguntar: estos recursos existen precisamente para momentos como este."
+    },
+    {
+      "title": "Alojamiento y transporte",
+      "description": "Si vives lejos del hospital o necesitas permanecer cerca durante un periodo prolongado, el trabajador social puede ayudarte a encontrar opciones de alojamiento asequibles o gratuitas en las cercanías del centro hospitalario. Conoce los convenios existentes con hoteles, pisos de acogida de organizaciones solidarias y otros recursos comunitarios de alojamiento temporal. Además, puede informarte sobre ayudas para el transporte, servicios de ambulancia no urgente para futuros traslados del paciente y cualquier otra necesidad logística que surja durante la estancia."
+    },
+    {
+      "title": "Apoyo psicológico",
+      "description": "Tener a un familiar en la UCI es una de las experiencias más estresantes que una persona puede vivir, y es completamente normal necesitar apoyo emocional profesional. El trabajador social puede derivarte al servicio de psicología del hospital, informarte sobre grupos de apoyo para familiares de pacientes críticos y ponerte en contacto con asociaciones especializadas que ofrecen acompañamiento emocional. También puede coordinar intervenciones de apoyo para otros miembros de la familia, incluidos niños y adolescentes, que pueden estar viviendo esta situación con especial angustia."
+    },
+    {
+      "title": "Planificación del alta",
+      "description": "Cuando tu familiar comience a mejorar y se plantee el alta de la UCI o del hospital, el trabajador social será clave para ayudaros a preparar la transición al domicilio o a un centro de rehabilitación. Puede asesoraros sobre las adaptaciones que podría necesitar la vivienda, la tramitación de ayudas a la dependencia, la contratación de servicios de atención domiciliaria y la coordinación con los servicios de atención primaria y rehabilitación de vuestra zona. Planificar el alta con antelación reduce la ansiedad y asegura que tu familiar tendrá todo lo necesario para continuar su recuperación en las mejores condiciones posibles."
+    }
+  ],
+  "howToContact": "Para solicitar una cita con el trabajador social, puedes dirigirte directamente al mostrador de información del hospital o pedirle al equipo de enfermería de la UCI que tramite la solicitud. También puedes preguntar por el teléfono de contacto del servicio de trabajo social para llamar directamente y concertar una cita. No esperes a que la situación se complique: cuanto antes contactes con este servicio, antes podrán comenzar a ayudarte.",
+  "schedule": "El servicio de trabajo social suele estar disponible de lunes a viernes en horario de mañana, generalmente de 9:00 a 14:00, aunque algunos hospitales amplían este horario. Pregunta al equipo de enfermería o en el mostrador de información por los horarios exactos y la ubicación del despacho en tu hospital."
+}

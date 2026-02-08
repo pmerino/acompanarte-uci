@@ -1,0 +1,68 @@
+import { colors } from '@/constants/colors';
+import { MoreMenuItem } from './types';
+
+export const moreMenuItems: MoreMenuItem[] = [
+  {
+    id: 'help',
+    route: '/(tabs)/mas/ayudar',
+    icon: 'volunteer-activism',
+    color: colors.category.help,
+    colorLight: colors.lavenderLight,
+    titleKey: 'more.help',
+    descriptionKey: 'more.helpDescription',
+  },
+  {
+    id: 'social',
+    route: '/(tabs)/mas/trabajador-social',
+    icon: 'support-agent',
+    color: colors.category.social,
+    colorLight: colors.skyLight,
+    titleKey: 'more.social',
+    descriptionKey: 'more.socialDescription',
+  },
+  {
+    id: 'glossary',
+    route: '/(tabs)/mas/glosario',
+    icon: 'menu-book',
+    color: colors.category.glossary,
+    colorLight: colors.roseLight,
+    titleKey: 'more.glossary',
+    descriptionKey: 'more.glossaryDescription',
+  },
+  {
+    id: 'faq',
+    route: '/(tabs)/mas/faq',
+    icon: 'help-outline',
+    color: colors.category.faq,
+    colorLight: colors.primaryLight,
+    titleKey: 'more.faq',
+    descriptionKey: 'more.faqDescription',
+  },
+  {
+    id: 'emergency',
+    route: '/(tabs)/mas/emergencias',
+    icon: 'emergency',
+    color: colors.category.emergency,
+    colorLight: '#FCE8E4',
+    titleKey: 'more.emergency',
+    descriptionKey: 'more.emergencyDescription',
+  },
+  {
+    id: 'emotional',
+    route: '/(tabs)/mas/apoyo-emocional',
+    icon: 'spa',
+    color: colors.category.emotional,
+    colorLight: colors.lavenderLight,
+    titleKey: 'more.emotional',
+    descriptionKey: 'more.emotionalDescription',
+  },
+  {
+    id: 'settings',
+    route: '/(tabs)/mas/ajustes',
+    icon: 'settings',
+    color: colors.category.settings,
+    colorLight: colors.surfaceSecondary,
+    titleKey: 'more.settings',
+    descriptionKey: 'more.settingsDescription',
+  },
+];

@@ -1,0 +1,109 @@
+{
+  "title": "Glosario médico",
+  "subtitle": "Términos médicos explicados con claridad",
+  "searchPlaceholder": "Buscar término...",
+  "noResults": "No se encontraron términos que coincidan con tu búsqueda.",
+  "tip": "Si escuchas una palabra que no aparece aquí, no dudes en preguntar al equipo médico. Están para ayudarte.",
+  "terms": [
+    {
+      "term": "Intubación",
+      "definition": "Procedimiento en el que se introduce un tubo flexible a través de la boca o la nariz hasta la tráquea para mantener abiertas las vías respiratorias y permitir la entrada de aire a los pulmones. Se realiza cuando la persona no puede respirar por sí misma de forma segura. Aunque pueda parecer alarmante, es una medida habitual en la UCI que permite que los pulmones descansen y se recuperen."
+    },
+    {
+      "term": "Extubación",
+      "definition": "Es el proceso de retirar el tubo de intubación cuando el paciente ya es capaz de respirar de forma autónoma. Antes de realizarla, el equipo médico comprueba que los pulmones funcionan bien y que la persona puede mantener la respiración por sí sola. Es un paso muy positivo en la recuperación."
+    },
+    {
+      "term": "Sedación",
+      "definition": "Administración de medicamentos que mantienen al paciente dormido o en un estado de calma profunda. Se utiliza para que la persona no sienta dolor ni malestar mientras recibe tratamientos intensivos, como la ventilación mecánica. El nivel de sedación se ajusta constantemente según las necesidades del paciente."
+    },
+    {
+      "term": "Ventilación mecánica",
+      "definition": "Uso de una máquina llamada respirador o ventilador que ayuda al paciente a respirar cuando sus pulmones no pueden hacerlo por sí solos. El aparato introduce aire con oxígeno en los pulmones de forma controlada. Puede ser invasiva (con un tubo en la tráquea) o no invasiva (con una mascarilla ajustada a la cara)."
+    },
+    {
+      "term": "Saturación de oxígeno",
+      "definition": "Medida que indica la cantidad de oxígeno que transporta la sangre, expresada en porcentaje. Se mide con un pequeño sensor colocado en el dedo, llamado pulsioxímetro, que emite una luz roja. Un valor normal se sitúa entre el 95% y el 100%, y el equipo médico lo vigila de forma continua."
+    },
+    {
+      "term": "Presión arterial",
+      "definition": "Es la fuerza que ejerce la sangre sobre las paredes de las arterias al ser bombeada por el corazón. Se expresa con dos números: el de arriba (sistólica) indica la presión cuando el corazón late, y el de abajo (diastólica) cuando descansa entre latidos. Mantenerla estable es fundamental para que todos los órganos reciban suficiente sangre."
+    },
+    {
+      "term": "Frecuencia cardíaca",
+      "definition": "Es el número de veces que el corazón late por minuto. En adultos, lo normal en reposo está entre 60 y 100 latidos por minuto, aunque en la UCI puede variar según los medicamentos y el estado del paciente. Se monitoriza de forma continua en el monitor de cabecera, donde se ve como una línea verde que sube y baja con cada latido."
+    },
+    {
+      "term": "Catéter venoso central",
+      "definition": "Es un tubo fino y largo que se introduce en una vena grande del cuerpo, generalmente en el cuello, el pecho o la ingle. Permite administrar medicamentos, líquidos y nutrición directamente en el torrente sanguíneo de forma rápida y segura. También se usa para medir la presión venosa y extraer muestras de sangre sin necesidad de pinchazos repetidos."
+    },
+    {
+      "term": "Catéter arterial",
+      "definition": "Tubo muy fino que se coloca en una arteria, habitualmente en la muñeca, para medir la presión arterial de forma continua y precisa, latido a latido. También permite extraer muestras de sangre arterial para analizar los niveles de oxígeno y otros gases. Es distinto al catéter venoso y suele estar conectado a un monitor que muestra una onda roja."
+    },
+    {
+      "term": "Hemofiltración",
+      "definition": "Técnica de depuración de la sangre que se utiliza cuando los riñones no pueden filtrar adecuadamente las sustancias de desecho del organismo. La sangre pasa a través de un filtro especial que elimina líquidos y toxinas, y luego regresa limpia al cuerpo. Se realiza de forma continua y lenta, lo que la hace más suave que la diálisis convencional."
+    },
+    {
+      "term": "Diálisis",
+      "definition": "Procedimiento que sustituye la función de los riñones cuando estos no pueden trabajar correctamente. Mediante una máquina, se filtra la sangre para eliminar las sustancias tóxicas y el exceso de líquido que se acumulan en el cuerpo. Puede ser temporal mientras los riñones se recuperan, o puede necesitarse durante más tiempo según la evolución del paciente."
+    },
+    {
+      "term": "ECMO",
+      "definition": "Siglas en inglés de Oxigenación por Membrana Extracorpórea. Es una máquina que hace la función de los pulmones, del corazón, o de ambos, sacando la sangre del cuerpo, oxigenándola y devolviéndola ya limpia. Se utiliza en situaciones muy graves como último recurso cuando otros tratamientos no han sido suficientes. Es una técnica compleja pero que puede salvar vidas."
+    },
+    {
+      "term": "Pronación",
+      "definition": "Consiste en colocar al paciente boca abajo durante varias horas al día para mejorar la oxigenación de los pulmones. En esta posición, las zonas del pulmón que estaban comprimidas se abren y permiten una mejor entrada de aire. Es una técnica muy utilizada en pacientes con dificultad respiratoria grave y, aunque pueda resultar llamativa, es segura y muy eficaz."
+    },
+    {
+      "term": "Hemodinámico",
+      "definition": "Se refiere a todo lo relacionado con el flujo de la sangre a través del corazón y los vasos sanguíneos. Cuando el equipo médico habla de la situación hemodinámica del paciente, se refiere a cómo está funcionando su sistema circulatorio: si el corazón bombea bien, si la sangre llega correctamente a todos los órganos y si la presión arterial es adecuada."
+    },
+    {
+      "term": "Vasopresores",
+      "definition": "Medicamentos que se administran por vía intravenosa para elevar la presión arterial cuando esta está peligrosamente baja. Actúan contrayendo los vasos sanguíneos para que la sangre circule con más fuerza y llegue a todos los órganos. Son medicamentos muy habituales en la UCI y su dosis se ajusta constantemente según la respuesta del paciente."
+    },
+    {
+      "term": "Inotrópicos",
+      "definition": "Fármacos que aumentan la fuerza con la que el corazón se contrae, ayudándolo a bombear la sangre de forma más eficaz. Se utilizan cuando el corazón está debilitado y necesita un apoyo adicional para cumplir su función. Se administran por vía intravenosa con un control muy estricto de la dosis."
+    },
+    {
+      "term": "Edema",
+      "definition": "Acumulación de líquido en los tejidos del cuerpo que provoca hinchazón, visible sobre todo en las manos, los pies, las piernas o la cara. En la UCI puede producirse por la cantidad de sueros y medicamentos que se administran, o porque los riñones no eliminan líquido con suficiente rapidez. Aunque pueda impresionar, es algo frecuente y el equipo médico trabaja para controlarlo."
+    },
+    {
+      "term": "Sepsis",
+      "definition": "Respuesta descontrolada del cuerpo ante una infección, en la que el propio sistema inmunitario, al intentar combatir la infección, acaba dañando los órganos sanos. Es una situación grave que requiere tratamiento urgente con antibióticos y otras medidas de soporte. La detección temprana y el tratamiento rápido mejoran mucho las posibilidades de recuperación."
+    },
+    {
+      "term": "Shock séptico",
+      "definition": "Es la forma más grave de sepsis. Ocurre cuando la infección provoca una caída muy importante de la presión arterial que no se corrige solo con líquidos intravenosos, poniendo en peligro el funcionamiento de los órganos vitales. Requiere tratamiento intensivo con medicamentos vasopresores, antibióticos y vigilancia estrecha en la UCI."
+    },
+    {
+      "term": "Fallo multiorgánico",
+      "definition": "Situación en la que dos o más órganos del cuerpo dejan de funcionar correctamente al mismo tiempo, como los riñones, los pulmones o el hígado. Puede producirse como consecuencia de una infección grave, un accidente o una enfermedad severa. El equipo de la UCI trabaja para apoyar cada órgano afectado con máquinas y tratamientos específicos mientras el cuerpo intenta recuperarse."
+    },
+    {
+      "term": "Constantes vitales",
+      "definition": "Son las mediciones básicas que indican cómo está funcionando el cuerpo: frecuencia cardíaca, presión arterial, temperatura, frecuencia respiratoria y saturación de oxígeno. En la UCI se monitorizan de forma continua a través del monitor de cabecera. Los números y alarmas del monitor pueden resultar inquietantes, pero el equipo de enfermería los vigila permanentemente."
+    },
+    {
+      "term": "Gasometría",
+      "definition": "Análisis de sangre que mide los niveles de oxígeno, dióxido de carbono y el equilibrio ácido-base en la sangre. Se obtiene generalmente de una arteria, con frecuencia de la muñeca. Es una prueba muy habitual en la UCI que ayuda al equipo médico a ajustar el respirador y los tratamientos respiratorios."
+    },
+    {
+      "term": "Traqueostomía",
+      "definition": "Procedimiento quirúrgico en el que se realiza una pequeña abertura en la parte frontal del cuello para insertar un tubo directamente en la tráquea. Se propone cuando se prevé que el paciente necesitará ventilación mecánica durante un tiempo prolongado. Aunque pueda parecer un paso atrás, en realidad es una medida que mejora la comodidad del paciente, facilita su higiene y favorece la recuperación."
+    },
+    {
+      "term": "Weaning (destete del respirador)",
+      "definition": "Proceso gradual de retirada de la ventilación mecánica a medida que el paciente va recuperando la capacidad de respirar por sí mismo. Se hace poco a poco, reduciendo la ayuda del respirador y comprobando que la persona tolera bien cada paso. Es un proceso que puede durar días o semanas, y cada pequeño avance es un signo positivo de recuperación."
+    },
+    {
+      "term": "Balance hídrico",
+      "definition": "Control que lleva el equipo de enfermería sobre la cantidad de líquido que entra en el cuerpo (sueros, medicamentos, nutrición) y la que sale (orina, drenajes, pérdidas). Mantener un equilibrio adecuado es fundamental para evitar que se acumule líquido en exceso o que el paciente se deshidrate. Se calcula cada pocas horas y guía las decisiones sobre la administración de líquidos y diuréticos."
+    }
+  ]
+}

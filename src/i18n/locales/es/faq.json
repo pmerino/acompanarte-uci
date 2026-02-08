@@ -1,0 +1,111 @@
+{
+  "title": "Preguntas frecuentes",
+  "subtitle": "Respuestas a las dudas más comunes sobre la UCI",
+  "note": "Cada situación es diferente. Estas respuestas son orientativas y generales. El equipo médico que atiende a tu familiar es quien mejor puede resolver tus dudas concretas.",
+  "categories": [
+    {
+      "name": "Sobre la estancia en UCI",
+      "icon": "bed",
+      "questions": [
+        {
+          "question": "¿Cuánto tiempo estará mi familiar en la UCI?",
+          "answer": "Sabemos que esta es una de las preguntas que más preocupa, y es completamente comprensible. La duración de la estancia en UCI varía mucho de una persona a otra y depende de la enfermedad, la respuesta al tratamiento y la evolución de cada paciente. Hay personas que permanecen unos días y otras que necesitan semanas. El equipo médico te irá informando de la evolución y, cuando sea posible, te dará una estimación más concreta. Intenta centrarte en los avances del día a día, por pequeños que parezcan."
+        },
+        {
+          "question": "¿Por qué hay tantas máquinas y cables conectados?",
+          "answer": "Es normal que la cantidad de aparatos que rodean a tu familiar resulte impactante la primera vez. Cada máquina cumple una función importante: los monitores vigilan constantemente las constantes vitales, las bombas de infusión administran medicamentos con precisión, y el respirador ayuda a respirar si es necesario. Los cables y tubos son herramientas que permiten al equipo médico cuidar a tu familiar de la mejor forma posible. Con el tiempo, te irás familiarizando con ellos y te resultarán menos intimidantes."
+        },
+        {
+          "question": "¿Mi familiar siente dolor?",
+          "answer": "El control del dolor es una prioridad absoluta en la UCI. El equipo de enfermería evalúa regularmente el nivel de dolor del paciente utilizando escalas especiales, incluso cuando la persona no puede comunicarse verbalmente. Si se detecta cualquier signo de dolor o malestar, se administra la medicación necesaria de inmediato. Si tu familiar está sedado, los fármacos de sedación también incluyen componentes analgésicos. Puedes quedarte tranquilo sabiendo que su comodidad es siempre una prioridad."
+        },
+        {
+          "question": "¿Mi familiar puede oírme aunque esté sedado?",
+          "answer": "Aunque no podemos afirmarlo con total certeza, existe evidencia científica que sugiere que las personas sedadas pueden percibir la presencia y la voz de sus seres queridos. Muchos pacientes, al despertar, recuerdan haber escuchado voces familiares durante su estancia en la UCI. Por eso te animamos a hablarle con normalidad, a contarle cosas del día a día, a tocarle la mano con suavidad. Tu presencia y tu voz pueden ser una fuente de consuelo muy importante para su recuperación."
+        },
+        {
+          "question": "¿Qué significa que el paciente está estable?",
+          "answer": "Cuando el equipo médico dice que tu familiar está estable, significa que sus constantes vitales (presión arterial, frecuencia cardíaca, oxigenación) se mantienen dentro de unos valores aceptables y no están cambiando de forma preocupante. Es un término positivo que indica que la situación está controlada en ese momento, aunque no implica necesariamente que haya mejorado respecto al día anterior. Si escuchas que está estable dentro de la gravedad, significa que sigue siendo una situación seria pero que no hay un empeoramiento activo."
+        }
+      ]
+    },
+    {
+      "name": "Sobre las visitas",
+      "icon": "people",
+      "questions": [
+        {
+          "question": "¿Cuántas veces al día puedo visitar a mi familiar?",
+          "answer": "Los horarios y las normas de visita varían según cada hospital y cada unidad de cuidados intensivos. Generalmente hay franjas horarias establecidas, y puede haber límite en el número de acompañantes que pueden entrar a la vez. Te recomendamos preguntar al equipo de enfermería de la unidad cuáles son los horarios exactos y las normas específicas. Muchas UCI están evolucionando hacia modelos de puertas abiertas con horarios más amplios, especialmente para familiares directos."
+        },
+        {
+          "question": "¿Puedo tocar a mi familiar durante la visita?",
+          "answer": "Sí, en la mayoría de los casos puedes tocar a tu familiar. El contacto físico, como cogerle la mano, acariciarle suavemente el brazo o la frente, es muy beneficioso y reconfortante tanto para el paciente como para ti. El equipo de enfermería te indicará cómo hacerlo con cuidado para no mover cables o catéteres. En algunos casos excepcionales, como ciertos aislamientos, puede ser necesario usar guantes, pero aun así podrás mantener ese contacto tan importante."
+        },
+        {
+          "question": "¿Pueden entrar los niños a la UCI?",
+          "answer": "Las normas sobre la entrada de menores varían según el hospital. Algunos permiten la visita de niños a partir de cierta edad con autorización previa, mientras que otros restringen el acceso. Si quieres que un niño visite a tu familiar, lo mejor es hablarlo primero con el equipo médico y con el servicio de psicología del hospital, que pueden orientarte sobre cómo preparar al niño para la visita. Es importante que el niño sepa de antemano qué se va a encontrar y que tenga la opción de decidir si quiere entrar o no."
+        },
+        {
+          "question": "¿Qué puedo llevar a la habitación de mi familiar?",
+          "answer": "Generalmente puedes llevar objetos personales que aporten confort emocional, como fotografías de la familia, una pequeña imagen religiosa o un objeto significativo. Consulta siempre con enfermería antes de llevar cualquier cosa, ya que hay normas de higiene que respetar. Normalmente no se permiten flores naturales ni alimentos. Algunos hospitales permiten llevar un pequeño reproductor de música con auriculares, algo que puede ser muy beneficioso para el paciente."
+        },
+        {
+          "question": "¿Por qué a veces me hacen esperar fuera aunque sea la hora de visita?",
+          "answer": "Si te piden que esperes unos minutos antes de entrar, es porque en ese momento el equipo está realizando algún procedimiento o cura que requiere intimidad y esterilidad, o puede que estén atendiendo una urgencia en la unidad. No significa necesariamente que haya ocurrido algo malo con tu familiar. El equipo siempre te informará de la situación en cuanto sea posible. Sabemos que esos minutos de espera pueden hacerse muy largos, pero te pedimos un poco de paciencia."
+        }
+      ]
+    },
+    {
+      "name": "Sobre los tratamientos",
+      "icon": "medication",
+      "questions": [
+        {
+          "question": "¿Por qué cambian los tratamientos con tanta frecuencia?",
+          "answer": "En la UCI, los tratamientos se ajustan constantemente porque el estado del paciente puede cambiar de hora en hora. El equipo médico monitoriza de forma continua las constantes vitales, los análisis de sangre y la respuesta a los medicamentos, y adapta el tratamiento en función de toda esa información. Un cambio de tratamiento no significa necesariamente que algo vaya mal; a menudo es una señal de que el equipo está siendo muy meticuloso y personaliza la atención a cada momento."
+        },
+        {
+          "question": "¿Es normal que le pongan tantos medicamentos a la vez?",
+          "answer": "Sí, en la UCI es habitual que se administren varios medicamentos simultáneamente. Cada uno cumple una función específica: unos combaten la infección, otros mantienen la presión arterial, otros controlan el dolor, otros protegen el estómago, y así sucesivamente. El equipo farmacéutico colabora estrechamente con los médicos para asegurarse de que todos los medicamentos sean compatibles entre sí y se administren en las dosis correctas. Es un trabajo de equipo muy coordinado."
+        },
+        {
+          "question": "¿Qué significa que van a hacer una prueba de imagen?",
+          "answer": "Las pruebas de imagen, como las radiografías, los escáneres (TAC) o las ecografías, permiten al equipo médico ver el interior del cuerpo sin necesidad de cirugía. Son herramientas fundamentales para diagnosticar problemas, comprobar la posición de los tubos y catéteres, y valorar cómo evolucionan los pulmones u otros órganos. Son pruebas seguras e indoloras que proporcionan información muy valiosa para tomar las mejores decisiones de tratamiento."
+        },
+        {
+          "question": "¿Cuándo podrá empezar a comer mi familiar?",
+          "answer": "Mientras el paciente está conectado a un respirador o profundamente sedado, recibe nutrición a través de una sonda que llega al estómago o directamente por vía intravenosa. Cuando su estado lo permita, se irá introduciendo la alimentación de forma gradual, empezando por líquidos y avanzando hacia alimentos más sólidos. El equipo de nutrición del hospital participa activamente en este proceso. Cada paso es un avance positivo en la recuperación."
+        },
+        {
+          "question": "¿Pueden surgir complicaciones durante el ingreso en UCI?",
+          "answer": "En la UCI se trata a pacientes con enfermedades graves, y pueden surgir complicaciones a lo largo del ingreso, como infecciones hospitalarias, problemas renales o complicaciones respiratorias. El equipo médico está preparado para detectarlas y tratarlas lo antes posible. Si aparece alguna complicación, te lo comunicarán y te explicarán cómo se va a abordar. Es importante que sepas que el equipo trabaja incansablemente para prevenirlas y resolverlas cuanto antes."
+        }
+      ]
+    },
+    {
+      "name": "Sobre la comunicación con el equipo",
+      "icon": "forum",
+      "questions": [
+        {
+          "question": "¿Con quién puedo hablar para saber cómo está mi familiar?",
+          "answer": "La persona de referencia para la información médica diaria es el médico responsable de tu familiar. Normalmente, cada día hay un horario establecido para que el médico informe a los familiares sobre la evolución del paciente. El equipo de enfermería también puede orientarte sobre los cuidados y la situación general, y está presente las 24 horas. Te recomendamos designar una persona de la familia como interlocutor principal para recibir la información y transmitirla al resto, lo que facilita la comunicación y evita malentendidos."
+        },
+        {
+          "question": "¿Puedo pedir una segunda opinión médica?",
+          "answer": "Es tu derecho solicitar una segunda opinión sobre el diagnóstico o el tratamiento de tu familiar. Si sientes que necesitas otra valoración, puedes comunicárselo al equipo médico de la UCI, que lo gestionará o te indicará cómo proceder. No te sientas culpable por pedirlo; es algo completamente normal y legítimo. El equipo médico lo entenderá y colaborará en el proceso."
+        },
+        {
+          "question": "¿Qué hago si no entiendo lo que me explica el médico?",
+          "answer": "Es muy común no comprender toda la información médica, especialmente en una situación de tanto estrés emocional. No dudes en pedir al médico que te lo explique con palabras más sencillas o que repita lo que no hayas entendido. Puedes llevar un cuaderno para anotar las preguntas que te surjan entre visita y visita, y así no se te olvida nada. También puedes consultar el glosario de esta aplicación para familiarizarte con los términos más frecuentes. Ninguna pregunta es tonta ni molesta."
+        },
+        {
+          "question": "¿Es posible hablar por teléfono con mi familiar si está consciente?",
+          "answer": "En muchos casos, sí es posible establecer comunicación telefónica o por videollamada con el paciente, siempre que su estado lo permita y con la colaboración del equipo de enfermería. Algunas UCI disponen de tabletas o facilitan este tipo de contacto, especialmente cuando los horarios de visita son limitados. Pregunta al equipo si esta opción está disponible en tu caso. Escuchar la voz de la familia puede ser enormemente beneficioso para la recuperación."
+        },
+        {
+          "question": "¿Puedo acceder al historial clínico de mi familiar?",
+          "answer": "Tienes derecho a recibir información clara y comprensible sobre el estado de salud de tu familiar. El acceso al historial clínico completo está regulado por ley y generalmente requiere la autorización del paciente o, si este no puede darla, de su representante legal. El servicio de Atención al Paciente del hospital puede informarte sobre los trámites necesarios. En cualquier caso, el equipo médico tiene la obligación de mantenerte informado de la evolución y los tratamientos de forma comprensible."
+        }
+      ]
+    }
+  ]
+}

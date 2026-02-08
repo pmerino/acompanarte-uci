@@ -1,0 +1,178 @@
+{
+  "title": "Patologías",
+  "subtitle": "Entiende el diagnóstico de tu familiar",
+  "sdra": {
+    "name": "Síndrome de Distrés Respiratorio Agudo (SDRA)",
+    "summary": "Una afección grave en la que los pulmones se inflaman y se llenan de líquido, dificultando la respiración. El cuerpo no consigue recibir el oxígeno que necesita por sí solo y requiere ayuda mecánica para respirar.",
+    "whatIsIt": "El SDRA ocurre cuando los pulmones sufren una inflamación severa que hace que los pequeños sacos de aire (alvéolos) se llenen de líquido. Esto dificulta enormemente el paso del oxígeno a la sangre, por lo que el cuerpo no recibe el oxígeno que necesita para funcionar. Puede aparecer como consecuencia de una neumonía grave, una infección generalizada, la aspiración de contenido gástrico o incluso tras un traumatismo importante. No es una enfermedad en sí misma, sino la respuesta de los pulmones a una agresión severa. El equipo médico trabaja para sostener la respiración de tu familiar mientras sus pulmones se recuperan. Aunque es una situación seria, muchos pacientes logran superar esta fase con el tratamiento adecuado y el tiempo necesario.",
+    "whatToExpect": "Es normal sentirse preocupado/a al ver a tu familiar conectado/a a un respirador mecánico. Verás un tubo que va desde la boca hasta los pulmones: es el tubo endotraqueal, y es el que permite que la máquina respire por él o ella. Los monitores mostrarán números y curvas que el equipo de enfermería vigila constantemente, incluyendo la saturación de oxígeno y la frecuencia cardíaca. Tu familiar probablemente estará sedado/a para que no sienta molestias y para que sus pulmones puedan descansar. Es posible que en algún momento lo coloquen boca abajo (posición prono); esto no es motivo de alarma, sino una técnica que mejora mucho la oxigenación. También puede tener varias vías intravenosas, una sonda vesical y otros dispositivos de monitorización que, aunque impresionen, son necesarios para su cuidado.",
+    "commonTreatments": [
+      "Ventilación mecánica protectora para ayudar a los pulmones a descansar y evitar que se dañen más",
+      "Posición prono (boca abajo) para mejorar la oxigenación aprovechando la gravedad",
+      "Sedación y, en ocasiones, relajantes musculares para mantener al paciente confortable mientras el respirador trabaja",
+      "Medicamentos para controlar la inflamación y tratar la causa que originó el SDRA",
+      "Fisioterapia respiratoria cuando la evolución lo permite, para ayudar a recuperar la función pulmonar",
+      "Control estricto de los líquidos administrados para evitar sobrecargar los pulmones",
+      "Monitorización continua de los niveles de oxígeno y ajuste personalizado de los parámetros del respirador"
+    ],
+    "faqs": [
+      {
+        "question": "¿Se va a recuperar?",
+        "answer": "Sabemos que esta es la pregunta más importante para ti. La recuperación del SDRA depende de varios factores: la causa que lo originó, la gravedad de la afectación pulmonar y el estado de salud previo de tu familiar. Muchos pacientes se recuperan, aunque el proceso suele ser lento y puede llevar semanas. Los pulmones tienen una capacidad notable de repararse. El equipo médico hace todo lo posible para dar a los pulmones el tiempo y las condiciones que necesitan para sanar. Es importante que cuides de ti mismo/a durante este proceso, porque tu familiar va a necesitar tu apoyo también durante la fase de recuperación."
+      },
+      {
+        "question": "¿Por qué está boca abajo?",
+        "answer": "La posición prono (boca abajo) es una de las técnicas más eficaces que tenemos para mejorar la oxigenación en pacientes con SDRA. Cuando una persona está boca arriba, el peso de los pulmones comprime las zonas posteriores y dificulta la entrada de aire en esas áreas. Al colocarlo/a boca abajo, se redistribuye ese peso y se permite que zonas del pulmón que antes estaban comprimidas puedan abrirse y recibir oxígeno. Es un procedimiento habitual y seguro que el equipo de enfermería y los médicos realizan con mucho cuidado. No causa dolor al paciente porque está sedado/a, y suele mejorar notablemente los niveles de oxígeno en sangre."
+      },
+      {
+        "question": "¿Puede oírme aunque esté sedado/a?",
+        "answer": "Varios estudios científicos sugieren que los pacientes sedados pueden percibir estímulos del entorno, incluyendo las voces de sus seres queridos. Aunque no puedan responder o abrir los ojos, el cerebro puede registrar sonidos familiares. Muchos pacientes que han pasado por la UCI recuerdan haber escuchado a sus familiares y dicen que les reconfortó. Por eso te animamos a hablarle con cariño, contarle cosas cotidianas, decirle que estás ahí. Tu voz puede ser un ancla de tranquilidad en medio de una situación que para él o ella es desconocida. No subestimes el poder de tu presencia y tus palabras."
+      }
+    ]
+  },
+  "sepsis": {
+    "name": "Sepsis",
+    "summary": "Una respuesta descontrolada del organismo ante una infección, que puede afectar al funcionamiento de órganos vitales. Es una emergencia médica que requiere tratamiento inmediato y vigilancia intensiva.",
+    "whatIsIt": "La sepsis ocurre cuando el cuerpo, al intentar combatir una infección, desencadena una respuesta inflamatoria tan intensa que acaba dañando sus propios órganos. Normalmente, el sistema inmunitario combate las infecciones de forma controlada, pero en la sepsis esa respuesta se descontrola y se extiende por todo el organismo. La infección original puede venir de los pulmones (neumonía), del tracto urinario, del abdomen, de una herida o de cualquier otro foco. Cuando la sepsis provoca una caída importante de la presión arterial y el cuerpo no recibe suficiente sangre, se habla de shock séptico, que es la forma más grave. El tratamiento rápido con antibióticos y líquidos intravenosos es fundamental para la recuperación. El equipo médico trabaja para eliminar la infección y sostener el funcionamiento de los órganos mientras el cuerpo se recupera.",
+    "whatToExpect": "Tu familiar puede tener fiebre alta o, en algunos casos, temperatura más baja de lo normal. Verás que tiene varias vías intravenosas por las que se administran antibióticos, líquidos y, en ocasiones, medicamentos para mantener la tensión arterial (vasopresores). Los monitores mostrarán constantemente la frecuencia cardíaca, la presión arterial, la saturación de oxígeno y otros valores que el equipo vigila de cerca. Es posible que tu familiar esté confuso/a, adormilado/a o agitado/a, ya que la sepsis puede afectar temporalmente al cerebro. En los casos más graves, puede necesitar respirador mecánico o incluso diálisis temporal si los riñones se ven afectados. Aunque ver todo esto asusta, cada uno de estos dispositivos y tratamientos está ahí para ayudar al cuerpo de tu familiar a superar la infección.",
+    "commonTreatments": [
+      "Antibióticos intravenosos de amplio espectro administrados lo antes posible para combatir la infección",
+      "Administración de líquidos intravenosos para mantener una presión arterial adecuada y la perfusión de los órganos",
+      "Vasopresores (medicamentos para subir la tensión arterial) si los líquidos no son suficientes",
+      "Identificación y control del foco de infección, que puede incluir cirugía o drenajes si es necesario",
+      "Soporte de los órganos afectados: respirador, diálisis u otros tratamientos según sea necesario",
+      "Analíticas frecuentes para controlar la respuesta al tratamiento y ajustar los antibióticos",
+      "Control estricto de los niveles de azúcar en sangre y nutrición adecuada"
+    ],
+    "faqs": [
+      {
+        "question": "¿Cómo ha cogido una infección tan grave?",
+        "answer": "La sepsis puede desarrollarse a partir de cualquier infección, incluso una que al principio parecía leve. Las más frecuentes son las neumonías, las infecciones urinarias, las infecciones abdominales y las infecciones de heridas. No significa que se haya hecho algo mal ni que se haya descuidado su salud. Algunas personas son más vulnerables: personas mayores, pacientes con enfermedades crónicas, personas con el sistema inmunitario debilitado o quienes han pasado por cirugías recientes. Lo importante es que se ha identificado la infección y se está tratando de forma intensiva. El equipo médico está utilizando todos los recursos disponibles para combatirla."
+      },
+      {
+        "question": "¿Por qué necesita tantos medicamentos y vías?",
+        "answer": "En la sepsis, la infección afecta a todo el organismo, por lo que el tratamiento también tiene que actuar a varios niveles al mismo tiempo. Los antibióticos combaten directamente las bacterias. Los líquidos intravenosos ayudan a mantener la presión arterial y a que la sangre llegue bien a todos los órganos. Los vasopresores refuerzan esa presión cuando los líquidos solos no bastan. Puede haber medicamentos para proteger el estómago, para controlar el azúcar, para prevenir trombos y para aliviar el dolor o la ansiedad. Cada vía y cada medicamento tiene una función concreta. Sabemos que ver tantos cables y bolsas de suero impresiona, pero todo forma parte de un plan de tratamiento cuidadosamente coordinado."
+      },
+      {
+        "question": "¿Cuánto tiempo tardará en mejorar?",
+        "answer": "La evolución de la sepsis es variable y depende de muchos factores: el tipo de infección, lo rápido que se inició el tratamiento, la edad del paciente y su estado de salud previo. En los primeros días, el equipo médico se centra en estabilizar al paciente y controlar la infección. Es habitual que haya altibajos: días en los que parece que mejora y otros en los que surgen complicaciones. No te desanimes si la recuperación no es lineal. Normalmente, cuando los antibióticos empiezan a hacer efecto y la infección remite, los órganos van recuperando su función poco a poco. La estancia en UCI puede prolongarse desde unos días hasta varias semanas, y después suele haber un período de recuperación en planta. Tu acompañamiento y paciencia son muy valiosos en este proceso."
+      }
+    ]
+  },
+  "iam": {
+    "name": "Infarto Agudo de Miocardio",
+    "summary": "Ocurre cuando una arteria del corazón se obstruye y una parte del músculo cardíaco deja de recibir sangre y oxígeno. Es una urgencia en la que cada minuto cuenta para salvar la mayor cantidad de tejido cardíaco posible.",
+    "whatIsIt": "El infarto agudo de miocardio, comúnmente conocido como ataque al corazón, se produce cuando una de las arterias coronarias (los vasos que llevan sangre al propio corazón) se bloquea, generalmente por un coágulo que se forma sobre una placa de grasa acumulada en la pared de la arteria. Al no recibir sangre, esa zona del músculo cardíaco comienza a dañarse. Cuanto más tiempo pasa sin flujo sanguíneo, mayor es el daño. Por eso la rapidez en el tratamiento es tan importante: abrir la arteria lo antes posible permite salvar la mayor cantidad de músculo cardíaco. Los síntomas más comunes son dolor intenso en el pecho, que puede irradiarse al brazo izquierdo, la mandíbula o la espalda, acompañado de sudoración, náuseas y dificultad para respirar. Gracias a los avances médicos actuales, muchas personas sobreviven y se recuperan bien de un infarto cuando reciben atención rápida.",
+    "whatToExpect": "Si tu familiar ha sido sometido a un cateterismo (un procedimiento para abrir la arteria bloqueada), probablemente verás un vendaje en la muñeca o la ingle, que es por donde se introdujo el catéter. Estará conectado/a a un monitor cardíaco que muestra el ritmo del corazón de forma continua; es normal que suene alguna alarma ocasional, el personal sabe interpretar cada una de ellas. Tendrá varias vías intravenosas para administrar medicamentos que protegen el corazón y previenen nuevos coágulos. Puede que lleve también una mascarilla o unas gafitas de oxígeno. En las primeras horas se le pedirá que guarde reposo absoluto. Es normal que tu familiar sienta cansancio, ansiedad o miedo; tu presencia tranquila y cariñosa es una de las mejores medicinas en este momento.",
+    "commonTreatments": [
+      "Cateterismo cardíaco urgente con angioplastia y colocación de stent para abrir la arteria bloqueada",
+      "Medicamentos anticoagulantes y antiagregantes para evitar la formación de nuevos coágulos",
+      "Betabloqueantes para reducir el esfuerzo del corazón y proteger el músculo cardíaco",
+      "Estatinas para controlar el colesterol y estabilizar las placas en las arterias",
+      "Monitorización continua del ritmo cardíaco para detectar y tratar posibles arritmias",
+      "Rehabilitación cardíaca progresiva, que incluye ejercicio supervisado y educación sobre hábitos saludables",
+      "Control de factores de riesgo: tensión arterial, azúcar en sangre, tabaco y alimentación"
+    ],
+    "faqs": [
+      {
+        "question": "¿Le puede volver a dar otro infarto?",
+        "answer": "Es comprensible que te preocupe esta posibilidad. El riesgo de un nuevo infarto existe, pero se puede reducir significativamente con el tratamiento y los cambios en el estilo de vida adecuados. Los medicamentos que le han recetado (antiagregantes, estatinas, betabloqueantes) están diseñados precisamente para proteger el corazón y evitar que se repita. Además, la rehabilitación cardíaca y las modificaciones en la dieta, el ejercicio y, si fumaba, dejar el tabaco, son herramientas muy poderosas para reducir ese riesgo. Tu apoyo será fundamental en este cambio de hábitos. Juntos, podéis construir una vida más saludable para el corazón."
+      },
+      {
+        "question": "¿Podrá hacer vida normal después?",
+        "answer": "La gran mayoría de pacientes que sobreviven a un infarto pueden volver a llevar una vida plena y activa. La recuperación es gradual: las primeras semanas requieren más reposo y cuidados, pero poco a poco se va retomando la actividad. La rehabilitación cardíaca es un programa supervisado que ayuda a recuperar la confianza en el cuerpo y a mejorar la capacidad física de forma segura. Con el tiempo, muchos pacientes vuelven a trabajar, a viajar y a disfrutar de sus actividades favoritas. Lo más importante es seguir el tratamiento médico, acudir a las revisiones y adoptar hábitos cardiosaludables. El infarto puede ser un punto de inflexión para empezar a cuidarse más y mejor."
+      },
+      {
+        "question": "¿Qué es un stent y se quedará ahí para siempre?",
+        "answer": "Un stent es un pequeño tubo de malla metálica que se coloca dentro de la arteria del corazón que estaba bloqueada. Funciona como un andamio que mantiene la arteria abierta para que la sangre fluya con normalidad. Se coloca durante el cateterismo, un procedimiento que se realiza a través de un pequeño pinchazo en la muñeca o la ingle, sin necesidad de abrir el pecho. Sí, el stent se queda de forma permanente en la arteria; con el tiempo, la pared de la arteria crece alrededor de él y lo incorpora. La mayoría de los stents actuales están recubiertos con un medicamento que previene que la arteria se vuelva a estrechar. Para que el stent funcione bien, es fundamental que tu familiar tome la medicación antiagregante que le prescriban durante el tiempo indicado, sin saltarse ninguna dosis."
+      }
+    ]
+  },
+  "ictus": {
+    "name": "Ictus (Accidente Cerebrovascular)",
+    "summary": "Se produce cuando el flujo de sangre a una parte del cerebro se interrumpe (ictus isquémico) o cuando un vaso sanguíneo cerebral se rompe (ictus hemorrágico). Las células cerebrales de la zona afectada dejan de recibir oxígeno y empiezan a dañarse.",
+    "whatIsIt": "El ictus, también llamado accidente cerebrovascular o derrame cerebral, ocurre cuando una zona del cerebro deja de recibir la sangre que necesita. Hay dos tipos principales: el ictus isquémico, que es el más frecuente y se produce cuando un coágulo obstruye una arteria cerebral, y el ictus hemorrágico, que sucede cuando un vaso sanguíneo del cerebro se rompe y produce una hemorragia. En ambos casos, las células cerebrales de la zona afectada empiezan a sufrir daño por falta de oxígeno. Las consecuencias dependen de qué parte del cerebro se haya visto afectada: puede haber dificultad para mover un lado del cuerpo, problemas para hablar o entender, alteraciones en la visión o cambios en el comportamiento. La rapidez en el tratamiento es crucial, ya que cuanto antes se restablezca el flujo sanguíneo o se controle la hemorragia, menor será el daño permanente. El cerebro tiene una capacidad de adaptación llamada neuroplasticidad, que permite que otras áreas asuman parcialmente las funciones de las zonas dañadas.",
+    "whatToExpect": "Al llegar a la UCI, verás que tu familiar está conectado/a a monitores que vigilan su presión arterial, frecuencia cardíaca y nivel de oxígeno de forma continua. Es posible que tenga dificultad para hablar, para mover alguna parte del cuerpo o que parezca confuso/a; esto se debe a la zona del cerebro que se ha visto afectada. El equipo médico realizará pruebas de imagen del cerebro (TAC o resonancia magnética) para evaluar la extensión del daño. Si el ictus es isquémico, puede que le hayan administrado un tratamiento para disolver el coágulo o que se haya realizado un procedimiento para extraerlo. Es importante saber que las primeras horas y días son críticos para la vigilancia, ya que puede haber hinchazón cerebral que el equipo controla de cerca. Aunque la situación pueda ser muy impactante, recuerda que la rehabilitación temprana puede marcar una gran diferencia en la recuperación.",
+    "commonTreatments": [
+      "Trombólisis intravenosa (medicamento para disolver el coágulo) en el ictus isquémico, si se administra a tiempo",
+      "Trombectomía mecánica (extracción del coágulo mediante catéter) en casos seleccionados de ictus isquémico",
+      "Control estricto de la presión arterial para proteger el cerebro",
+      "Medicación para prevenir nuevos coágulos o episodios hemorrágicos según el tipo de ictus",
+      "Monitorización neurológica frecuente para detectar cambios en el estado del paciente",
+      "Rehabilitación temprana: fisioterapia, logopedia y terapia ocupacional desde los primeros días",
+      "Cirugía en algunos casos de ictus hemorrágico para drenar la sangre o reparar el vaso dañado"
+    ],
+    "faqs": [
+      {
+        "question": "¿Volverá a hablar y a moverse con normalidad?",
+        "answer": "La recuperación tras un ictus es un proceso que varía mucho de una persona a otra y depende de la zona del cerebro afectada, la extensión del daño y la rapidez con que se inició el tratamiento. Lo que sí sabemos es que el cerebro tiene una capacidad asombrosa de reorganizarse y crear nuevas conexiones, un proceso llamado neuroplasticidad. La rehabilitación es la herramienta más poderosa para estimular esa recuperación: la fisioterapia ayuda a recuperar la movilidad, la logopedia trabaja el habla y la deglución, y la terapia ocupacional enseña a realizar las actividades del día a día. La mayor parte de la recuperación ocurre en los primeros meses, pero puede seguir habiendo mejoras hasta un año o más después del ictus. Tu apoyo, tu paciencia y tu ánimo son fundamentales en este camino."
+      },
+      {
+        "question": "¿Por qué le cuesta hablar o no entiende lo que le digo?",
+        "answer": "Las áreas del cerebro que controlan el lenguaje suelen estar en el lado izquierdo. Cuando el ictus afecta a esas áreas, pueden aparecer dificultades para hablar o para comprender lo que se le dice; a esto se le llama afasia. Es importante entender que la afasia no significa que tu familiar haya perdido la inteligencia: sigue pensando y sintiendo, pero tiene dificultad para expresar o procesar las palabras, como si el idioma se hubiera vuelto extranjero de repente. Hay diferentes grados y tipos de afasia. La logopedia es fundamental para mejorar estas habilidades. Mientras tanto, puedes ayudar hablándole despacio, con frases cortas, usando gestos y dándole tiempo para responder sin presionarle. Tu paciencia y cariño son el mejor estímulo."
+      },
+      {
+        "question": "¿Puede volver a repetirse?",
+        "answer": "Uno de los objetivos principales del tratamiento es, precisamente, evitar que el ictus se repita. Para ello, el equipo médico identificará las causas que lo provocaron y pondrá en marcha medidas preventivas. Si la causa fue un coágulo, probablemente necesite medicación anticoagulante o antiagregante de forma prolongada. Se controlará la presión arterial, el colesterol, el azúcar en sangre y otros factores de riesgo. Si fumaba, dejarlo será una de las medidas más efectivas. También puede ser necesario tratar arritmias como la fibrilación auricular, que favorece la formación de coágulos. Siguiendo el tratamiento médico y adoptando hábitos de vida saludables, el riesgo de un nuevo ictus se reduce de manera importante. Las revisiones periódicas con neurología y cardiología serán parte del seguimiento."
+      }
+    ]
+  },
+  "politrauma": {
+    "name": "Politraumatismo",
+    "summary": "Se refiere a la presencia de lesiones graves en varias partes del cuerpo producidas por un accidente o traumatismo de alta energía. Requiere atención inmediata de múltiples especialistas y vigilancia intensiva.",
+    "whatIsIt": "El politraumatismo ocurre cuando una persona sufre lesiones graves que afectan a dos o más regiones del cuerpo, como consecuencia de accidentes de tráfico, caídas desde gran altura, accidentes laborales u otros eventos de alta energía. Las lesiones pueden afectar a los huesos, los órganos internos, el cerebro, los vasos sanguíneos o cualquier otra estructura. La gravedad viene determinada por la combinación de todas estas lesiones y por cómo afectan en conjunto al funcionamiento del organismo. El tratamiento inicial se centra en estabilizar al paciente: controlar las hemorragias, asegurar la respiración, proteger la columna y tratar las lesiones que ponen en peligro la vida de forma inmediata. Un equipo formado por múltiples especialistas (traumatólogos, cirujanos, intensivistas, neurocirujanos y otros) trabaja de forma coordinada para abordar cada una de las lesiones. El pronóstico depende del tipo y la gravedad de las lesiones, pero la medicina de urgencias y los cuidados intensivos han avanzado enormemente en el tratamiento de estos pacientes.",
+    "whatToExpect": "Es muy probable que la imagen de tu familiar en la UCI te impresione: puede tener vendajes, férulas, drenajes, sondas y estar conectado/a a varios monitores y dispositivos. Si tiene lesiones en la cabeza, puede estar sedado/a para proteger el cerebro. Si ha necesitado cirugía, puede tener apósitos quirúrgicos y drenajes. El respirador mecánico puede ser necesario si los pulmones o las vías respiratorias se han visto afectados. También es habitual que reciba transfusiones de sangre y múltiples medicamentos para el dolor, para prevenir infecciones y para mantener estable la presión arterial. Es importante que sepas que el tratamiento del politraumatismo puede implicar varias intervenciones quirúrgicas, no siempre todas de forma inmediata; a veces se realizan por fases según la estabilidad del paciente. Cada día el equipo evaluará la evolución y te informará de los avances.",
+    "commonTreatments": [
+      "Cirugía de urgencia para reparar lesiones en órganos internos, controlar hemorragias o estabilizar fracturas",
+      "Ventilación mecánica si hay afectación pulmonar o si el paciente necesita estar sedado profundamente",
+      "Transfusiones de sangre y hemoderivados para reponer las pérdidas por hemorragia",
+      "Fijación y estabilización de fracturas con férulas, tracciones o dispositivos quirúrgicos",
+      "Medicación para el dolor adaptada a la situación del paciente, incluyendo analgesia continua",
+      "Prevención y tratamiento de infecciones con antibióticos",
+      "Rehabilitación temprana (fisioterapia, terapia ocupacional) en cuanto la situación clínica lo permite"
+    ],
+    "faqs": [
+      {
+        "question": "¿Por qué no le operan todo de una vez?",
+        "answer": "Es una pregunta muy comprensible. En el politraumatismo grave, el cuerpo está sometido a un estrés enorme. Realizar todas las cirugías de golpe podría suponer un riesgo añadido para el organismo, que ya está luchando por mantener sus funciones vitales. Por eso, los cirujanos utilizan una estrategia llamada control de daños: primero se abordan las lesiones que ponen en peligro inmediato la vida (hemorragias, lesiones de órganos vitales), y las demás se programan para cuando el paciente esté más estable. Este enfoque por fases, aunque pueda parecer más lento, en realidad mejora las posibilidades de recuperación. El equipo médico valora constantemente cuál es el mejor momento para cada intervención."
+      },
+      {
+        "question": "¿Cuánto tiempo estará en la UCI?",
+        "answer": "La duración de la estancia en UCI depende mucho de las lesiones específicas que tenga tu familiar y de cómo vaya evolucionando. Algunos pacientes pasan días y otros varias semanas. No es posible dar un tiempo exacto al principio, porque la evolución puede variar y a veces surgen complicaciones que prolongan la estancia. Lo importante es que esté en el lugar adecuado, con el equipo preparado para atender cualquier situación que se presente. Cuando esté suficientemente estable, pasará a una planta de hospitalización donde seguirá con su recuperación. Intenta no centrarte demasiado en los plazos y enfócate en los pequeños avances diarios; cada paso cuenta en este camino."
+      },
+      {
+        "question": "¿Quedará con alguna secuela?",
+        "answer": "Es natural preocuparse por las consecuencias a largo plazo. La respuesta depende de qué lesiones ha sufrido y de su gravedad. Algunas lesiones se recuperan completamente con el tiempo y la rehabilitación adecuada, mientras que otras pueden dejar algún grado de limitación funcional. Lo que sí podemos decirte es que la rehabilitación marca una diferencia enorme: muchos pacientes que al principio parecían tener lesiones muy incapacitantes logran una recuperación mucho mejor de lo esperado gracias a un trabajo constante de fisioterapia, terapia ocupacional y otros tratamientos. El equipo de rehabilitación comenzará a trabajar lo antes posible, incluso dentro de la UCI. Tu apoyo emocional durante este proceso largo será tan importante como los tratamientos médicos."
+      }
+    ]
+  },
+  "insuficiencia_respiratoria": {
+    "name": "Insuficiencia Respiratoria Aguda",
+    "summary": "Ocurre cuando los pulmones no consiguen aportar suficiente oxígeno al organismo o no logran eliminar adecuadamente el dióxido de carbono. El paciente necesita ayuda para respirar, que puede ir desde oxígeno suplementario hasta ventilación mecánica.",
+    "whatIsIt": "La insuficiencia respiratoria aguda se produce cuando los pulmones dejan de cumplir correctamente su función principal: llevar oxígeno a la sangre y retirar el dióxido de carbono. Esto puede ocurrir por muchas causas: una neumonía grave, una reagudización de una enfermedad pulmonar crónica (como el EPOC o el asma severo), una embolia pulmonar, una intervención quirúrgica complicada o un fallo del corazón que repercute en los pulmones. El resultado es que el cuerpo no recibe el oxígeno que necesita, lo que puede afectar al funcionamiento de todos los órganos. El equipo médico evalúa la gravedad midiendo los niveles de oxígeno y dióxido de carbono en la sangre mediante gasometrías arteriales. El tratamiento se adapta a la causa y a la gravedad: puede ir desde administrar oxígeno con mascarilla o gafas nasales hasta la ventilación mecánica invasiva en los casos más graves. El objetivo es dar soporte a la respiración mientras se trata la causa que originó el problema.",
+    "whatToExpect": "Dependiendo de la gravedad, tu familiar puede tener desde unas gafas nasales de oxígeno hasta un tubo endotraqueal conectado a un respirador mecánico. Si lleva gafas o mascarilla de oxígeno, puede que le veas respirar con esfuerzo: usando los músculos del cuello y las costillas de forma más visible de lo habitual. Si necesita ventilación mecánica, estará sedado/a para que el respirador pueda hacer su trabajo sin que el paciente sienta molestias. Verás monitores que muestran los niveles de oxígeno en la sangre, la frecuencia respiratoria y otros datos que el equipo de enfermería controla constantemente. Es posible que también le hagan gasometrías (análisis de sangre arterial) con frecuencia para ajustar el tratamiento. En algunos casos se utiliza ventilación no invasiva, que es una mascarilla especial que ayuda a respirar sin necesidad de tubo endotraqueal. El equipo te explicará qué tipo de soporte necesita tu familiar y por qué.",
+    "commonTreatments": [
+      "Oxigenoterapia con gafas nasales, mascarilla o dispositivos de alto flujo según las necesidades del paciente",
+      "Ventilación mecánica no invasiva (mascarilla BiPAP o CPAP) para ayudar a respirar sin necesidad de intubación",
+      "Ventilación mecánica invasiva con tubo endotraqueal en los casos más graves",
+      "Tratamiento de la causa subyacente: antibióticos para neumonía, broncodilatadores para reagudización de EPOC, anticoagulantes para embolia pulmonar, entre otros",
+      "Fisioterapia respiratoria para ayudar a movilizar secreciones y mejorar la capacidad pulmonar",
+      "Medicación broncodilatadora y antiinflamatoria para abrir las vías respiratorias",
+      "Destete progresivo del respirador: reducción gradual del soporte ventilatorio a medida que los pulmones se recuperan"
+    ],
+    "faqs": [
+      {
+        "question": "¿Podrá volver a respirar por sí solo/a?",
+        "answer": "En la mayoría de los casos, sí. La ventilación mecánica es un soporte temporal que se utiliza mientras los pulmones se recuperan de la causa que provocó la insuficiencia respiratoria. Una vez que la enfermedad de base mejora (por ejemplo, la neumonía remite con los antibióticos o el broncoespasmo se controla), el equipo médico comienza un proceso gradual de reducción del soporte del respirador, llamado destete o weaning. Se va dejando que el paciente asuma cada vez más trabajo respiratorio por sí mismo, comprobando que lo tolera bien. La velocidad de este proceso depende de cada paciente. En personas con enfermedades pulmonares previas, el destete puede llevar más tiempo, pero el equipo de intensivistas tiene mucha experiencia en guiar este proceso con seguridad."
+      },
+      {
+        "question": "¿Por qué le hacen análisis de sangre arterial tan frecuentes?",
+        "answer": "La gasometría arterial es un análisis que se realiza extrayendo una pequeña muestra de sangre de una arteria, generalmente de la muñeca. Es la forma más precisa de medir los niveles de oxígeno y dióxido de carbono en la sangre, así como el equilibrio ácido-base del organismo. Estos valores son esenciales para saber cómo están funcionando los pulmones en cada momento y para ajustar los parámetros del respirador o la cantidad de oxígeno administrada. Aunque pueda parecer molesto, cada gasometría proporciona información valiosa que permite al equipo tomar las mejores decisiones de tratamiento. A medida que tu familiar vaya mejorando, la frecuencia de estos análisis se irá reduciendo."
+      },
+      {
+        "question": "¿Qué diferencia hay entre la mascarilla y estar intubado/a?",
+        "answer": "Son dos niveles diferentes de ayuda para respirar. La ventilación no invasiva (con mascarilla) es un soporte menos agresivo que se utiliza cuando el paciente puede colaborar, está consciente y la situación respiratoria no es extremadamente grave. La mascarilla se ajusta bien a la cara y envía aire a presión para ayudar a que los pulmones se abran mejor. El paciente puede hablar, toser y, con supervisión, quitársela para beber o comer. La intubación, en cambio, consiste en colocar un tubo que va desde la boca hasta las vías respiratorias, conectado a un respirador mecánico que se encarga completamente de la respiración. Se recurre a ella cuando la situación es más grave o cuando la mascarilla no es suficiente. El paciente necesita estar sedado y no puede hablar mientras tenga el tubo. El equipo médico siempre intentará utilizar el método menos agresivo que sea eficaz para cada situación."
+      }
+    ]
+  }
+}

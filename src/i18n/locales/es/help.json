@@ -1,0 +1,42 @@
+{
+  "title": "Cómo ayudar a tu familiar",
+  "subtitle": "Maneras de acompañar y apoyar durante la estancia en UCI",
+  "sections": [
+    {
+      "id": "comunicacion",
+      "title": "Comunicación con el paciente",
+      "icon": "record-voice-over",
+      "content": "Aunque tu familiar esté sedado o aparentemente inconsciente, diversos estudios científicos han demostrado que muchos pacientes pueden percibir la presencia y la voz de sus seres queridos, y que este estímulo puede resultarles reconfortante. Háblale con naturalidad, cuéntale cómo ha sido tu día, qué tiempo hace fuera, qué están haciendo los nietos, los amigos o las mascotas. No es necesario que digas nada extraordinario: tu voz familiar es en sí misma una fuente de consuelo y conexión con la vida cotidiana. Si te resulta difícil encontrar las palabras, puedes leerle su libro favorito, el periódico o algún mensaje que le hayan enviado familiares y amigos. La música que le gusta, reproducida a bajo volumen con auriculares y con permiso del equipo de enfermería, también puede ser un estímulo positivo y relajante. Tócale suavemente la mano o el brazo si el equipo médico te lo permite, ya que el contacto físico transmite cariño y presencia de una manera que las palabras no siempre alcanzan. No te preocupes si no obtienes una respuesta visible: lo importante es que estás ahí, y eso tiene un valor incalculable. Muchos pacientes, una vez recuperados, recuerdan haber escuchado a sus familiares y describen esa experiencia como algo que les dio fuerza para seguir adelante."
+    },
+    {
+      "id": "diarios",
+      "title": "Diarios de UCI",
+      "icon": "menu-book",
+      "content": "Los diarios de UCI son cuadernos en los que los familiares y el equipo sanitario escriben día a día lo que sucede durante el ingreso del paciente. Esta práctica, respaldada por abundante evidencia científica, ha demostrado ayudar significativamente a la recuperación emocional del paciente tras el alta, ya que muchas personas que pasan por una UCI experimentan lagunas de memoria o recuerdos confusos sobre ese periodo. En el diario puedes escribir cómo ha sido el día, quién ha venido a visitarle, qué le has contado, pequeños avances que hayas notado o simplemente palabras de ánimo y cariño. También puedes pegar fotografías, dibujos de los niños u otros elementos que ayuden a reconstruir esos días cuando tu familiar pueda leerlo. No te preocupes por la calidad de la escritura ni por lo que pones: lo importante es que sea auténtico y refleje el acompañamiento que estáis haciendo. Cuando el paciente se recupere, este diario le ayudará a comprender lo que vivió, a llenar los vacíos en su memoria y a sentir el amor y la dedicación de su familia durante los momentos más difíciles. Pregunta al equipo de enfermería si en la unidad ya utilizan diarios de UCI o si puedes comenzar uno por tu cuenta; estarán encantados de orientarte. Diversos hospitales han incorporado esta herramienta como parte de su protocolo de humanización, reconociendo su enorme valor terapéutico."
+    },
+    {
+      "id": "autocuidado",
+      "title": "Cuídate para poder cuidar",
+      "icon": "self-improvement",
+      "content": "Sabemos que en estos momentos toda tu atención y energía están puestas en tu familiar, pero es fundamental que no te olvides de ti mismo. Tu bienestar físico y emocional es imprescindible para poder acompañar a tu ser querido de la mejor manera posible, y descuidarte no ayuda a nadie. Intenta mantener unos horarios básicos de comidas y sueño, aunque cueste: tu cuerpo necesita combustible y descanso para afrontar esta situación. No te sientas culpable por salir a dar un paseo, tomarte un café con calma o descansar en casa un rato; alejarte brevemente no significa querer menos a tu familiar, sino cuidarte para poder seguir estando ahí. Acepta la ayuda que te ofrezcan los demás, ya sea para turnarse en las visitas, traerte comida, encargarse de gestiones o simplemente hacerte compañía en la sala de espera. Si sientes que la angustia, el insomnio o la tristeza te desbordan, pide hablar con el servicio de psicología del hospital o con el trabajador social: están preparados para ayudar a familias en tu situación y no hay ninguna debilidad en necesitar apoyo. Recuerda que eres parte esencial del proceso de recuperación de tu familiar, y para cumplir ese papel necesitas estar lo mejor posible. Ser amable contigo mismo en estos momentos difíciles es un acto de fortaleza, no de egoísmo."
+    },
+    {
+      "id": "equipo",
+      "title": "Colaborar con el equipo médico",
+      "icon": "groups",
+      "content": "El equipo de profesionales que cuida de tu familiar está formado por médicos intensivistas, enfermeras, auxiliares de enfermería, fisioterapeutas y otros especialistas que trabajan coordinadamente para ofrecer la mejor atención posible. Para que la comunicación sea fluida y eficaz, es muy recomendable que la familia designe a una o dos personas como interlocutores principales, que serán quienes hablen con el equipo médico y después transmitan la información al resto de familiares. Generalmente, los médicos ofrecen información a las familias en horarios establecidos, a menudo coincidiendo con las rondas informativas; pregunta al personal cuándo y dónde puedes recibir esta actualización diaria. No dudes en preparar tus preguntas con antelación y llevarlas anotadas, ya que en momentos de estrés es fácil olvidar lo que querías preguntar. Si hay algo que no entiendes, pide amablemente que te lo expliquen de otra manera: los profesionales sanitarios están acostumbrados a adaptar su lenguaje y prefieren que preguntes a que te quedes con dudas. También es muy valioso que compartas con el equipo información sobre tu familiar que pueda ayudar en su cuidado, como sus rutinas, sus gustos, si tiene alergias no registradas o cualquier dato relevante sobre su vida cotidiana. La relación con el equipo sanitario funciona mejor cuando se basa en la confianza mutua, la comunicación abierta y el respeto por el trabajo de cada uno. Recuerda que todos compartís el mismo objetivo: la recuperación y el bienestar de tu ser querido."
+    },
+    {
+      "id": "objetos",
+      "title": "Objetos personales con significado",
+      "icon": "favorite",
+      "content": "Los objetos personales con valor sentimental pueden ser de gran ayuda para el paciente, especialmente cuando comienza a despertar y necesita orientarse en un entorno desconocido y lleno de tecnología. Fotografías de la familia, una pequeña imagen religiosa si es creyente, un mensaje grabado con voces familiares o una prenda que huela a hogar pueden proporcionar consuelo y sentido de identidad. Antes de traer cualquier objeto, consulta siempre con el equipo de enfermería, ya que ellos te indicarán qué es seguro y adecuado según el estado del paciente y las condiciones de la unidad. Estos pequeños detalles ayudan a humanizar el entorno de la UCI y recuerdan al paciente que hay un mundo lleno de cariño esperándole fuera. No subestimes el poder de un gesto sencillo: una foto pegada donde pueda verla o una nota escrita a mano pueden marcar una diferencia enorme en el ánimo de tu familiar."
+    },
+    {
+      "id": "presencia",
+      "title": "El poder de estar presente",
+      "icon": "volunteer-activism",
+      "content": "A veces las familias sienten que deberían hacer algo más, algo especial, para ayudar a su ser querido. Pero la verdad es que simplemente estar ahí, a su lado, es una de las cosas más valiosas que puedes ofrecer. Tu presencia transmite seguridad, amor y conexión con la vida fuera del hospital, y eso tiene un efecto terapéutico real que la ciencia ha confirmado. Sostener su mano, acariciar suavemente su frente, mantener una presencia serena y cálida: todo eso comunica lo que las palabras muchas veces no pueden expresar. No necesitas llenar el silencio ni sentirte obligado a hablar constantemente; a veces, el silencio compartido es la forma más profunda de compañía. Intenta mantener algunas rutinas en tus visitas, como ir a la misma hora o despedirte siempre de la misma manera, ya que la repetición y la familiaridad son anclas de orientación para el paciente. Recuerda que tu presencia no solo ayuda a tu familiar, sino que también te ayuda a ti: estar cerca, saber que estás acompañándole, puede darte una sensación de propósito y paz en medio de la incertidumbre."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Información útil",
+  "subtitle": "Todo lo que necesitas saber durante tu estancia",
+  "horarios": {
+    "name": "Horarios de visita",
+    "icon": "schedule",
+    "content": "Las Unidades de Cuidados Intensivos suelen tener horarios de visita establecidos, que pueden variar según el hospital y la situación clínica del paciente. Generalmente se permiten visitas en franjas horarias concretas, como de 12:00 a 14:00 y de 17:00 a 20:00, aunque estos horarios pueden ampliarse o restringirse según las necesidades del momento. Lo más importante es que consultes directamente con el equipo de enfermería de la unidad, ya que ellos te indicarán los horarios exactos y cualquier modificación temporal. Normalmente se permite la entrada de uno o dos familiares a la vez, para respetar la tranquilidad del paciente y del resto de personas ingresadas. Si vienes desde lejos o tienes circunstancias especiales, no dudes en comentarlo con el equipo: en muchos casos pueden ofrecer cierta flexibilidad. Te recomendamos llegar con algo de antelación para poder lavarte las manos y prepararte antes de entrar. Recuerda que las visitas son un momento muy valioso tanto para ti como para tu familiar, así que intenta vivirlas con la mayor serenidad posible. Si en algún momento el personal te pide que esperes fuera, confía en que lo hacen por el bienestar de tu ser querido."
+  },
+  "cafeteria": {
+    "name": "Cafetería y comidas",
+    "icon": "restaurant",
+    "content": "La mayoría de los hospitales disponen de una cafetería donde puedes tomar comidas calientes, bocadillos, bebidas y snacks a lo largo del día. Además, es habitual encontrar máquinas expendedoras en las zonas de espera para cuando la cafetería esté cerrada, especialmente durante la noche y las primeras horas de la mañana. Si tu estancia se prolonga, puede resultarte útil conocer los restaurantes y supermercados cercanos al hospital, ya que ofrecen más variedad y pueden ayudarte a mantener una alimentación equilibrada. Sabemos que en estos momentos comer puede parecer lo último en lo que piensas, pero alimentarte bien es fundamental para mantener tus fuerzas y poder acompañar a tu familiar de la mejor manera posible. Intenta no saltarte comidas, hidrátate con frecuencia y, si es posible, elige opciones nutritivas que te den energía sostenida. Pregunta en el mostrador de información del hospital por los horarios exactos de la cafetería y por cualquier servicio especial disponible para familiares de pacientes ingresados. Cuidar tu alimentación es también una forma de cuidar a quien más quieres."
+  },
+  "telefonos": {
+    "name": "Teléfonos importantes",
+    "icon": "phone",
+    "content": "Puedes llamar a la UCI para preguntar por el estado de tu familiar, pero es recomendable hacerlo en horarios concretos que te indicará el personal de enfermería, generalmente fuera de los momentos de cambio de turno y de las horas de visita. Cuando llames, ten a mano el nombre completo del paciente, su número de habitación o cama si lo conoces, y tu relación de parentesco, ya que por motivos de confidencialidad solo se da información a los familiares directos autorizados. El equipo de enfermería podrá darte una actualización general del estado del paciente, aunque para información médica detallada será necesario hablar con el médico responsable durante las rondas informativas. Te recomendamos designar a una persona de la familia como interlocutor principal para llamar a la unidad, de forma que la comunicación sea más fluida y se eviten llamadas repetitivas que podrían dificultar el trabajo del equipo. Anota el número de teléfono directo de la UCI y el nombre del profesional con quien hables, así podrás hacer un seguimiento más ordenado. No dudes en llamar si tienes alguna preocupación urgente: el equipo está ahí para ayudaros."
+  },
+  "parking": {
+    "name": "Aparcamiento",
+    "icon": "local-parking",
+    "content": "La mayoría de los hospitales cuentan con aparcamiento propio, aunque en horas de mayor afluencia puede resultar difícil encontrar plaza. Pregunta en el mostrador de información si existen tarifas reducidas o bonos para familiares de pacientes ingresados, ya que muchos centros ofrecen descuentos significativos para estancias prolongadas. Valora también opciones alternativas como el transporte público, que suele tener buenas conexiones con los hospitales, o aparcamientos cercanos que puedan resultar más económicos. Si otros familiares o amigos se ofrecen a llevarte, no dudes en aceptar su ayuda: cualquier detalle que te facilite el día a día es importante. Planifica tus desplazamientos con algo de margen para evitar estrés innecesario y llegar con tranquilidad a las horas de visita."
+  },
+  "alojamiento": {
+    "name": "Alojamiento cercano",
+    "icon": "hotel",
+    "content": "Si vives lejos del hospital, existen varias opciones de alojamiento que pueden facilitarte la estancia durante estos días. Algunos hospitales disponen de habitaciones o espacios para familiares dentro del propio centro, especialmente para situaciones críticas o prolongadas. También puedes consultar con el trabajador social del hospital, que puede informarte sobre pisos de acogida, convenios con hoteles cercanos a precios reducidos, u otras alternativas solidarias que existan en tu zona. Organizaciones sociales y asociaciones de pacientes a veces ofrecen alojamiento temporal gratuito o a bajo coste para familias en esta situación. No dudes en pedir ayuda: hay recursos disponibles y el equipo del hospital puede orientarte para que encuentres la opción que mejor se adapte a tus necesidades y posibilidades."
+  },
+  "pertenencias": {
+    "name": "Pertenencias del paciente",
+    "icon": "inventory-2",
+    "content": "En la UCI se restringe la cantidad de objetos personales por motivos de higiene y seguridad, pero hay algunas pertenencias que pueden ser muy beneficiosas para el paciente. Consulta siempre con el equipo de enfermería antes de traer cualquier objeto, ya que ellos te indicarán qué está permitido y dónde colocarlo. Generalmente se aceptan fotografías de familiares, gafas, audífonos y elementos de aseo personal básicos, siempre que no interfieran con el equipamiento médico. Evita traer joyas de valor, grandes cantidades de dinero o aparatos electrónicos que no hayan sido autorizados. Las pertenencias del paciente suelen guardarse en una bolsa identificada; asegúrate de recoger un inventario firmado para tener constancia de lo entregado."
+  },
+  "normas": {
+    "name": "Normas de la UCI",
+    "icon": "rule",
+    "content": "Antes de entrar en la UCI es imprescindible lavarse las manos con agua y jabón o con solución hidroalcohólica; esta sencilla medida es la más eficaz para prevenir infecciones y proteger a tu familiar. En algunos casos, el personal te proporcionará bata, guantes o mascarilla desechable, y te explicará cómo utilizarlos correctamente. El uso de teléfonos móviles suele estar restringido dentro de la unidad: ponlo en silencio o apágalo para no interferir con los equipos médicos ni perturbar el descanso de los pacientes. Mantén un tono de voz bajo y tranquilo durante toda tu visita, ya que el ruido excesivo puede afectar negativamente a la recuperación de las personas ingresadas. Respeta el número máximo de visitantes permitidos por cama, que generalmente es de una o dos personas simultáneamente. Si te sientes mal, tienes fiebre, tos o cualquier síntoma de enfermedad, informa al personal y evita entrar para proteger a los pacientes, cuyo sistema inmunitario puede estar debilitado. Estas normas pueden parecer estrictas, pero todas están pensadas para garantizar la seguridad y el bienestar de tu ser querido; seguirlas es una de las formas más importantes en las que puedes ayudar."
+  }
+}
