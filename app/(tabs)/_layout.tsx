@@ -1,4 +1,5 @@
 import React from 'react';
+import { Platform } from 'react-native';
 import { Tabs } from 'expo-router';
 import { MaterialIcons } from '@expo/vector-icons';
 import { useTranslation } from 'react-i18next';
@@ -13,6 +14,11 @@ export default function TabLayout() {
         headerShown: true,
         tabBarActiveTintColor: colors.primary,
         tabBarInactiveTintColor: colors.textTertiary,
+        ...(Platform.OS === 'web' && {
+          tabBarStyle: {
+            paddingBottom: 'env(safe-area-inset-bottom)' as any,
+          },
+        }),
       }}
     >
       <Tabs.Screen

@@ -62,12 +62,19 @@ body {
   max-width: 480px;
   margin: 0 auto;
   min-height: 100vh;
+  min-height: -webkit-fill-available;
   background-color: #F7F9FB;
   box-shadow: 0 0 20px rgba(0,0,0,0.05);
 }
 @media (max-width: 480px) {
   #root {
     box-shadow: none;
+  }
+}
+/* iOS Safari PWA: prevent bottom bar overlap */
+@supports (padding-bottom: env(safe-area-inset-bottom)) {
+  #root {
+    padding-bottom: env(safe-area-inset-bottom);
   }
 }
 `;
