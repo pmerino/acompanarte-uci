@@ -1,7 +1,8 @@
 import React from 'react';
-import { View, StyleSheet } from 'react-native';
-import { Stack, useLocalSearchParams } from 'expo-router';
+import { View, StyleSheet, Pressable } from 'react-native';
+import { Stack, useLocalSearchParams, useRouter } from 'expo-router';
 import { useTranslation } from 'react-i18next';
+import { MaterialIcons } from '@expo/vector-icons';
 import { ScreenContainer } from '@/components/layout/ScreenContainer';
 import { ContentBlock } from '@/components/layout/ContentBlock';
 import { DetailSection } from '@/components/content/DetailSection';
@@ -10,11 +11,12 @@ import { IconCircle } from '@/components/ui/IconCircle';
 import { Typography } from '@/components/ui/Typography';
 import { conditions } from '@/data/conditions';
 import { colors } from '@/constants/colors';
-import { spacing } from '@/constants/spacing';
+import { spacing, borderRadius } from '@/constants/spacing';
 
 export default function ConditionDetailScreen() {
   const { conditionId } = useLocalSearchParams<{ conditionId: string }>();
   const { t } = useTranslation('conditions');
+  const router = useRouter();
 
   const condition = conditions.find((c) => c.id === conditionId);
 
@@ -37,6 +39,8 @@ export default function ConditionDetailScreen() {
   const whatToExpect = t(`${conditionId}.whatToExpect`);
   const treatments = t(`${conditionId}.commonTreatments`, { returnObjects: true }) as string[];
   const faqs = t(`${conditionId}.faqs`, { returnObjects: true }) as Array<{ question: string; answer: string }>;
+  const devicesNoteKey = `${conditionId}.devicesNote`;
+  const devicesNote = t(devicesNoteKey, { defaultValue: '' });
 
   return (
     <>
@@ -91,6 +95,19 @@ export default function ConditionDetailScreen() {
             <FAQItem key={index} question={faq.question} answer={faq.answer} />
           ))}
         </ContentBlock>
+
+        {/* Devices note */}
+        {devicesNote ? (
+          <Pressable
+            style={styles.devicesNote}
+            onPress={() => router.push('/(tabs)/dispositivos')}
+          >
+            <MaterialIcons name="monitor-heart" size={20} color={colors.category.devices} style={styles.devicesNoteIcon} />
+            <Typography variant="body" color={colors.textSecondary} style={styles.devicesNoteText}>
+              {devicesNote}
+            </Typography>
+          </Pressable>
+        ) : null}
       </ScreenContainer>
     </>
   );
@@ -119,6 +136,21 @@ const styles = StyleSheet.create({
     marginRight: spacing.md,
   },
   treatmentText: {
+    flex: 1,
+  },
+  devicesNote: {
+    flexDirection: 'row',
+    alignItems: 'flex-start',
+    backgroundColor: colors.sageLight,
+    borderRadius: borderRadius.md,
+    padding: spacing.base,
+    marginTop: spacing.lg,
+  },
+  devicesNoteIcon: {
+    marginRight: spacing.sm,
+    marginTop: 2,
+  },
+  devicesNoteText: {
     flex: 1,
   },
 });

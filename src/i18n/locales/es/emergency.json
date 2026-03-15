@@ -13,8 +13,15 @@
     {
       "name": "Centralita del Hospital",
       "number": "983 42 04 00",
-      "description": "Número principal del Hospital Río Hortega. Pide que te pasen con la UCI (Medicina Intensiva) para consultas sobre tu familiar.",
+      "description": "Número principal del Hospital Río Hortega.",
       "icon": "local-hospital",
+      "available": "24 horas, todos los días"
+    },
+    {
+      "name": "UCI",
+      "number": "983 42 04 00",
+      "description": "Llame a la centralita. Escuchará la frase, si conoce la extensión, márquela. Las extensiones son: de los boxes 1-10 83710, de los boxes 11 a 22 83711 y de la BIOUCI (boxes 31 a 40) 83921. Si no recuerdas la extensión en ese momento, pide que te pasen con la UCI (Medicina Intensiva) para consultas sobre tu familiar. Cuando llames a la UCI, ten a mano el nombre completo del paciente, su número de cama si lo conoces y tu relación de parentesco, ya que por motivos de confidencialidad solo se da información a los familiares directos autorizados. Te recomendamos designar a una persona de la familia como interlocutor principal para llamar a la unidad, de forma que la comunicación sea más fluida y se eviten llamadas repetitivas. No dudes en llamar si tienes alguna preocupación urgente: el equipo está ahí para ayudaros. Recuerda que solo podrán ofrecerte información general; la información médica concreta se da en los horarios establecidos.",
+      "icon": "monitor-heart",
       "available": "24 horas, todos los días"
     },
     {
@@ -61,5 +68,5 @@
     }
   ],
   "whenToCall": "Llama a la centralita del hospital (983 42 04 00) siempre que tengas una duda o preocupación sobre tu familiar. El personal de enfermería de la UCI puede atenderte e informarte. Si es fuera del horario de visitas y estás preocupado/a, no dudes en llamar: es mejor preguntar que quedarse con la incertidumbre.",
-  "afterHours": "Fuera del horario de visitas (13:00-13:30 y 20:00-20:30), puedes llamar a la centralita (983 42 04 00) y pedir que te comuniquen con la UCI. El equipo de enfermería está disponible las 24 horas y puede informarte del estado general de tu familiar. Recuerda que la puerta principal del hospital cierra a las 22:30 h."
+  "afterHours": "Fuera del horario de visitas (11:45 h y 19:00 h), puedes llamar a la centralita (983 42 04 00) y pedir que te comuniquen con la UCI. El equipo de enfermería está disponible las 24 horas y puede informarte del estado general de tu familiar. Recuerda que la puerta principal del hospital cierra a las 22:30 h."
 }

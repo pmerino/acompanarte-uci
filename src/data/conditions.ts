@@ -38,4 +38,28 @@ export const conditions: Condition[] = [
     color: colors.sky,
     colorLight: colors.skyLight,
   },
+  {
+    id: 'delirio',
+    icon: 'nights-stay',
+    color: colors.lavender,
+    colorLight: colors.lavenderLight,
+  },
+  {
+    id: 'hemorragia_subaracnoidea',
+    icon: 'bloodtype',
+    color: '#D4889C',
+    colorLight: colors.roseLight,
+  },
+  {
+    id: 'hemorragia_digestiva',
+    icon: 'emergency',
+    color: '#E07A5F',
+    colorLight: '#FCE8E4',
+  },
+  {
+    id: 'aclf',
+    icon: 'medical-services',
+    color: colors.peach,
+    colorLight: colors.peachLight,
+  },
 ];
