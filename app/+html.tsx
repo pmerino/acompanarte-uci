@@ -27,6 +27,27 @@ export default function Root({ children }: PropsWithChildren) {
         />
         <title>Acompañarte UCI - Río Hortega</title>
 
+        {/* Open Graph (WhatsApp, Telegram, Facebook, etc.) */}
+        <meta property="og:title" content="Acompañarte UCI - Río Hortega" />
+        <meta
+          property="og:description"
+          content="Guía para familias de pacientes en la UCI. Entiende los dispositivos, las patologías y cómo acompañar a tu ser querido durante su estancia en Cuidados Intensivos."
+        />
+        <meta property="og:image" content="https://www.acompanarte-uci.es/icon-512.png" />
+        <meta property="og:url" content="https://www.acompanarte-uci.es" />
+        <meta property="og:type" content="website" />
+        <meta property="og:locale" content="es_ES" />
+        <meta property="og:locale:alternate" content="en_GB" />
+
+        {/* Twitter / X */}
+        <meta name="twitter:card" content="summary" />
+        <meta name="twitter:title" content="Acompañarte UCI - Río Hortega" />
+        <meta
+          name="twitter:description"
+          content="Guía para familias de pacientes en la UCI. Entiende los dispositivos, las patologías y cómo acompañar a tu ser querido."
+        />
+        <meta name="twitter:image" content="https://www.acompanarte-uci.es/icon-512.png" />
+
         {/* Service Worker registration with auto-update */}
         <script
           dangerouslySetInnerHTML={{
