@@ -27,13 +27,31 @@ export default function Root({ children }: PropsWithChildren) {
         />
         <title>Acompañarte UCI - Río Hortega</title>
 
-        {/* Service Worker registration */}
+        {/* Service Worker registration with auto-update */}
         <script
           dangerouslySetInnerHTML={{
             __html: `
               if ('serviceWorker' in navigator) {
                 window.addEventListener('load', function() {
-                  navigator.serviceWorker.register('/sw.js');
+                  navigator.serviceWorker.register('/sw.js').then(function(reg) {
+                    // Check for updates every 60 seconds
+                    setInterval(function() { reg.update(); }, 60000);
+                    // When a new SW is found and installed, reload to get latest
+                    reg.addEventListener('updatefound', function() {
+                      var newWorker = reg.installing;
+                      if (newWorker) {
+                        newWorker.addEventListener('statechange', function() {
+                          if (newWorker.state === 'activated' && navigator.serviceWorker.controller) {
+                            window.location.reload();
+                          }
+                        });
+                      }
+                    });
+                  });
+                  // Also reload when a new SW takes control
+                  navigator.serviceWorker.addEventListener('controllerchange', function() {
+                    window.location.reload();
+                  });
                 });
               }
             `,

@@ -1,11 +1,7 @@
-const CACHE_NAME = 'acompanarte-uci-v1';
+const CACHE_NAME = 'acompanarte-uci-v2';
 
 self.addEventListener('install', (event) => {
-  event.waitUntil(
-    caches.open(CACHE_NAME).then((cache) => {
-      return cache.addAll(['/']);
-    })
-  );
+  // Take over immediately, don't wait for old SW to stop
   self.skipWaiting();
 });
 
@@ -17,15 +13,38 @@ self.addEventListener('activate', (event) => {
       )
     )
   );
+  // Claim all open clients so the new SW controls them immediately
   self.clients.claim();
 });
 
 self.addEventListener('fetch', (event) => {
   if (event.request.method !== 'GET') return;
 
+  const url = new URL(event.request.url);
+
+  // HTML and JS: network-first (always get latest, fall back to cache offline)
+  if (
+    event.request.mode === 'navigate' ||
+    url.pathname.endsWith('.html') ||
+    url.pathname.endsWith('.js') ||
+    url.pathname === '/'
+  ) {
+    event.respondWith(
+      fetch(event.request)
+        .then((response) => {
+          const clone = response.clone();
+          caches.open(CACHE_NAME).then((cache) => cache.put(event.request, clone));
+          return response;
+        })
+        .catch(() => caches.match(event.request))
+    );
+    return;
+  }
+
+  // Static assets (images, fonts, CSS): stale-while-revalidate
   event.respondWith(
     caches.match(event.request).then((cached) => {
-      const fetched = fetch(event.request)
+      const fetchPromise = fetch(event.request)
         .then((response) => {
           const clone = response.clone();
           caches.open(CACHE_NAME).then((cache) => cache.put(event.request, clone));
@@ -33,7 +52,7 @@ self.addEventListener('fetch', (event) => {
         })
         .catch(() => cached);
 
-      return cached || fetched;
+      return cached || fetchPromise;
     })
   );
 });
