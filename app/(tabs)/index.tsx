@@ -1,5 +1,5 @@
 import React from 'react';
-import { View, StyleSheet } from 'react-native';
+import { View, Image, StyleSheet } from 'react-native';
 import { useRouter } from 'expo-router';
 import { useTranslation } from 'react-i18next';
 import { MaterialIcons } from '@expo/vector-icons';
@@ -61,11 +61,25 @@ export default function HomeScreen() {
 
   return (
     <ScreenContainer>
-      {/* Hero / Welcome */}
-      <View style={styles.hero}>
+      {/* Logos + Heart */}
+      <View style={styles.logosRow}>
+        <Image
+          source={require('../../assets/logo-sacyl.png')}
+          style={styles.logoSacyl}
+          resizeMode="contain"
+        />
         <View style={styles.heroIcon}>
           <MaterialIcons name="favorite" size={32} color={colors.primary} />
         </View>
+        <Image
+          source={require('../../assets/logo-uci.jpg')}
+          style={styles.logoUci}
+          resizeMode="contain"
+        />
+      </View>
+
+      {/* Hero / Welcome */}
+      <View style={styles.hero}>
         <Typography variant="h1" align="center" style={styles.welcome}>
           {t('home.welcome')}
         </Typography>
@@ -157,9 +171,27 @@ export default function HomeScreen() {
 }
 
 const styles = StyleSheet.create({
+  logosRow: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'center',
+    paddingTop: spacing.xl,
+    paddingHorizontal: spacing.base,
+    gap: spacing.lg,
+  },
+  // SACYL: 483x219 → ratio 2.2:1
+  logoSacyl: {
+    height: 52,
+    width: 115,
+  },
+  // UCI: 653x415 → ratio 1.57:1
+  logoUci: {
+    height: 56,
+    width: 88,
+  },
   hero: {
     alignItems: 'center',
-    paddingVertical: spacing['2xl'],
+    paddingVertical: spacing.lg,
   },
   heroIcon: {
     width: 64,
