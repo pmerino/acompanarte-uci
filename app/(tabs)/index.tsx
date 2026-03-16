@@ -1,14 +1,19 @@
-import React from 'react';
-import { View, Image, StyleSheet } from 'react-native';
+import React, { useState, useEffect } from 'react';
+import { View, Image, StyleSheet, Pressable } from 'react-native';
 import { useRouter } from 'expo-router';
 import { useTranslation } from 'react-i18next';
+import { getLocales } from 'expo-localization';
+import AsyncStorage from '@react-native-async-storage/async-storage';
 import { MaterialIcons } from '@expo/vector-icons';
 import { ScreenContainer } from '@/components/layout/ScreenContainer';
 import { Typography } from '@/components/ui/Typography';
 import { Card } from '@/components/ui/Card';
 import { IconCircle } from '@/components/ui/IconCircle';
+import { useLanguage } from '@/hooks/useLanguage';
 import { colors } from '@/constants/colors';
 import { spacing, borderRadius } from '@/constants/spacing';
+
+const BANNER_DISMISSED_KEY = '@acompanarte_lang_banner_dismissed';
 
 const quickAccessSections = [
   {
@@ -58,9 +63,63 @@ const quickAccessSections = [
 export default function HomeScreen() {
   const { t } = useTranslation();
   const router = useRouter();
+  const { currentLanguage, setLanguage } = useLanguage();
+  const [showBanner, setShowBanner] = useState(false);
+  const [suggestedLang, setSuggestedLang] = useState<string | null>(null);
+
+  useEffect(() => {
+    async function checkLanguageSuggestion() {
+      const dismissed = await AsyncStorage.getItem(BANNER_DISMISSED_KEY).catch(() => null);
+      if (dismissed) return;
+      const deviceLang = getLocales()[0]?.languageCode ?? 'es';
+      if (deviceLang === 'en' && currentLanguage !== 'en') {
+        setSuggestedLang('en');
+        setShowBanner(true);
+      } else if (deviceLang === 'es' && currentLanguage !== 'es') {
+        setSuggestedLang('es');
+        setShowBanner(true);
+      }
+    }
+    checkLanguageSuggestion();
+  }, [currentLanguage]);
+
+  const acceptSuggestion = async () => {
+    if (suggestedLang) await setLanguage(suggestedLang);
+    setShowBanner(false);
+    await AsyncStorage.setItem(BANNER_DISMISSED_KEY, 'true').catch(() => {});
+  };
+
+  const dismissBanner = async () => {
+    setShowBanner(false);
+    await AsyncStorage.setItem(BANNER_DISMISSED_KEY, 'true').catch(() => {});
+  };
 
   return (
     <ScreenContainer>
+      {/* Language suggestion banner */}
+      {showBanner && (
+        <View style={styles.banner}>
+          <View style={styles.bannerContent}>
+            <MaterialIcons name="translate" size={20} color={colors.primary} />
+            <Typography variant="body" style={styles.bannerText}>
+              {suggestedLang === 'en'
+                ? 'Would you like to use this app in English?'
+                : '¿Quieres usar esta app en español?'}
+            </Typography>
+          </View>
+          <View style={styles.bannerActions}>
+            <Pressable onPress={acceptSuggestion} style={styles.bannerButton}>
+              <Typography variant="smallMedium" color={colors.primary}>
+                {suggestedLang === 'en' ? 'Yes, switch' : 'Sí, cambiar'}
+              </Typography>
+            </Pressable>
+            <Pressable onPress={dismissBanner} style={styles.bannerDismiss}>
+              <MaterialIcons name="close" size={18} color={colors.textTertiary} />
+            </Pressable>
+          </View>
+        </View>
+      )}
+
       {/* Logos + Heart */}
       <View style={styles.logosRow}>
         <Image
@@ -166,6 +225,34 @@ export default function HomeScreen() {
           {t('home.encouragement')}
         </Typography>
       </View>
+
+      {/* Language selector */}
+      <View style={styles.langSelector}>
+        <MaterialIcons name="translate" size={16} color={colors.textTertiary} />
+        <Pressable
+          onPress={() => setLanguage('es')}
+          style={[styles.langOption, currentLanguage === 'es' && styles.langOptionActive]}
+        >
+          <Typography
+            variant="caption"
+            color={currentLanguage === 'es' ? colors.primary : colors.textTertiary}
+          >
+            Español
+          </Typography>
+        </Pressable>
+        <Typography variant="caption" color={colors.textTertiary}>|</Typography>
+        <Pressable
+          onPress={() => setLanguage('en')}
+          style={[styles.langOption, currentLanguage === 'en' && styles.langOptionActive]}
+        >
+          <Typography
+            variant="caption"
+            color={currentLanguage === 'en' ? colors.primary : colors.textTertiary}
+          >
+            English
+          </Typography>
+        </Pressable>
+      </View>
     </ScreenContainer>
   );
 }
@@ -247,5 +334,52 @@ const styles = StyleSheet.create({
   },
   encouragementIcon: {
     marginBottom: spacing.sm,
+  },
+  banner: {
+    backgroundColor: colors.primaryLight,
+    borderRadius: borderRadius.md,
+    padding: spacing.md,
+    marginBottom: spacing.base,
+    flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'space-between',
+  },
+  bannerContent: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    flex: 1,
+    gap: spacing.sm,
+  },
+  bannerText: {
+    flex: 1,
+  },
+  bannerActions: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: spacing.sm,
+  },
+  bannerButton: {
+    backgroundColor: colors.surface,
+    paddingHorizontal: spacing.md,
+    paddingVertical: spacing.xs,
+    borderRadius: borderRadius.sm,
+  },
+  bannerDismiss: {
+    padding: spacing.xs,
+  },
+  langSelector: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'center',
+    marginTop: spacing.xl,
+    gap: spacing.sm,
+  },
+  langOption: {
+    paddingHorizontal: spacing.sm,
+    paddingVertical: spacing.xs,
+    borderRadius: borderRadius.sm,
+  },
+  langOptionActive: {
+    backgroundColor: colors.primaryLight,
   },
 });
