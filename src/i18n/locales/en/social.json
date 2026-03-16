@@ -1,0 +1,29 @@
+{
+  "title": "Social worker",
+  "subtitle": "An important resource for families",
+  "intro": "The hospital social worker is a professional who specializes in helping families cope with the practical, emotional, and administrative challenges that arise when a loved one is admitted to the ICU. Their role is to guide you, inform you about available resources, and support you in managing everything you may need so you can focus on what matters most: being with your loved one. Don't hesitate to request an appointment with this service — it exists precisely for situations like the one you are going through, and it can make a real difference in your hospital experience. Many families are unaware that this resource exists, or feel that their situation isn't serious enough to ask for help, but social workers are there for everyone and any question is welcome.",
+  "services": [
+    {
+      "title": "Guidance and support",
+      "description": "The social worker will help you understand how the healthcare system works, what administrative procedures you need to complete, and how to navigate hospital bureaucracy. They can advise you on your rights as a family member, explain informed consent procedures, assist you with sick leave paperwork, and counsel you on any legal or administrative concerns you may have. If you feel lost or overwhelmed by the amount of information and decisions you need to make, this professional can be your guide and support to help you organize and prioritize what needs to be addressed."
+    },
+    {
+      "title": "Financial resources",
+      "description": "A prolonged ICU stay can create financial hardship for the family, from travel and accommodation costs to lost income from being unable to work. The social worker can inform you about social benefits, emergency assistance, disability certificates, medical leave, and other financial resources you may be entitled to. They can also connect you with social organizations and foundations that offer financial support to families in vulnerable situations due to health issues. Don't feel embarrassed to ask — these resources exist precisely for times like this."
+    },
+    {
+      "title": "Accommodation and transport",
+      "description": "If you live far from the hospital or need to stay nearby for an extended period, the social worker can help you find affordable or free accommodation options near the hospital. They are familiar with existing agreements with hotels, charity housing provided by solidarity organizations, and other community resources for temporary lodging. They can also inform you about transportation assistance, non-emergency ambulance services for future patient transfers, and any other logistical needs that may arise during the stay."
+    },
+    {
+      "title": "Psychological support",
+      "description": "Having a loved one in the ICU is one of the most stressful experiences a person can go through, and it is completely normal to need professional emotional support. The social worker can refer you to the hospital's psychology service, inform you about support groups for families of critically ill patients, and connect you with specialized organizations that offer emotional accompaniment. They can also coordinate support interventions for other family members, including children and teenagers, who may be experiencing this situation with particular distress."
+    },
+    {
+      "title": "Discharge planning",
+      "description": "When your loved one begins to improve and discharge from the ICU or the hospital is being considered, the social worker will be key in helping you prepare the transition home or to a rehabilitation center. They can advise you on what home adaptations may be needed, help with applications for dependency support, arrange home care services, and coordinate with primary care and rehabilitation services in your area. Planning the discharge in advance reduces anxiety and ensures your loved one will have everything they need to continue their recovery under the best possible conditions."
+    }
+  ],
+  "howToContact": "To contact the Social Work Service at Hospital Universitario Río Hortega, you can call the switchboard (983 42 04 00) and ask to be transferred, or go to the information desk in the main lobby. Don't wait until things get complicated — the sooner you reach out to this service, the sooner they can start helping you.",
+  "schedule": "The Social Work Service at Hospital Universitario Río Hortega is available Monday through Friday during business hours. To confirm the exact schedule and office location, call the switchboard (983 42 04 00)."
+}

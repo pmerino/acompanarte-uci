@@ -1,0 +1,72 @@
+{
+  "title": "Emergency contacts",
+  "subtitle": "Phone numbers and resources at Hospital Río Hortega",
+  "importantNote": "These are the key phone numbers for the duration of your loved one's stay in the ICU at Hospital Universitario Río Hortega. Save them on your phone so you always have them to hand.",
+  "contacts": [
+    {
+      "name": "Emergency Services",
+      "number": "112",
+      "description": "European emergency number, available 24 hours",
+      "icon": "emergency",
+      "available": "24 hours, every day"
+    },
+    {
+      "name": "Hospital Switchboard",
+      "number": "983 42 04 00",
+      "description": "Main number for Hospital Río Hortega.",
+      "icon": "local-hospital",
+      "available": "24 hours, every day"
+    },
+    {
+      "name": "ICU",
+      "number": "983 42 04 00",
+      "description": "Call the switchboard. You will hear a prompt saying if you know the extension, dial it now. The extensions are: bays 1-10, dial 83710; bays 11-22, dial 83711; and BIOICU (bays 31-40), dial 83921. If you don't remember the extension at that moment, ask to be transferred to the ICU (Intensive Care) for enquiries about your loved one. When you call the ICU, have the patient's full name ready, their bed number if you know it, and your relationship to them, as for confidentiality reasons information is only shared with authorised next of kin. We recommend designating one family member as the main point of contact for calling the unit, so that communication runs more smoothly and repeated calls are avoided. Do not hesitate to call if you have an urgent concern: the team is there to help you. Please bear in mind that they will only be able to share general information; specific medical updates are given during the scheduled times.",
+      "icon": "monitor-heart",
+      "available": "24 hours, every day"
+    },
+    {
+      "name": "Ward room extension",
+      "number": "983 44 16 26",
+      "description": "To reach hospital ward rooms. You will need the room extension number.",
+      "icon": "phone",
+      "available": "24 hours"
+    },
+    {
+      "name": "Patient Services",
+      "number": "983 420 400 ext. 83145",
+      "description": "For information about rights, complaints, suggestions or documentation.",
+      "icon": "support-agent",
+      "available": "Working hours (please confirm by calling)"
+    },
+    {
+      "name": "Hospital Car Park",
+      "number": "983 31 51 25",
+      "description": "Empark/Telpark hospital car park. 825 spaces, open 24 hours.",
+      "icon": "local-parking",
+      "available": "24 hours"
+    },
+    {
+      "name": "Hope Helpline (Teléfono de la Esperanza)",
+      "number": "717 003 717",
+      "description": "Emotional support and active listening helpline. Confidential and free of charge.",
+      "icon": "phone-in-talk",
+      "available": "24 hours, every day"
+    },
+    {
+      "name": "Suicide Prevention Helpline",
+      "number": "024",
+      "description": "Helpline for people experiencing suicidal thoughts and those around them. Confidential and free of charge.",
+      "icon": "psychology",
+      "available": "24 hours, every day"
+    },
+    {
+      "name": "Hospital Social Services",
+      "number": "983 42 04 00 (switchboard)",
+      "description": "Call the switchboard and ask to be transferred to Social Services. They can help with resources, accommodation, paperwork and support.",
+      "icon": "groups",
+      "available": "Working hours (Monday to Friday)"
+    }
+  ],
+  "whenToCall": "Call the hospital switchboard (983 42 04 00) whenever you have a question or concern about your loved one. The ICU nursing staff can assist and update you. If it is outside visiting hours and you are worried, do not hesitate to call: it is better to ask than to be left with uncertainty.",
+  "afterHours": "Outside visiting hours (11:45 AM and 7:00 PM), you can call the switchboard (983 42 04 00) and ask to be put through to the ICU. The nursing team is available around the clock and can give you a general update on your loved one's condition. Please note that the main hospital entrance closes at 10:30 PM."
+}

@@ -1,0 +1,299 @@
+{
+  "title": "Medical Conditions",
+  "subtitle": "Understanding your loved one's diagnosis",
+  "sdra": {
+    "name": "Acute Respiratory Distress Syndrome (ARDS)",
+    "summary": "A serious condition in which the lungs become inflamed and fill with fluid, making breathing extremely difficult. The body cannot get the oxygen it needs on its own and requires mechanical assistance to breathe.",
+    "whatIsIt": "ARDS occurs when the lungs experience severe inflammation that causes the tiny air sacs (alveoli) to fill with fluid. This makes it extremely difficult for oxygen to pass into the bloodstream, so the body does not receive the oxygen it needs to function. It can develop as a result of severe pneumonia, a widespread infection, aspiration of stomach contents, or even after a major trauma. It is not a disease in itself, but rather the lungs' response to a severe assault. The medical team works to support your loved one's breathing while their lungs recover. Although it is a serious situation, many patients are able to overcome this phase with proper treatment and the time needed to heal.",
+    "whatToExpect": "It is normal to feel worried when you see your loved one connected to a mechanical ventilator. You will see a tube that goes from the mouth into the lungs: this is the endotracheal tube, and it allows the machine to breathe for them. The monitors will display numbers and waveforms that the nursing team watches constantly, including oxygen saturation and heart rate. Your loved one will likely be sedated so they do not feel discomfort and so their lungs can rest. At some point, they may be placed face down (prone position); this is a technique that significantly improves oxygenation and may be repeated over several days. They may also have several intravenous lines, a urinary catheter, and other monitoring devices that, while they may look overwhelming, are necessary for their care.",
+    "commonTreatments": [
+      "Lung-protective mechanical ventilation to help the lungs rest and prevent further damage",
+      "Prone positioning (face down) to improve oxygenation by taking advantage of gravity",
+      "Sedation and, in some cases, muscle relaxants to keep the patient comfortable while the ventilator does its work",
+      "Medications to control inflammation and treat the underlying cause of ARDS",
+      "Respiratory physiotherapy when the patient's progress allows, to help restore lung function",
+      "Strict fluid management to avoid overloading the lungs",
+      "Continuous monitoring of oxygen levels and personalized adjustment of ventilator settings"
+    ],
+    "faqs": [
+      {
+        "question": "Will they recover?",
+        "answer": "We know this is the most important question for you. Recovery from ARDS depends on several factors: the underlying cause, the severity of lung involvement, and your loved one's previous health status. Many patients do recover, although the process is usually slow and may take weeks. The lungs have a remarkable ability to repair themselves. The medical team is doing everything possible to give the lungs the time and conditions they need to heal. It is important that you also take care of yourself during this process, because your loved one will need your support during the recovery phase as well."
+      },
+      {
+        "question": "Why are they face down?",
+        "answer": "Prone positioning (face down) is one of the most effective techniques we have for improving oxygenation in patients with ARDS. When a person is lying on their back, the weight of the lungs compresses the areas at the back, making it harder for air to reach those regions. By placing them face down, that weight is redistributed, allowing areas of the lung that were previously compressed to open up and receive oxygen. It is a routine and safe procedure that the nursing and medical team performs with great care. It does not cause pain because the patient is sedated, and it usually leads to a noticeable improvement in blood oxygen levels."
+      },
+      {
+        "question": "Can they hear me even though they are sedated?",
+        "answer": "Several scientific studies suggest that sedated patients can perceive stimuli from their environment, including the voices of their loved ones. Even though they may not be able to respond or open their eyes, the brain can register familiar sounds. Many patients who have been through the ICU recall hearing their family members and say it brought them comfort. That is why we encourage you to speak to them lovingly, share everyday stories, and let them know you are there. Your voice can be an anchor of calm in the midst of a situation that feels unfamiliar to them. Never underestimate the power of your presence and your words."
+      }
+    ]
+  },
+  "sepsis": {
+    "name": "Sepsis",
+    "summary": "An uncontrolled response by the body to an infection, which can affect the functioning of vital organs. It is a medical emergency that requires immediate treatment and intensive monitoring.",
+    "whatIsIt": "Sepsis occurs when the body, in trying to fight an infection, triggers an inflammatory response so intense that it ends up damaging its own organs. Normally, the immune system fights infections in a controlled manner, but in sepsis that response spirals out of control and spreads throughout the entire body. The original infection can come from the lungs (pneumonia), the urinary tract, the abdomen, a wound, or any other source. When sepsis causes a significant drop in blood pressure and the body does not receive enough blood flow, it is called septic shock, which is the most severe form. Rapid treatment with antibiotics and intravenous fluids is essential for recovery. The medical team works to eliminate the infection and support the functioning of the organs while the body recovers.",
+    "whatToExpect": "Your loved one may have a high fever or, in some cases, a lower-than-normal temperature. You will see that they have several intravenous lines through which antibiotics, fluids, and sometimes medications to maintain blood pressure (vasopressors) are being administered. The monitors will constantly display heart rate, blood pressure, oxygen saturation, and other values that the team watches closely. Your loved one may be confused, drowsy, or agitated, as sepsis can temporarily affect the brain. In the most severe cases, they may need a ventilator or even temporary dialysis if the kidneys are affected. Although seeing all of this can be frightening, every one of these devices and treatments is there to help your loved one's body overcome the infection.",
+    "commonTreatments": [
+      "Broad-spectrum intravenous antibiotics administered as quickly as possible to fight the infection",
+      "Intravenous fluids to maintain adequate blood pressure and organ perfusion",
+      "Vasopressors (medications to raise blood pressure) if fluids alone are not sufficient",
+      "Identification of the infection through sample collection and microbiology laboratory analysis; and source control, which may include surgery or drainage if necessary",
+      "Organ support as needed: ventilator, dialysis, or other treatments depending on the situation",
+      "Frequent blood tests to monitor the response to treatment and adjust antibiotics accordingly",
+      "Strict blood sugar control and appropriate nutrition"
+    ],
+    "faqs": [
+      {
+        "question": "How did they get such a serious infection?",
+        "answer": "Sepsis can develop from any infection, even one that initially seemed mild. The most common sources are pneumonia, urinary tract infections, abdominal infections, and wound infections. It does not mean that anything was done wrong or that their health was neglected. Some people are more vulnerable: older adults, patients with chronic illnesses, people with weakened immune systems, or those who have recently undergone surgery. The important thing is that the infection has been identified and is being treated aggressively. The medical team is using every available resource to fight it."
+      },
+      {
+        "question": "Why do they need so many medications and IV lines?",
+        "answer": "In sepsis, the infection affects the entire body, so treatment also needs to work on multiple levels at the same time. Antibiotics directly fight the bacteria. Intravenous fluids help maintain blood pressure and ensure that blood reaches all the organs. Vasopressors reinforce that pressure when fluids alone are not enough. There may be medications to protect the stomach, control blood sugar, prevent blood clots, and relieve pain or anxiety. Every IV line and every medication serves a specific purpose. We know that seeing so many tubes and fluid bags can be overwhelming, but it is all part of a carefully coordinated treatment plan."
+      },
+      {
+        "question": "How long will it take for them to improve?",
+        "answer": "The course of sepsis varies and depends on many factors: the type of infection, how quickly treatment was started, the patient's age, and their previous health status. In the first few days, the medical team focuses on stabilizing the patient and controlling the infection. It is common to have ups and downs: days when things seem to improve and others when complications arise. Do not lose heart if the recovery is not linear. Typically, once the antibiotics begin to take effect and the infection subsides, the organs gradually regain their function. The ICU stay can range from a few days to several weeks, and afterward there is usually a recovery period on a regular hospital ward. Your companionship and patience are truly invaluable during this process."
+      }
+    ]
+  },
+  "iam": {
+    "name": "Acute Myocardial Infarction",
+    "summary": "Occurs when an artery in the heart becomes blocked and part of the heart muscle stops receiving blood and oxygen. It is an emergency in which every minute counts to save as much heart tissue as possible.",
+    "whatIsIt": "An acute myocardial infarction, commonly known as a heart attack, occurs when one of the coronary arteries (the blood vessels that supply the heart itself) becomes blocked, usually by a blood clot that forms over a fatty plaque built up on the artery wall. Without blood supply, that area of the heart muscle begins to sustain damage. The longer it goes without blood flow, the greater the damage. That is why speed of treatment is so important: opening the artery as quickly as possible helps save the greatest amount of heart muscle. The most common symptoms are intense chest pain, which may radiate to the left arm, jaw, or back, accompanied by sweating, nausea, and difficulty breathing. Thanks to modern medical advances, many people survive and recover well from a heart attack when they receive prompt care.",
+    "whatToExpect": "If your loved one has undergone a cardiac catheterization (a procedure to open the blocked artery), you will likely see a bandage on the wrist or groin, which is where the catheter was inserted. They will be connected to a cardiac monitor that displays the heart rhythm continuously; it is normal for an occasional alarm to sound, and the staff knows how to interpret each one. They will have several intravenous lines for administering medications that protect the heart and prevent new blood clots. They may also be wearing an oxygen mask or nasal cannula. During the first hours, they will be asked to rest completely. It is normal for your loved one to feel tired, anxious, or afraid; your calm and caring presence is one of the best medicines at this moment.",
+    "commonTreatments": [
+      "Emergency cardiac catheterization with angioplasty and stent placement to open the blocked artery",
+      "Anticoagulant and antiplatelet medications to prevent the formation of new blood clots",
+      "Beta-blockers to reduce the workload on the heart and protect the heart muscle",
+      "Statins to manage cholesterol and stabilize plaques in the arteries",
+      "Continuous heart rhythm monitoring to detect and treat potential arrhythmias",
+      "Progressive cardiac rehabilitation, including supervised exercise and education on healthy lifestyle habits",
+      "Risk factor management: blood pressure, blood sugar, smoking cessation, and diet"
+    ],
+    "faqs": [
+      {
+        "question": "Could they have another heart attack?",
+        "answer": "It is understandable that you worry about this possibility. The risk of another heart attack does exist, but it can be significantly reduced with proper treatment and lifestyle changes. The medications that have been prescribed (antiplatelet agents, statins, beta-blockers) are designed precisely to protect the heart and prevent a recurrence. Additionally, cardiac rehabilitation and changes in diet, exercise, and quitting smoking if applicable are very powerful tools for reducing that risk. Your support will be essential in making these lifestyle changes. Together, you can build a healthier life for the heart."
+      },
+      {
+        "question": "Will they be able to live a normal life afterward?",
+        "answer": "The vast majority of patients who survive a heart attack can return to a full and active life. Recovery is gradual: the first few weeks require more rest and care, but activity is gradually resumed over time. Cardiac rehabilitation is a supervised program that helps rebuild confidence in the body and improve physical capacity safely. Over time, many patients return to work, travel, and enjoy their favorite activities. The most important things are to follow the medical treatment plan, attend follow-up appointments, and adopt heart-healthy habits. A heart attack can be a turning point toward taking better care of oneself."
+      },
+      {
+        "question": "What is a stent, and will it stay there forever?",
+        "answer": "A stent is a small mesh metal tube that is placed inside the heart artery that was blocked. It works like a scaffold that keeps the artery open so blood can flow normally. It is placed during catheterization, a procedure performed through a small puncture in the wrist or groin, without the need to open the chest. Yes, the stent stays permanently in the artery; over time, the artery wall grows around it and incorporates it. Most modern stents are coated with a medication that prevents the artery from narrowing again. For the stent to work properly, it is essential that your loved one takes the prescribed antiplatelet medication for the recommended period of time, without missing any doses."
+      }
+    ]
+  },
+  "ictus": {
+    "name": "Stroke (Cerebrovascular Accident)",
+    "summary": "Occurs when blood flow to a part of the brain is interrupted (ischemic stroke) or when a blood vessel in the brain ruptures (hemorrhagic stroke). Brain cells in the affected area stop receiving oxygen and begin to sustain damage.",
+    "whatIsIt": "A stroke, also called a cerebrovascular accident, occurs when an area of the brain stops receiving the blood it needs. There are two main types: ischemic stroke, which is the most common and occurs when a blood clot blocks a cerebral artery, and hemorrhagic stroke, which happens when a blood vessel in the brain ruptures and causes bleeding. In both cases, brain cells in the affected area begin to suffer damage from lack of oxygen. The consequences depend on which part of the brain has been affected: there may be difficulty moving one side of the body, problems speaking or understanding, vision changes, or behavioral changes. Speed of treatment is crucial, as the sooner blood flow is restored or the bleeding is controlled, the less permanent damage there will be. The brain has an adaptive capacity called neuroplasticity, which allows other areas to partially take over the functions of the damaged regions.",
+    "whatToExpect": "When you arrive at the ICU, you will see that your loved one is connected to monitors that continuously track their blood pressure, heart rate, and oxygen level. They may have difficulty speaking, moving part of their body, or may seem confused; this is due to the area of the brain that has been affected. The medical team will perform brain imaging tests (CT scan or MRI) to assess the extent of the damage. If the stroke is ischemic, they may have been given a treatment to dissolve the clot or a procedure may have been performed to remove it. It is important to know that the first hours and days are critical for monitoring, as there may be brain swelling that the team watches closely. Although the situation may be deeply distressing, remember that early rehabilitation can make a significant difference in recovery.",
+    "commonTreatments": [
+      "Intravenous thrombolysis (clot-dissolving medication) for ischemic stroke, if administered in time",
+      "Mechanical thrombectomy (clot removal via catheter) in selected cases of ischemic stroke",
+      "Surgery in some cases of hemorrhagic stroke to drain the blood or repair the damaged vessel",
+      "Strict blood pressure management to protect the brain",
+      "Medication to prevent new clots or bleeding episodes depending on the type of stroke",
+      "Frequent neurological monitoring to detect changes in the patient's condition",
+      "Early rehabilitation: physical therapy, speech therapy, and occupational therapy from the first days"
+    ],
+    "faqs": [
+      {
+        "question": "Will they speak and move normally again?",
+        "answer": "Recovery after a stroke is a process that varies greatly from person to person and depends on the area of the brain affected, the extent of the damage, and how quickly treatment was started. What we do know is that the brain has a remarkable ability to reorganize and create new connections, a process called neuroplasticity. Rehabilitation is the most powerful tool for stimulating that recovery: physical therapy helps restore mobility, speech therapy works on speech and swallowing, and occupational therapy teaches how to perform daily activities. Most recovery occurs in the first few months, but improvements can continue for a year or more after the stroke. Your support, patience, and encouragement are essential on this journey."
+      },
+      {
+        "question": "Why are they having trouble speaking or not understanding what I say?",
+        "answer": "The areas of the brain that control language are usually located on the left side. When a stroke affects those areas, difficulties speaking or understanding others may appear; this is called aphasia. It is important to understand that aphasia does not mean your loved one has lost their intelligence: they still think and feel, but they have difficulty expressing or processing words, as if their language had suddenly become foreign. There are different degrees and types of aphasia. Speech therapy is essential for improving these abilities. In the meantime, you can help by speaking slowly, using short sentences, incorporating gestures, and giving them time to respond without pressure. Your patience and affection are the best support."
+      },
+      {
+        "question": "Could it happen again?",
+        "answer": "One of the main goals of treatment is precisely to prevent the stroke from recurring. To achieve this, the medical team will identify the causes and put preventive measures in place. If the cause was a blood clot, they will likely need anticoagulant or antiplatelet medication on a long-term basis. Blood pressure, cholesterol, blood sugar, and other risk factors will be closely managed. If they smoked, quitting will be one of the most effective measures. It may also be necessary to treat arrhythmias such as atrial fibrillation, which promotes clot formation. By following the medical treatment plan and adopting healthy lifestyle habits, the risk of another stroke is significantly reduced. Regular follow-up appointments with neurology and cardiology will be part of the ongoing care."
+      }
+    ]
+  },
+  "politrauma": {
+    "name": "Polytrauma",
+    "summary": "Refers to the presence of serious injuries in multiple parts of the body caused by a high-energy accident or trauma. It requires immediate attention from multiple specialists and intensive monitoring.",
+    "whatIsIt": "Polytrauma, also known as major trauma, occurs when a person sustains serious injuries affecting two or more regions of the body, as a result of traffic accidents, falls from significant heights, workplace accidents, or other high-energy events. The injuries can affect bones, internal organs, the brain, blood vessels, or any other structure. The severity is determined by the combination of all these injuries and how they collectively affect the body's ability to function. Initial treatment focuses on stabilizing the patient: controlling bleeding, securing the airway, protecting the spine, and treating immediately life-threatening injuries. A team of multiple specialists (intensivists, orthopedic surgeons, general surgeons, neurosurgeons, and others) works in a coordinated manner to address each injury. The prognosis depends on the type and severity of the injuries, but emergency medicine and intensive care have made enormous advances in treating these patients.",
+    "whatToExpect": "It is very likely that seeing your loved one in the ICU will be distressing: they may have bandages, splints, drains, tubes, and be connected to several monitors and devices. Their face or limbs may be swollen from the impact. If they have head injuries, they may be sedated to protect the brain. If they required surgery, they may have surgical dressings and drains. A ventilator may be needed if the lungs or airways have been affected. It is also common for them to receive blood transfusions and multiple pain medications, as well as treatment to prevent infections and maintain stable blood pressure. It is important to know that treating polytrauma may involve several surgical procedures, and not always all at once — many are performed in stages depending on the patient's stability. Each day the team will assess progress and keep you informed of developments.",
+    "commonTreatments": [
+      "Emergency surgery to repair internal organ injuries, control bleeding, or stabilize fractures",
+      "Placement of chest or abdominal drains to address injuries in those areas",
+      "Mechanical ventilation if there is lung involvement or if the patient requires deep sedation",
+      "Blood, platelet, or plasma transfusions to replace losses from bleeding",
+      "Fracture fixation and stabilization with splints, traction, or surgical devices",
+      "Pain management tailored to the patient's condition, including continuous analgesia in some cases",
+      "Infection prevention and treatment with antibiotics",
+      "Early rehabilitation (physical therapy, occupational therapy) as soon as the clinical situation allows"
+    ],
+    "faqs": [
+      {
+        "question": "Why don't they operate on everything at once?",
+        "answer": "This is a very understandable question. In severe polytrauma, the body is under enormous stress. Performing all surgeries at once could pose additional risks to the body, which is already fighting to maintain its vital functions. That is why surgeons use a strategy called damage control: first they address injuries that pose an immediate threat to life (hemorrhages, vital organ injuries), and the rest are scheduled for when the patient is more stable. This staged approach, although it may seem slower, actually improves the chances of recovery. The medical team constantly assesses the best timing for each procedure."
+      },
+      {
+        "question": "How long will they be in the ICU?",
+        "answer": "The length of the ICU stay depends greatly on the specific injuries your loved one has and how they progress. Some patients stay for days and others for several weeks. It is not possible to give an exact timeline at the beginning, because the course can vary and complications may arise that extend the stay. The important thing is that they are in the right place, with a team prepared to handle any situation that comes up. When they are sufficiently stable, they will be transferred to a regular hospital ward where recovery will continue. Try not to focus too much on timelines and instead focus on the small daily improvements; every step counts on this journey."
+      },
+      {
+        "question": "Will they have lasting effects?",
+        "answer": "It is natural to worry about long-term consequences. The answer depends on what injuries they have sustained and their severity. Some injuries recover completely with time and appropriate rehabilitation, while others may leave some degree of functional limitation. What we can tell you is that rehabilitation makes an enormous difference: many patients who initially appeared to have very debilitating injuries achieve a much better recovery than expected through consistent physical therapy, occupational therapy, and other treatments. The rehabilitation team will begin working as soon as possible, even while still in the ICU. Your emotional support during this long process will be just as important as the medical treatments."
+      }
+    ]
+  },
+  "insuficiencia_respiratoria": {
+    "name": "Acute Respiratory Failure",
+    "summary": "Occurs when the lungs are unable to supply enough oxygen to the body or cannot adequately remove carbon dioxide. The patient needs breathing assistance, which can range from supplemental oxygen to mechanical ventilation.",
+    "whatIsIt": "Acute respiratory failure occurs when the lungs stop properly performing their primary function: delivering oxygen to the blood and removing carbon dioxide. This can happen for many reasons: severe pneumonia (lung infection), a flare-up of a chronic lung disease (such as COPD or severe asthma), a pulmonary embolism, a complicated surgery, or heart failure that affects the lungs. The result is that the body does not receive the oxygen it needs, which can affect the functioning of all organs. The medical team assesses the severity by measuring oxygen and carbon dioxide levels in the blood through arterial blood gas tests. Treatment is tailored to the cause and severity: it can range from oxygen delivered through a mask or nasal cannula to invasive mechanical ventilation in the most serious cases. The goal is to support breathing while the underlying cause is treated.",
+    "whatToExpect": "Depending on the severity, your loved one may have anything from a nasal cannula for oxygen to an endotracheal tube connected to a ventilator. If they are on a mask or nasal cannula, you may notice them breathing with effort, visibly using the muscles of the neck and ribs more than usual. If they need mechanical ventilation, they will be sedated so the ventilator can do its work without the patient feeling discomfort. You will see monitors displaying blood oxygen levels, respiratory rate, and other data that the nursing team watches constantly. They may also have frequent arterial blood gas tests to adjust treatment. In some cases, non-invasive ventilation is used — a special mask that helps with breathing without the need for an endotracheal tube. The team will explain what type of support your loved one needs and why.",
+    "commonTreatments": [
+      "Oxygen therapy via nasal cannula, mask, or high-flow devices based on the patient's needs",
+      "Non-invasive mechanical ventilation (BiPAP or CPAP mask) to assist breathing without the need for intubation",
+      "Invasive mechanical ventilation (ventilator) with an endotracheal tube in the most severe cases",
+      "Treatment of the underlying cause: antibiotics for pneumonia, bronchodilators for COPD or asthma flare-ups, anticoagulants for pulmonary embolism, among others",
+      "Respiratory physiotherapy to help mobilize secretions and improve lung capacity",
+      "Bronchodilator and anti-inflammatory medication to open the airways",
+      "Progressive weaning from the ventilator: gradual reduction of ventilatory support as the lungs recover"
+    ],
+    "faqs": [
+      {
+        "question": "Will they be able to breathe on their own again?",
+        "answer": "In most cases, yes. Mechanical ventilation is a temporary support used while the lungs recover from the cause of the respiratory failure. Once the underlying condition improves (for example, pneumonia responds to antibiotics or bronchospasm is controlled), the medical team begins a gradual process of reducing ventilator support, called weaning. The patient is gradually allowed to take on more and more of the work of breathing on their own, while the team verifies that they are tolerating it well. The speed of this process depends on each patient. In people with pre-existing lung diseases, weaning may take longer, but the intensive care team has extensive experience in guiding this process safely."
+      },
+      {
+        "question": "Why are they doing arterial blood tests so frequently?",
+        "answer": "An arterial blood gas test is performed by drawing a small blood sample from an artery, usually in the wrist. It is the most accurate way to measure oxygen and carbon dioxide levels in the blood, as well as the body's acid-base balance. These values are essential for understanding how the lungs are functioning at any given moment and for adjusting ventilator settings or the amount of oxygen being delivered. Although it may seem uncomfortable, each blood gas test provides valuable information that allows the team to make the best treatment decisions. As your loved one improves, the frequency of these tests will gradually decrease."
+      },
+      {
+        "question": "What is the difference between the mask and being intubated?",
+        "answer": "These are two different levels of breathing support. Non-invasive ventilation (with a mask) is a less aggressive form of support used when the patient can cooperate, is conscious, and the respiratory situation is not extremely severe. The mask fits snugly over the face and delivers pressurized air to help the lungs expand more effectively. The patient can speak, cough, and, with supervision, remove it to drink or eat. Intubation, on the other hand, involves placing a tube from the mouth into the airways, connected to a mechanical ventilator that takes over breathing entirely. It is used when the situation is more severe or when the mask is not sufficient. The patient needs to be sedated and cannot speak while the tube is in place. The medical team always tries to use the least aggressive method that is effective for each situation."
+      }
+    ],
+    "devicesNote": "If you would like to learn more about these devices, please visit the \"devices\" section where you will find a detailed explanation of each one."
+  },
+  "delirio": {
+    "name": "Delirium (Acute Confusional State)",
+    "summary": "A state of acute confusion that can appear during an ICU stay, in which the patient may be disoriented, agitated, or unusually drowsy. It is common, reversible in most cases, and does not mean there is permanent brain damage.",
+    "whatIsIt": "Delirium, also called acute confusional state, is a sudden disruption in brain function that causes confusion, disorientation, and changes in the level of consciousness. It is very common in ICU patients: it is estimated to affect up to 80% of patients who require mechanical ventilation. The brain, subjected to extreme stress from the illness, medications (especially sedatives and pain relievers), sleep deprivation, the unfamiliar environment, and the absence of familiar faces, can react with this state of confusion. There are three main forms: hyperactive delirium, in which the patient is agitated and restless; hypoactive delirium, in which they are excessively drowsy and disconnected from their surroundings; and mixed delirium, which alternates between both states. Hypoactive delirium is the most common and, paradoxically, the most difficult to detect, because the patient simply appears to be asleep or unresponsive. It is important to understand that delirium is not a mental illness: it is the brain's response to a situation of physical stress, and in the vast majority of cases it resolves when the underlying condition improves and the contributing factors are removed.",
+    "whatToExpect": "If your loved one has delirium, they may not recognize you, may say things that do not make sense, may appear frightened, or may try to pull out tubes and IV lines. They may also be very drowsy, with a distant gaze, not responding to what you say or responding incoherently. These changes can fluctuate throughout the day and are often worse at night. It is understandable that seeing your loved one in this state is deeply distressing, but it is essential to know that this does not reflect who your loved one truly is: it is a temporary disruption caused by the illness and the environment. The medical team assesses delirium daily using specific scales and adjusts treatments to minimize it. In some cases, temporary physical restraints may be necessary to protect the patient; this is always done as a last resort and is removed as soon as possible. Your calm presence, your familiar voice, and objects that connect them to their everyday life are among the most powerful tools against delirium.",
+    "commonTreatments": [
+      "Identification and treatment of underlying triggers: infections, pain, urinary retention, constipation, or metabolic imbalances",
+      "Reduction and adjustment of sedative medications, seeking the minimum necessary for patient comfort",
+      "Promotion of the sleep-wake cycle: natural light during the day, darkness and quiet at night, and reducing nighttime interruptions as much as possible",
+      "Frequent reorientation: reminding the patient where they are, what day it is, who is with them, and why they are in the hospital",
+      "Early mobilization: sitting up in bed or in a chair, and physical therapy exercises as soon as the clinical situation allows",
+      "Use of glasses and hearing aids if the patient normally needs them, to reduce sensory deprivation",
+      "Low-dose antipsychotic medication only when agitation poses a risk to the patient, and for the shortest time possible"
+    ],
+    "faqs": [
+      {
+        "question": "Have they lost their mind? Is this permanent?",
+        "answer": "No, your loved one has not lost their mind nor developed a mental illness. Delirium is a temporary disruption in brain function caused by the illness, medications, and the ICU environment. In the vast majority of cases, it resolves completely when the patient's clinical situation improves and the contributing factors are removed. It is true that while it lasts, it can be very distressing to see them this way, but it is important to understand that what you are seeing does not reflect a permanent change in your loved one. Some patients may take days or even weeks to fully regain their mental clarity, especially if they are older or if the illness has been very severe, but the overall trend is toward full recovery."
+      },
+      {
+        "question": "Is there anything I can do to help?",
+        "answer": "Yes, and much more than you might imagine. Your presence is one of the most effective interventions against delirium. Speaking to them in a calm voice, reminding them who you are, where they are, and what day it is helps them stay oriented. Bring familiar objects if the nursing team allows it: photographs, their glasses, their watch. If possible, try to visit at the same times each day to create a routine that gives them a sense of time. Avoid discussing topics that might upset them or abruptly contradicting them if they say things that do not make sense; instead, gently redirect the conversation. If they talk about things that are not real, do not argue: simply reassure them and change the subject with gentleness. Your calm is contagious — if you are at ease, it helps them feel more at ease too."
+      },
+      {
+        "question": "Why are they worse at night?",
+        "answer": "Delirium tends to worsen at night, a phenomenon doctors call sundowning. This happens because in the ICU the natural cycle of light and darkness is disrupted: there is constant noise, alarms, lights on, and activity throughout the night. The brain, which relies on these environmental cues to regulate sleep and wakefulness, becomes even more disoriented when night falls and the usual reference points are absent. Additionally, at night there are fewer orienting stimuli (such as family visits or daytime activity) and more silence, which can increase feelings of confusion and fear. The ICU team works to improve nighttime conditions by reducing light, noise, and unnecessary interruptions, but the environment remains very different from the patient's home."
+      }
+    ]
+  },
+  "hemorragia_subaracnoidea": {
+    "name": "Subarachnoid Hemorrhage",
+    "summary": "Bleeding that occurs in the space surrounding the brain, usually caused by the rupture of a cerebral aneurysm. It is an emergency that requires urgent treatment and intensive monitoring to prevent serious complications.",
+    "whatIsIt": "A subarachnoid hemorrhage (SAH) occurs when a blood vessel on the surface of the brain ruptures and blood spills into the subarachnoid space — the area between the brain and the protective membranes surrounding it, where cerebrospinal fluid normally circulates. The most common cause is the rupture of a cerebral aneurysm: a small balloon-like bulge in the wall of a brain artery that, when it bursts, causes the bleeding. The most characteristic symptom is a sudden and extremely intense headache, often described as the worst headache of one's life, which may be accompanied by loss of consciousness, vomiting, neck stiffness, and, in the most severe cases, coma. The severity depends on the amount of blood released and the complications that may arise in the following days. Treatment has two main goals: to seal the aneurysm to prevent rebleeding, and to closely monitor the patient to detect and treat complications, the most feared of which is cerebral vasospasm.",
+    "whatToExpect": "When you arrive at the ICU, your loved one will be connected to multiple monitors that continuously track blood pressure, heart rate, oxygen saturation, and in many cases, the pressure inside the skull (intracranial pressure). They may have an external ventricular drain, which is a thin tube that exits from the head and allows pressure to be relieved and accumulated blood to be drained; although its appearance may be alarming, it is a very important device for recovery. They may have a reduced level of consciousness, be sedated, or, in milder cases, be awake but experiencing intense headache, light sensitivity, and confusion. The first two weeks after the hemorrhage are especially critical because there is a risk of vasospasm, a complication in which the brain's arteries narrow and can cause additional damage to the brain. That is why monitoring is very close during this period, and frequent tests are performed to detect it early. It is normal for the room to have dim lighting and limited noise to protect the patient.",
+    "commonTreatments": [
+      "Endovascular coiling or surgical clipping of the aneurysm to seal it and prevent rebleeding",
+      "External ventricular drain to control intracranial pressure and drain blood from the cerebrospinal fluid",
+      "Medication to prevent and treat cerebral vasospasm, including nimodipine",
+      "Strict blood pressure management to protect the brain without compromising cerebral circulation",
+      "Frequent neurological monitoring through clinical examination and imaging studies (CT scan, transcranial Doppler)",
+      "Sedation and analgesia for managing intense headache and cerebral protection",
+      "Prevention of complications: deep vein thrombosis, seizures, and infections",
+      "Progressive rehabilitation when the neurological condition allows"
+    ],
+    "faqs": [
+      {
+        "question": "What is an aneurysm and why did it rupture?",
+        "answer": "A cerebral aneurysm is a small balloon-like or sac-like bulge that forms in the wall of a brain artery, at a point where the wall is weaker. Many people have cerebral aneurysms without knowing it, and they never cause any problems. However, in some cases the aneurysm wall weakens to the point of rupturing, causing the hemorrhage. Factors that increase the risk of rupture include high blood pressure, smoking, and a family history of aneurysms. It is not something that can be easily predicted or prevented, and it is not caused by anything your loved one did wrong. The most important thing right now is that the aneurysm has been identified and will be treated (or has already been treated) to prevent further bleeding."
+      },
+      {
+        "question": "What is vasospasm and why is it so important?",
+        "answer": "Vasospasm is a complication that can occur between day 3 and day 14 after a subarachnoid hemorrhage. It involves the narrowing of the brain's arteries as a reaction to the blood that was released. If the arteries narrow significantly, less blood may reach certain areas of the brain, causing what is known as a delayed cerebral infarction — that is, additional damage to the brain. This is why those two weeks are so critical and the monitoring is so intensive. The medical team performs frequent neurological examinations and uses tests such as transcranial Doppler to detect vasospasm early. If it is detected, treatments are intensified to improve cerebral blood flow. It is a serious complication, but being in the ICU allows it to be detected and treated in time."
+      },
+      {
+        "question": "Will they fully recover?",
+        "answer": "Recovery after a subarachnoid hemorrhage depends on many factors: the amount of initial bleeding, the severity of the condition at admission, whether complications such as vasospasm occurred, and the location of the aneurysm. Some people recover completely and return to their normal lives, while others may have lasting effects such as difficulties with concentration and memory, fatigue, mood changes, or headaches. Rehabilitation plays a fundamental role in recovery and may include physical therapy, occupational therapy, and neuropsychology. It is a process that can take months, and improvement is usually gradual. What we do know is that the patient's attitude and family support positively influence recovery. Your presence, patience, and encouragement are incredibly powerful therapeutic tools."
+      }
+    ]
+  },
+  "hemorragia_digestiva": {
+    "name": "Severe Gastrointestinal Hemorrhage",
+    "summary": "Significant bleeding in the digestive tract (stomach, intestines, or other areas) that can cause substantial blood loss and requires urgent treatment to identify and stop the source of bleeding.",
+    "whatIsIt": "A severe gastrointestinal hemorrhage occurs when there is significant bleeding at some point in the digestive tract. It can be upper, when the source is in the esophagus, stomach, or duodenum (the first part of the small intestine), or lower, when it originates from the large intestine or rectum. The most common causes of upper gastrointestinal bleeding are stomach or duodenal ulcers, esophageal varices (dilated veins in the esophagus, common in patients with liver cirrhosis), and erosions of the stomach lining. Lower gastrointestinal bleeding is usually caused by diverticula, tumors, or inflammatory bowel diseases. When blood loss is significant, the body cannot maintain adequate blood pressure and organs stop receiving enough blood to function, which makes the situation an emergency. The goal of treatment is twofold: to stabilize the patient by replacing lost blood and to find and stop the source of bleeding as quickly as possible.",
+    "whatToExpect": "Your loved one may have arrived at the ICU after vomiting blood (hematemesis), passing black tarry stools (melena) or red blood from the rectum, or after experiencing a sudden drop in blood pressure. You will see that they have multiple intravenous lines through which fluids and blood transfusions are being administered to replace what has been lost. They will be connected to monitors that constantly track heart rate, blood pressure, and other values. They may have a nasogastric tube (a tube that goes from the nose to the stomach) that allows the team to check whether the bleeding is continuing. They will very likely undergo an urgent endoscopy — a procedure in which a specialist inserts a flexible tube with a camera through the mouth or rectum to locate the exact source of bleeding and, in many cases, treat it during the same procedure. If your loved one has liver disease, the situation may be especially complex because the blood's ability to clot may be impaired.",
+    "commonTreatments": [
+      "Volume replacement with intravenous fluids and transfusions of blood, platelets, or plasma as needed",
+      "Urgent digestive endoscopy to locate and treat the source of bleeding (through injection, clips, cauterization, or band ligation for varices)",
+      "Intravenous medication to reduce stomach acid (proton pump inhibitors) and protect the stomach lining",
+      "For esophageal varices: vasoactive medication (terlipressin or octreotide) to reduce pressure in the liver's veins",
+      "Nasogastric tube to monitor the progression of bleeding and wash the stomach if necessary",
+      "Correction of clotting disorders if present, with medications or blood products",
+      "Radiological or surgical intervention if bleeding is not controlled with endoscopy",
+      "Close monitoring of hemoglobin levels, blood pressure, and signs of rebleeding"
+    ],
+    "faqs": [
+      {
+        "question": "Why are they bleeding and can it be stopped?",
+        "answer": "Gastrointestinal bleeding can have many causes, and the first step is to find the exact source. The primary tool for this is endoscopy, which allows direct visualization of the inside of the digestive tract and, in most cases, enables treatment of the bleeding during the same procedure. If it is an ulcer, it can be cauterized or clips can be placed to close the bleeding vessel. If it involves esophageal varices, they can be treated with band ligation. In the vast majority of cases, the bleeding can be controlled with these methods. If endoscopy is not sufficient, there are other options such as interventional radiology or surgery. The medical team works in a coordinated manner to stop the hemorrhage as quickly as possible and, once controlled, to treat the underlying cause and prevent it from happening again."
+      },
+      {
+        "question": "Will they need many transfusions?",
+        "answer": "The number of transfusions depends on the amount of blood that has been lost and whether the bleeding is ongoing or has been controlled. In the first hours, it is common for them to need several units of blood, and sometimes also platelets or plasma to support clotting. The medical team performs frequent blood tests to check hemoglobin levels and determine if more transfusions are needed. Blood transfusions are a safe procedure and save lives in these situations. Once the bleeding stops, the body begins to produce new blood naturally, although returning to normal levels may take weeks. During that time, your loved one may feel weak and tired, which is completely expected."
+      },
+      {
+        "question": "Could it bleed again?",
+        "answer": "The risk of rebleeding does exist and depends on the original cause. That is why, after controlling the acute episode, the medical team puts measures in place to prevent it: medication to protect the stomach, treatment of the underlying disease, and in the case of esophageal varices, endoscopic follow-up programs to monitor and treat any remaining varices. Your loved one will remain in the ICU for as long as necessary to ensure the bleeding is controlled and there are no signs of recurrence. When they are transferred to a regular ward, they will be given instructions on what medication to take, what warning signs to watch for, and when to attend follow-up appointments. Following these instructions significantly reduces the risk of a new episode."
+      }
+    ]
+  },
+  "aclf": {
+    "name": "Acute-on-Chronic Liver Failure (ACLF)",
+    "summary": "A sudden deterioration of liver function in a person who already had chronic liver disease (such as cirrhosis). It can affect the functioning of other organs and requires intensive care to stabilize the patient.",
+    "whatIsIt": "Acute-on-chronic liver failure, known by its acronym ACLF (Acute-on-Chronic Liver Failure), occurs when a liver that was already damaged by chronic disease (usually liver cirrhosis) suffers a sudden worsening that prevents it from performing its vital functions. The liver is an essential organ that, among many other functions, filters toxins from the blood, produces proteins necessary for clotting, regulates blood sugar levels, and produces bile for digestion. When it fails acutely, toxins build up in the blood, clotting is impaired, infections may develop, and other organs such as the kidneys or brain become affected. The most common triggers are infections (such as spontaneous bacterial peritonitis), alcohol consumption, gastrointestinal bleeding, certain medications, or progression of the liver disease itself. Unlike acute liver failure, which occurs in a previously healthy liver, in ACLF the liver already had limited functional reserve, making the situation especially delicate. The ICU team works to identify and treat the trigger, support the function of affected organs, and give the liver time to recover.",
+    "whatToExpect": "Your loved one may have jaundice (yellowing of the skin and eyes), a distended abdomen from fluid accumulation (ascites), confusion or drowsiness (hepatic encephalopathy), and in the most severe cases, multiple organ involvement at the same time. You will see that they have multiple intravenous lines for the administration of medications, fluids, and possibly transfusions. They may have an abdominal drain to remove fluid accumulated in the abdomen. The monitors will continuously track their vital signs. They may need dialysis if the kidneys are affected, or mechanical ventilation if respiratory complications arise. Hepatic encephalopathy, caused by the buildup of toxins that the liver cannot clear, may cause your loved one to be confused, drowsy, or even unresponsive; while deeply distressing, this is potentially reversible if liver function improves. The team will perform frequent blood tests to assess the function of the liver and other organs.",
+    "commonTreatments": [
+      "Identification and treatment of the triggering factor: antibiotics for infections, control of gastrointestinal bleeding, removal of toxic substances",
+      "Treatment of hepatic encephalopathy with lactulose and rifaximin to reduce toxins in the blood",
+      "Paracentesis (drainage of abdominal fluid) to relieve abdominal pressure and improve the patient's comfort",
+      "Support of affected organs: dialysis for the kidneys, mechanical ventilation if needed, vasopressors for blood pressure",
+      "Specialized nutrition adapted to liver disease, which is essential for recovery",
+      "Correction of clotting disorders and prevention of hemorrhages",
+      "Prevention and treatment of infections, to which these patients are especially vulnerable",
+      "Assessment for liver transplantation in cases that require it and meet the criteria"
+    ],
+    "faqs": [
+      {
+        "question": "What does it mean that the liver has failed?",
+        "answer": "When we say the liver has failed, it does not mean it has stopped working completely, but rather that it has lost the ability to perform its functions at a level sufficient to keep the body functioning normally. The liver is like a large chemical factory in the body: it filters toxins, produces essential proteins, manages blood clotting, and participates in hundreds of metabolic processes. When chronic disease has weakened it and a new acute problem is added, that factory cannot keep up. The most visible consequences are jaundice (yellow discoloration), confusion from toxin buildup, clotting problems, and fluid retention. The goal of treatment is to address what caused this deterioration and to support the liver and other organs so they can recover."
+      },
+      {
+        "question": "Why are they confused and don't recognize me?",
+        "answer": "The confusion is due to what is called hepatic encephalopathy. When the liver is not functioning properly, it cannot filter certain toxic substances from the blood, especially ammonia. These toxins reach the brain and temporarily disrupt its function, causing drowsiness, confusion, disorientation, and in the most severe cases, loss of consciousness. It is very important to understand that this confusion does not mean permanent brain damage: it is a direct consequence of liver failure and, in most cases, improves when liver function recovers or when the toxins are treated with medications such as lactulose and rifaximin. In the meantime, speak to them calmly, remind them who you are and where they are, and do not be alarmed if they say things that do not make sense. Your calm presence helps more than you may realize."
+      },
+      {
+        "question": "Will they need a liver transplant?",
+        "answer": "Not all patients with ACLF need a transplant. Many are able to recover with intensive treatment and elimination of the triggering factor. However, in the most severe cases, when the liver shows no signs of recovery and other organs are also failing, a liver transplant may be the only curative option. If the medical team believes your loved one could be a candidate, a comprehensive evaluation will be initiated that includes medical testing, and the transplant team will be contacted. It is a decision made on a case-by-case basis, taking many medical factors into account. We know that the word transplant can cause a great deal of anxiety, but it is important to approach this possibility with the information provided by the medical team, who will guide you through every step."
+      }
+    ]
+  }
+}

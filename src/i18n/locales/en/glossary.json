@@ -1,0 +1,109 @@
+{
+  "title": "Medical glossary",
+  "subtitle": "Medical terms explained clearly",
+  "searchPlaceholder": "Search term...",
+  "noResults": "No terms were found matching your search.",
+  "tip": "If you hear a word that is not listed here, please do not hesitate to ask the medical team. They are here to help you.",
+  "terms": [
+    {
+      "term": "Intubation",
+      "definition": "A procedure in which a flexible tube is inserted through the mouth or nose into the trachea to keep the airway open and allow air to reach the lungs. It is performed when a person cannot breathe safely on their own. Although it may look alarming, it is a routine measure in the ICU that allows the lungs to rest and recover."
+    },
+    {
+      "term": "Extubation",
+      "definition": "The process of removing the intubation tube once the patient is able to breathe independently. Before doing so, the medical team checks that the lungs are functioning well and that the person can sustain breathing on their own. It is a very positive step in recovery."
+    },
+    {
+      "term": "Sedation",
+      "definition": "The administration of medications that keep the patient asleep or in a state of deep calm. It is used so the person does not feel pain or discomfort while receiving intensive treatments, such as mechanical ventilation. The level of sedation is constantly adjusted according to the patient's needs."
+    },
+    {
+      "term": "Mechanical ventilation",
+      "definition": "The use of a machine called a respirator or ventilator that helps the patient breathe when their lungs cannot do so on their own. The device delivers air with oxygen into the lungs in a controlled manner. It can be invasive (with a tube in the trachea) or non-invasive (with a mask fitted to the face)."
+    },
+    {
+      "term": "Oxygen saturation",
+      "definition": "A measurement that indicates how much oxygen the blood is carrying, expressed as a percentage. It is measured with a small sensor placed on the finger called a pulse oximeter, which emits a red light. A normal value is between 95% and 100%, and the medical team monitors it continuously."
+    },
+    {
+      "term": "Blood pressure",
+      "definition": "The force that blood exerts on the walls of the arteries as it is pumped by the heart. It is expressed with two numbers: the top one (systolic) indicates the pressure when the heart beats, and the bottom one (diastolic) when it rests between beats. Keeping it stable is essential for all organs to receive enough blood."
+    },
+    {
+      "term": "Heart rate",
+      "definition": "The number of times the heart beats per minute. In adults, a normal resting rate is between 60 and 100 beats per minute, although in the ICU it may vary depending on medications and the patient's condition. It is monitored continuously on the bedside monitor, where it appears as a green line that rises and falls with each heartbeat."
+    },
+    {
+      "term": "Central venous catheter",
+      "definition": "A thin, long tube that is inserted into a large vein in the body, usually in the neck, chest, or groin. It allows medications, fluids, and nutrition to be delivered directly into the bloodstream quickly and safely. It is also used to measure venous pressure and draw blood samples without the need for repeated needle sticks."
+    },
+    {
+      "term": "Arterial catheter",
+      "definition": "A very thin tube placed in an artery, usually in the wrist, to measure blood pressure continuously and precisely, beat by beat. It also allows arterial blood samples to be drawn to analyze oxygen levels and other gases. It differs from a venous catheter and is usually connected to a monitor that displays a red waveform."
+    },
+    {
+      "term": "Hemofiltration",
+      "definition": "A blood purification technique used when the kidneys cannot adequately filter waste substances from the body. The blood passes through a special filter that removes fluids and toxins, and then returns clean to the body. It is performed continuously and slowly, which makes it gentler than conventional dialysis."
+    },
+    {
+      "term": "Dialysis",
+      "definition": "A procedure that replaces kidney function when the kidneys cannot work properly. Using a machine, the blood is filtered to remove toxic substances and excess fluid that build up in the body. It may be temporary while the kidneys recover, or it may be needed for a longer period depending on the patient's progress."
+    },
+    {
+      "term": "ECMO",
+      "definition": "Stands for Extracorporeal Membrane Oxygenation. It is a machine that takes over the function of the lungs, the heart, or both, by drawing blood out of the body, oxygenating it, and returning it clean. It is used in very serious situations as a last resort when other treatments have not been sufficient. It is a complex technique, but one that can save lives."
+    },
+    {
+      "term": "Prone positioning",
+      "definition": "This involves placing the patient face down for several hours a day to improve lung oxygenation. In this position, areas of the lung that were compressed open up and allow better airflow. It is a widely used technique for patients with severe respiratory difficulty and, although it may look unusual, it is safe and very effective."
+    },
+    {
+      "term": "Hemodynamic",
+      "definition": "Refers to everything related to the flow of blood through the heart and blood vessels. When the medical team talks about the patient's hemodynamic status, they are referring to how the circulatory system is functioning: whether the heart is pumping well, whether blood is reaching all organs properly, and whether blood pressure is adequate."
+    },
+    {
+      "term": "Vasopressors",
+      "definition": "Medications administered intravenously to raise blood pressure when it is dangerously low. They work by constricting blood vessels so that blood circulates with greater force and reaches all organs. They are very common medications in the ICU, and their dosage is constantly adjusted based on the patient's response."
+    },
+    {
+      "term": "Inotropes",
+      "definition": "Drugs that increase the force with which the heart contracts, helping it pump blood more effectively. They are used when the heart is weakened and needs additional support to perform its function. They are administered intravenously with very strict dose monitoring."
+    },
+    {
+      "term": "Edema",
+      "definition": "A buildup of fluid in the body's tissues that causes swelling, most noticeably in the hands, feet, legs, or face. In the ICU, it can occur due to the volume of IV fluids and medications being administered, or because the kidneys are not removing fluid quickly enough. Although it can be distressing to see, it is common, and the medical team works to manage it."
+    },
+    {
+      "term": "Sepsis",
+      "definition": "An uncontrolled response by the body to an infection, in which the immune system, while trying to fight the infection, ends up damaging healthy organs. It is a serious condition that requires urgent treatment with antibiotics and other supportive measures. Early detection and prompt treatment greatly improve the chances of recovery."
+    },
+    {
+      "term": "Septic shock",
+      "definition": "The most severe form of sepsis. It occurs when the infection causes a very significant drop in blood pressure that cannot be corrected with intravenous fluids alone, putting the function of vital organs at risk. It requires intensive treatment with vasopressor medications, antibiotics, and close monitoring in the ICU."
+    },
+    {
+      "term": "Multi-organ failure",
+      "definition": "A condition in which two or more organs in the body stop functioning properly at the same time, such as the kidneys, lungs, or liver. It can occur as a result of a severe infection, an accident, or a serious illness. The ICU team works to support each affected organ with specialized machines and treatments while the body tries to recover."
+    },
+    {
+      "term": "Vital signs",
+      "definition": "The basic measurements that indicate how the body is functioning: heart rate, blood pressure, temperature, respiratory rate, and oxygen saturation. In the ICU, they are monitored continuously through the bedside monitor. The numbers and alarms on the monitor can feel unsettling, but the nursing team watches them at all times."
+    },
+    {
+      "term": "Arterial blood gas (ABG)",
+      "definition": "A blood test that measures the levels of oxygen, carbon dioxide, and the acid-base balance in the blood. It is usually obtained from an artery, often at the wrist. It is a very common test in the ICU that helps the medical team adjust the ventilator and respiratory treatments."
+    },
+    {
+      "term": "Tracheostomy",
+      "definition": "A surgical procedure in which a small opening is made in the front of the neck to insert a tube directly into the trachea. It is recommended when the patient is expected to need mechanical ventilation for an extended period. Although it may seem like a setback, it is actually a measure that improves the patient's comfort, makes hygiene easier, and supports recovery."
+    },
+    {
+      "term": "Weaning (ventilator weaning)",
+      "definition": "The gradual process of withdrawing mechanical ventilation as the patient regains the ability to breathe on their own. It is done step by step, reducing the ventilator's support and checking that the person tolerates each step well. It is a process that may take days or weeks, and every small advance is a positive sign of recovery."
+    },
+    {
+      "term": "Fluid balance",
+      "definition": "A record kept by the nursing team of the amount of fluid entering the body (IV fluids, medications, nutrition) and the amount leaving it (urine, drainage, other losses). Maintaining a proper balance is essential to prevent excess fluid from building up or the patient from becoming dehydrated. It is calculated every few hours and guides decisions about fluid administration and diuretics."
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "appName": "Acompañarte ICU - Río Hortega",
+  "tabs": {
+    "home": "Home",
+    "conditions": "Conditions",
+    "devices": "Devices",
+    "info": "Useful Info",
+    "more": "More"
+  },
+  "home": {
+    "welcome": "Welcome",
+    "subtitle": "We are with you during this difficult time",
+    "description": "This app is designed to help you understand what is happening to your loved one, what the surrounding equipment means, and how you can be by their side during their stay in the ICU at Hospital Universitario Río Hortega in Valladolid.",
+    "sections": {
+      "conditions": {
+        "title": "Conditions",
+        "description": "Understand your loved one's diagnosis"
+      },
+      "devices": {
+        "title": "Devices",
+        "description": "What each piece of equipment does"
+      },
+      "info": {
+        "title": "Useful information",
+        "description": "Schedules, cafeteria, parking..."
+      },
+      "help": {
+        "title": "How to help",
+        "description": "Ways to support your loved one"
+      },
+      "emotional": {
+        "title": "Emotional support",
+        "description": "Take care of yourself so you can care for others"
+      },
+      "faq": {
+        "title": "Frequently asked questions",
+        "description": "Answers to the most common questions"
+      }
+    },
+    "emergencyBanner": "If you need urgent help, call the hospital switchboard: 983 42 04 00 and ask to be transferred to the ICU.",
+    "encouragement": "Remember: you are not alone. The ICU team is here to help you."
+  },
+  "navigation": {
+    "back": "Back",
+    "seeAll": "See all",
+    "readMore": "Read more"
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "spanish": "Español",
+    "english": "English",
+    "about": "About this app",
+    "aboutText": "Acompañarte ICU is a tool created by the ICU team at Hospital Universitario Río Hortega in Valladolid to support the families of patients admitted to our Intensive Care Unit. All content has been reviewed by healthcare professionals at the hospital.",
+    "version": "Version"
+  },
+  "more": {
+    "title": "More options",
+    "help": "How to help your loved one",
+    "helpDescription": "Communication, ICU diaries, self-care",
+    "social": "Social worker",
+    "socialDescription": "Hours, appointments and available resources",
+    "glossary": "Medical glossary",
+    "glossaryDescription": "Medical terms explained clearly",
+    "faq": "Frequently asked questions",
+    "faqDescription": "Answers to common questions about the ICU",
+    "emergency": "Emergency contacts",
+    "emergencyDescription": "Important phone numbers and how to get in touch",
+    "emotional": "Emotional support",
+    "emotionalDescription": "Resources and strategies to take care of yourself",
+    "settings": "Settings",
+    "settingsDescription": "Language and preferences"
+  },
+  "accessibility": {
+    "goBack": "Go back",
+    "expandSection": "Expand section",
+    "collapseSection": "Collapse section",
+    "openDetail": "Open detail"
+  },
+  "notFound": {
+    "title": "Page not found",
+    "message": "We're sorry, this page does not exist.",
+    "goHome": "Go to home"
+  }
+}

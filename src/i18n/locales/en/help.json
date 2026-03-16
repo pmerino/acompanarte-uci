@@ -1,0 +1,42 @@
+{
+  "title": "How to help your loved one",
+  "subtitle": "Ways to be present and supportive during the ICU stay",
+  "sections": [
+    {
+      "id": "comunicacion",
+      "title": "Communicating with the patient",
+      "icon": "record-voice-over",
+      "content": "Even if your loved one is sedated or apparently unconscious, numerous scientific studies have shown that many patients can sense the presence and voice of those close to them, and that this can be deeply comforting. Talk to them naturally — tell them about your day, what the weather is like outside, what the grandchildren, friends, or pets are up to. You don't need to say anything extraordinary: your familiar voice is, in itself, a source of comfort and a connection to everyday life. If you find it hard to know what to say, you can read them their favorite book, the newspaper, or messages sent by family and friends. Music they enjoy, played at a low volume with the nursing team's permission, can also be a positive and calming stimulus. Gently touch their hand or arm if the medical team allows it, as physical contact conveys love and presence in a way that words sometimes cannot. Don't worry if you don't get a visible response — what matters is that you are there, and that is invaluable. Many patients, once recovered, recall hearing their family members and describe that experience as something that gave them the strength to keep going."
+    },
+    {
+      "id": "diarios",
+      "title": "ICU diaries",
+      "icon": "menu-book",
+      "content": "ICU diaries are notebooks where family members and the patient themselves write about what happens day by day during the hospital stay. This practice, supported by extensive scientific evidence, has been shown to significantly help the patient's emotional recovery after discharge, as many people who go through an ICU experience memory gaps or confused recollections of that period. In the diary, you can write about how the day went, who came to visit, what you talked about, small improvements you noticed, or simply words of encouragement and love. You can also include photographs, drawings from children, or other items that will help reconstruct those days when your loved one is able to read it. Don't worry about the quality of the writing or what you put down — what matters is that it is genuine and reflects the support you are providing. When the patient recovers, this diary will help them understand what they went through, fill the gaps in their memory, and feel the love and dedication of their family during the most difficult moments. Our unit does not currently provide specific ICU diaries, but you can start one on your own or ask us for a notebook — we will be happy to help with whatever you need. Many hospitals have incorporated this tool as part of their humanization protocols, recognizing its enormous therapeutic value."
+    },
+    {
+      "id": "autocuidado",
+      "title": "Take care of yourself so you can care for others",
+      "icon": "self-improvement",
+      "content": "We know that right now all your attention and energy are focused on your loved one, but it is essential that you don't forget about yourself. Your physical and emotional well-being is vital to being able to support your loved one in the best way possible, and neglecting yourself doesn't help anyone. Try to maintain basic meal and sleep schedules, even though it's hard — your body needs fuel and rest to face this situation, which may be prolonged. Don't feel guilty about going for a walk, having a quiet coffee, or resting at home for a while; stepping away briefly doesn't mean you love your loved one any less — it means you are taking care of yourself so you can continue to be there. Your loved one will need your support when they leave the ICU and continue their recovery on a general ward, so it is important to save your energy. Accept help from others, whether it's taking turns visiting, bringing you food, handling errands, or simply keeping you company in the waiting room. If you feel that anxiety, sleeplessness, or sadness are overwhelming you, ask to speak with the hospital's psychology service or social worker — they are trained to help families in your situation, and there is no weakness in needing support. Remember that you are an essential part of your loved one's recovery process, and to fulfill that role you need to be in the best shape possible. Being kind to yourself during these difficult times is an act of strength, not selfishness."
+    },
+    {
+      "id": "equipo",
+      "title": "Working with the medical team",
+      "icon": "groups",
+      "content": "The team of professionals caring for your loved one includes intensive care physicians, nurses, nursing assistants, physiotherapists, and other specialists who work together to provide the best possible care. For communication to be smooth and effective, it is strongly recommended that the family designate one or two people as the primary points of contact — they will speak with the medical team and then share the information with the rest of the family. Typically, the attending physician will provide updates during morning visiting hours, inside your loved one's room. Don't hesitate to prepare your questions in advance and write them down, as it's easy to forget what you wanted to ask during stressful moments. If there is something you don't understand, kindly ask them to explain it in a different way — healthcare professionals are used to adapting their language and prefer that you ask rather than leave with unanswered questions. It is also very valuable to share information about your loved one that could help with their care, such as their first name, their routines, their preferences, any unrecorded allergies, or any relevant details about their daily life. The relationship with the healthcare team works best when it is built on mutual trust, open communication, and respect for each person's role. Remember that you all share the same goal: your loved one's recovery and well-being."
+    },
+    {
+      "id": "objetos",
+      "title": "Meaningful personal items",
+      "icon": "favorite",
+      "content": "Personal items with sentimental value can be a great help to the patient, especially as they begin to wake up and need to orient themselves in an unfamiliar, technology-filled environment. Family photographs, a small religious image if they are a person of faith, or a garment that smells like home can provide comfort and a sense of identity. Before bringing any item, always check with the nursing team, as they will let you know what is safe and appropriate given the patient's condition and the unit's guidelines. These small details help humanize the ICU environment and remind the patient that there is a world full of love waiting for them outside. Don't underestimate the power of a simple gesture: a photo placed where they can see it or a handwritten note can make an enormous difference in your loved one's spirits."
+    },
+    {
+      "id": "presencia",
+      "title": "The power of being present",
+      "icon": "volunteer-activism",
+      "content": "Sometimes families feel they should be doing something more, something special, to help their loved one. But the truth is that simply being there, by their side, is one of the most valuable things you can offer. Your presence conveys security, love, and a connection to life outside the hospital — and that has a real therapeutic effect that science has confirmed. Holding their hand, gently stroking their forehead, maintaining a calm and warm presence — all of this communicates what words often cannot express. You don't need to fill the silence or feel obligated to talk constantly; sometimes, shared silence is the deepest form of companionship. Remember that your presence not only helps your loved one, but also helps you: being close, knowing that you are by their side, can give you a sense of purpose and peace amid the uncertainty."
+    }
+  ]
+}

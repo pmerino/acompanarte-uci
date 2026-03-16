@@ -1,0 +1,111 @@
+{
+  "title": "Frequently asked questions",
+  "subtitle": "Answers to the most common questions about the ICU",
+  "note": "Every situation is different. These answers are for general guidance only. The medical team caring for your loved one is best placed to address your specific questions.",
+  "categories": [
+    {
+      "name": "About the ICU stay",
+      "icon": "bed",
+      "questions": [
+        {
+          "question": "How long will my loved one be in the ICU?",
+          "answer": "We know this is one of the most worrying questions, and that is completely understandable. The length of an ICU stay varies greatly from person to person and depends on the illness, the response to treatment and how each patient progresses. Some people stay for a few days while others need weeks. The medical team will keep you informed about progress and, when possible, will give you a more specific estimate. Try to focus on the day-to-day improvements, however small they may seem."
+        },
+        {
+          "question": "Why are there so many machines and wires connected?",
+          "answer": "It is completely normal to find the amount of equipment around your loved one overwhelming at first. Each machine serves an important purpose: the monitors continuously track vital signs, the infusion pumps deliver medication with precision, and the ventilator helps with breathing if needed. The wires and tubes are tools that allow the medical team to provide the best possible care for your loved one. Over time, you will become more familiar with them and they will feel less intimidating."
+        },
+        {
+          "question": "Is my loved one in pain?",
+          "answer": "Pain management is an absolute priority in the ICU. The nursing team regularly assesses the patient's pain level using specialised scales, even when the person cannot communicate verbally. If any sign of pain or discomfort is detected, the necessary medication is administered immediately. If your loved one is sedated, the sedation drugs also include pain-relieving components. You can rest assured that their comfort is always a priority."
+        },
+        {
+          "question": "Can my loved one hear me even though they are sedated?",
+          "answer": "Although we cannot say so with absolute certainty, there is scientific evidence suggesting that sedated patients can perceive the presence and voice of their loved ones. Many patients, upon waking, recall having heard familiar voices during their time in the ICU. That is why we encourage you to speak to them normally, tell them about everyday things, and gently hold their hand. Your presence and your voice can be an incredibly important source of comfort in their recovery."
+        },
+        {
+          "question": "What does it mean when the patient is stable?",
+          "answer": "When the medical team says your loved one is stable, it means their vital signs (blood pressure, heart rate, oxygen levels) are staying within acceptable values and are not changing in a worrying way. It is a positive term that indicates the situation is under control at that moment, although it does not necessarily mean there has been improvement compared to the previous day. If you hear that they are 'stable but critical', it means the situation remains serious but there is no active deterioration."
+        }
+      ]
+    },
+    {
+      "name": "About visiting",
+      "icon": "people",
+      "questions": [
+        {
+          "question": "How many times a day can I visit my loved one?",
+          "answer": "Visiting hours and rules vary by hospital and by intensive care unit. There are usually set time slots, and there may be a limit on the number of visitors who can enter at once. We recommend asking the unit's nursing team about the exact times and specific rules. Many ICUs are moving towards open-door models with more flexible hours, especially for close family members."
+        },
+        {
+          "question": "Can I touch my loved one during a visit?",
+          "answer": "Yes, in most cases you can touch your loved one. Physical contact, such as holding their hand or gently stroking their arm or forehead, is very beneficial and comforting for both the patient and for you. The nursing team will show you how to do so carefully without disturbing wires or catheters. In some exceptional cases, such as certain isolation situations, you may need to wear gloves, but you will still be able to maintain that important physical connection."
+        },
+        {
+          "question": "Can children visit the ICU?",
+          "answer": "Rules about children visiting vary by hospital. Some allow visits from children above a certain age with prior authorisation, while others restrict access. If you would like a child to visit your loved one, it is best to discuss it first with the medical team and the hospital's psychology service, who can advise you on how to prepare the child for the visit. It is important that the child knows beforehand what they will see and that they have the choice of whether or not to go in."
+        },
+        {
+          "question": "What can I bring to my loved one's room?",
+          "answer": "Generally you can bring personal items that provide emotional comfort, such as family photos, a small religious image or a meaningful object. Always check with the nursing staff before bringing anything, as there are hygiene rules to follow. Fresh flowers and food are usually not allowed. Some hospitals allow a small music player with headphones, which can be very beneficial for the patient."
+        },
+        {
+          "question": "Why am I sometimes asked to wait outside even during visiting hours?",
+          "answer": "If you are asked to wait a few minutes before going in, it is because the team is carrying out a procedure or providing care that requires privacy and sterility, or there may be an emergency being attended to in the unit. It does not necessarily mean something bad has happened with your loved one. The team will always let you know what is happening as soon as possible. We know those minutes of waiting can feel very long, but we ask for your patience."
+        }
+      ]
+    },
+    {
+      "name": "About treatments",
+      "icon": "medication",
+      "questions": [
+        {
+          "question": "Why do treatments change so often?",
+          "answer": "In the ICU, treatments are constantly adjusted because the patient's condition can change from hour to hour. The medical team continuously monitors vital signs, blood tests and the response to medications, and adapts treatment based on all that information. A change in treatment does not necessarily mean something is going wrong; it is often a sign that the team is being very thorough and is personalising care at every stage."
+        },
+        {
+          "question": "Is it normal for so many medications to be given at the same time?",
+          "answer": "Yes, in the ICU it is common for several medications to be administered simultaneously. Each one serves a specific purpose: some fight infection, others maintain blood pressure, others manage pain, others protect the stomach, and so on. The pharmacy team works closely with the doctors to ensure all medications are compatible with each other and are given at the correct doses. It is a very well-coordinated team effort."
+        },
+        {
+          "question": "What does it mean when they are going to do an imaging test?",
+          "answer": "Imaging tests, such as X-rays, CT scans or ultrasounds, allow the medical team to see inside the body without the need for surgery. They are essential tools for diagnosing problems, checking the position of tubes and catheters, and assessing how the lungs or other organs are progressing. These are safe and painless tests that provide very valuable information for making the best treatment decisions."
+        },
+        {
+          "question": "When will my loved one be able to start eating?",
+          "answer": "While the patient is on a ventilator or deeply sedated, they receive nutrition through a tube that reaches the stomach or directly through an intravenous line. When their condition allows, food will be introduced gradually, starting with liquids and progressing to more solid foods. The hospital's nutrition team plays an active role in this process. Each step forward is a positive sign of recovery."
+        },
+        {
+          "question": "Can complications arise during an ICU stay?",
+          "answer": "The ICU treats patients with serious illnesses, and complications can arise during admission, such as hospital-acquired infections, kidney problems or respiratory complications. The medical team is prepared to detect and treat them as quickly as possible. If a complication occurs, they will let you know and explain how it will be managed. It is important for you to know that the team works tirelessly to prevent and resolve them as soon as they can."
+        }
+      ]
+    },
+    {
+      "name": "About communicating with the team",
+      "icon": "forum",
+      "questions": [
+        {
+          "question": "Who can I speak to about how my loved one is doing?",
+          "answer": "The key person for daily medical updates is the doctor responsible for your loved one's care. Typically, there is a set time each day for the doctor to update family members on the patient's progress. The nursing team can also guide you on care and the general situation, and they are present around the clock. We recommend designating one family member as the main point of contact to receive information and pass it on to the rest of the family, which makes communication easier and helps avoid misunderstandings."
+        },
+        {
+          "question": "Can I request a second medical opinion?",
+          "answer": "It is your right to request a second opinion on your loved one's diagnosis or treatment. If you feel you need another assessment, you can let the ICU medical team know, and they will arrange it or tell you how to proceed. Do not feel guilty about asking; it is completely normal and perfectly legitimate. The medical team will understand and cooperate in the process."
+        },
+        {
+          "question": "What should I do if I don't understand what the doctor is telling me?",
+          "answer": "It is very common not to understand all the medical information, especially in such an emotionally stressful situation. Do not hesitate to ask the doctor to explain in simpler terms or to repeat anything you did not understand. You can bring a notebook to write down questions that come to mind between visits, so you don't forget anything. You can also check the glossary in this app to become familiar with the most common terms. No question is silly or a bother."
+        },
+        {
+          "question": "Is it possible to speak to my loved one by phone if they are conscious?",
+          "answer": "In many cases, yes, it is possible to have a phone call or video call with the patient, as long as their condition allows it and with the help of the nursing team. Some ICUs have tablets available or facilitate this kind of contact, especially when visiting hours are limited. Ask the team whether this option is available in your case. Hearing the voice of family members can be enormously beneficial for recovery."
+        },
+        {
+          "question": "Can I access my loved one's medical records?",
+          "answer": "You have the right to receive clear and understandable information about your loved one's health. Access to full medical records is regulated by law and generally requires the patient's authorisation or, if they are unable to give it, the authorisation of their legal representative. The hospital's Patient Services department can advise you on the necessary procedures. In any case, the medical team has a duty to keep you informed about progress and treatments in an understandable way."
+        }
+      ]
+    }
+  ]
+}

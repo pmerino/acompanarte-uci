@@ -14,6 +14,17 @@ import faq from './locales/es/faq.json';
 import emergency from './locales/es/emergency.json';
 import emotional from './locales/es/emotional.json';
 
+import commonEn from './locales/en/common.json';
+import conditionsEn from './locales/en/conditions.json';
+import devicesEn from './locales/en/devices.json';
+import infoEn from './locales/en/info.json';
+import helpEn from './locales/en/help.json';
+import socialEn from './locales/en/social.json';
+import glossaryEn from './locales/en/glossary.json';
+import faqEn from './locales/en/faq.json';
+import emergencyEn from './locales/en/emergency.json';
+import emotionalEn from './locales/en/emotional.json';
+
 const LANGUAGE_KEY = '@acompanarte_language';
 
 const resources = {
@@ -29,6 +40,18 @@ const resources = {
     emergency,
     emotional,
   },
+  en: {
+    common: commonEn,
+    conditions: conditionsEn,
+    devices: devicesEn,
+    info: infoEn,
+    help: helpEn,
+    social: socialEn,
+    glossary: glossaryEn,
+    faq: faqEn,
+    emergency: emergencyEn,
+    emotional: emotionalEn,
+  },
 };
 
 export async function initI18n() {
@@ -38,7 +61,7 @@ export async function initI18n() {
   } catch {}
 
   const deviceLocale = getLocales()[0]?.languageCode ?? 'es';
-  const language = savedLanguage || (deviceLocale === 'es' ? 'es' : 'es');
+  const language = savedLanguage || (deviceLocale === 'en' ? 'en' : 'es');
 
   await i18next.use(initReactI18next).init({
     resources,

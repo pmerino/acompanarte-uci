@@ -1,0 +1,43 @@
+{
+  "title": "Emotional support",
+  "subtitle": "Taking care of yourself is also taking care of your loved one",
+  "intro": "Having a loved one in the ICU is one of the most difficult experiences anyone can go through. It is normal to feel overwhelmed, lost, or drained. We want you to know that what you are feeling is completely valid and that you don't have to face this alone. Taking care of your emotional well-being is not a luxury or selfishness — it is a necessity so you can be there for your loved one in the best way possible.",
+  "sections": [
+    {
+      "id": "sentimientos",
+      "title": "What you may be feeling",
+      "icon": "psychology",
+      "content": "You may find yourself on an emotional rollercoaster these days, with feelings that shift from one moment to the next. The fear of losing your loved one, the uncertainty about what will happen, the helplessness of not being able to do anything to make things better. Perhaps you feel guilt — for not having done something sooner, for going home to rest, for feeling angry, or even for having moments when you laugh or get distracted. You may feel anger toward the situation, toward the doctors, or even toward the person who is ill. Deep sadness, emotional exhaustion, and a sense of unreality — as if none of this could really be happening — are also very common reactions. All of these emotions are normal responses to a situation that is not normal. There is no right or wrong way to feel. Give yourself permission to feel what you feel without judging yourself."
+    },
+    {
+      "id": "estrategias",
+      "title": "Strategies for these days",
+      "icon": "spa",
+      "content": "Although the situation feels overwhelming, there are small things you can do to take care of yourself and feel a little better. Try to maintain some basic routines: eat even if you're not hungry, sleep even if it's hard, go for a walk even if it's just for a few minutes. Conscious breathing can help you in moments of intense distress: breathe in slowly counting to four, hold your breath counting to four, and breathe out counting to four. Repeat several times. Accept help when it's offered: when someone asks what they can do, give them something specific — like bringing you food, accompanying you to the hospital, or taking care of an errand. Write down what you're feeling in a notebook or on your phone; putting emotions into words helps you process them. Let others take turns keeping your loved one company so you can rest. Don't try to be strong all the time — crying is necessary and liberating. And remember that taking care of yourself is not abandoning your loved one; it is recharging your strength so you can continue to be by their side."
+    },
+    {
+      "id": "profesional",
+      "title": "Professional help",
+      "icon": "support-agent",
+      "content": "Asking for professional help is not a sign of weakness — it is a sign of wisdom and courage. The hospital psychologists are trained to support you through this situation and can offer you specific tools for coping with stress, anxiety, and anticipatory grief. If you feel that distress is preventing you from sleeping, eating, or functioning for several days in a row, if you have thoughts of harming yourself, or if you feel you simply cannot take any more, it is important to seek help as soon as possible. Ask the nursing team or the hospital's social worker how to access the psychology service. Many hospitals also offer support groups for families of ICU patients, where you can share your experience with others going through the same thing. There are also external psychologists who specialize in crisis and grief if you prefer a space outside the hospital."
+    },
+    {
+      "id": "familia",
+      "title": "Caring for family relationships",
+      "icon": "family-restroom",
+      "content": "A crisis situation in the ICU puts family relationships to the test. Each person copes with pain differently: some need to talk constantly, others prefer silence; some want to be at the hospital all day, others need to keep their distance. No way is better than another. Try not to judge each other or interpret other people's reactions as a lack of love or concern. It is very helpful to organize shifts for visits and to designate one person to centralize medical information and share it with the rest of the family, avoiding confusion and exhaustion. If disagreements arise about medical decisions, ask the team to explain the options calmly and, if necessary, request a family meeting with the physician. Be patient with one another — exhaustion and fear can lead to arguments that wouldn't happen under normal circumstances."
+    },
+    {
+      "id": "ninos",
+      "title": "Talking to children",
+      "icon": "child-care",
+      "content": "Explaining to a child that a loved one is in the ICU is difficult, but children can sense that something is going on and they need age-appropriate information so they don't fill in the gaps with their imagination, which is often worse than reality. With younger children, use simple, concrete language: 'Grandpa is very sick and he's in a special hospital where the doctors are taking really good care of him.' Avoid expressions like 'he's gone to sleep' because they can create a fear of sleeping. With older children and teenagers, you can share more details and allow them to ask questions, always answering honestly. If a child wants to visit their loved one, prepare them by explaining what they will see: the machines, the tubes, the sounds. Tell them they can touch their hand and talk to them. But also respect it if the child prefers not to go in — never force them. It is normal for children to express their worry through behavior rather than words: they may be more irritable, have trouble sleeping, or find it hard to concentrate at school. Keep their routines as normal as possible and reassure them that there are adults taking care of the situation."
+    },
+    {
+      "id": "recursos",
+      "title": "Resources and helplines",
+      "icon": "phone-in-talk",
+      "content": "If you need to talk to someone, there are people ready to listen at any time. The Teléfono de la Esperanza (717 003 717) offers 24-hour support for people in emotional crisis. The 024 line specializes in suicide prevention support and is completely free and confidential. The Official College of Psychologists in your region can guide you toward professionals who specialize in crisis and grief. Many patient associations also offer specific support groups for families. You don't have to go through this alone — there is a network of people and resources ready to help you, and reaching out to them is an act of strength, not weakness."
+    }
+  ]
+}

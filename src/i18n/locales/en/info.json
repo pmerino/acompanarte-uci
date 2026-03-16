@@ -1,0 +1,39 @@
+{
+  "title": "Useful information",
+  "subtitle": "Everything you need to know during your time at Hospital Universitario Río Hortega",
+  "horarios": {
+    "name": "Visiting hours",
+    "icon": "schedule",
+    "content": "The ICU at Hospital Universitario Río Hortega has two daily visiting times: at 11:45 AM and 7:00 PM, every day of the week. A maximum of 2 people are allowed in at a time, and they may take turns in the waiting room. During the morning visit, the attending physician updates family members on the patient's progress. It is important to arrive a little early so you can receive this information and prepare before going in. Please note that visiting times may occasionally change depending on the unit's care activity; staff will let you know if there are any changes. Always feel free to ask the team if you have questions about the schedule or if you have special circumstances you need to share — we will work together to find alternative solutions."
+  },
+  "cafeteria": {
+    "name": "Cafeteria and meals",
+    "icon": "restaurant",
+    "content": "The cafeteria at Hospital Universitario Río Hortega is located in the main lobby of the hospital. It is open from 8:00 AM to 10:00 PM every day, and you can get hot meals, sandwiches, drinks, and snacks there. There is also a newsstand and general store open from 8:00 AM to 9:00 PM. Outside of these hours, vending machines are available in various areas of the hospital; ask staff about their location and availability. Near the hospital you will find the Hotel Río Hortega, which has a restaurant and cafeteria open to the public and can be a convenient alternative if you need more variety. We know that eating may feel like the last thing on your mind right now, but nourishing yourself well is essential to keep up your strength and be there for your loved one in the best way possible. Try not to skip meals and stay hydrated. Taking care of your nutrition is also a way of taking care of the person you love most."
+  },
+  "telefonos": {
+    "name": "Important phone numbers",
+    "icon": "phone",
+    "content": "The main switchboard number for Hospital Universitario Río Hortega is 983 42 04 00. To reach the ICU, call the switchboard and ask to be transferred to the Intensive Care unit; staff will let you know the best times to call, generally outside of shift changes and visiting hours. If you need to contact a specific hospital room directly, the number is 983 44 16 26 followed by the corresponding room extension. For general inquiries or administrative matters, you can call the Patient Services Department at 983 420 400, extension 83145. The hospital parking phone number is 983 31 51 25. When calling the ICU, have the patient's full name ready, their bed number if you know it, and your family relationship, as for confidentiality reasons information is only provided to authorized immediate family members. We recommend designating one family member as the main contact person for calling the unit, so that communication flows smoothly and repeated calls are avoided. Do not hesitate to call if you have an urgent concern — the team is here to help you."
+  },
+  "parking": {
+    "name": "Parking",
+    "icon": "local-parking",
+    "content": "The parking facility at Hospital Universitario Río Hortega is located at the hospital itself, on Calle Dulzaina, 2 (Valladolid), and is managed by Empark/Telpark. It has 825 spaces and is open 24 hours a day, 365 days a year. Rates start from 1.15 EUR/hour, with a daily maximum from 11.45 EUR. You can pay with both cash and card. The Telpark app is also available, which allows express entry via license plate recognition, making access much quicker. The parking facility has reserved spaces for people with reduced mobility and elevators for easy access to the hospital. If your stay will be a long one, ask at the information desk or at Patient Services whether there are special rates or passes for families of long-stay patients. The parking phone number is 983 31 51 25. Also consider alternative options such as public transport, which has good connections to the hospital, to avoid unnecessary stress with parking."
+  },
+  "alojamiento": {
+    "name": "Nearby accommodation",
+    "icon": "hotel",
+    "content": "If you live far from Valladolid and need accommodation while your loved one is in the ICU at Hospital Universitario Río Hortega, there are several options. Near the hospital you will find the Hotel Río Hortega, which has a restaurant and cafeteria and can be a convenient choice due to its proximity. We recommend reaching out to the hospital's social worker, who can provide information about solidarity housing options, host apartments, agreements with hotels at reduced rates, or other alternatives available in Valladolid for families in this situation. You can also contact the Patient Services Department (phone 983 420 400, extension 83145), where they can guide you regarding available resources. Please do not hesitate to ask for help — there are resources specifically designed to support you, and the hospital team can help you find the option that best fits your needs and circumstances."
+  },
+  "pertenencias": {
+    "name": "Patient belongings",
+    "icon": "inventory-2",
+    "content": "The ICU at Hospital Universitario Río Hortega allows you to bring certain personal items that may be beneficial for the patient: family photographs, glasses, hearing aids, basic toiletries, and — when the patient's condition allows — a mobile phone, books, newspapers, puzzles, and a tablet. However, it is essential to always check with the nursing team before bringing any item, as they will let you know what is allowed, where to place it, and whether it is appropriate given the patient's condition. Do not bring valuables, jewelry, or large amounts of money. The hospital is not responsible for the loss or damage of valuables brought into the unit. Patient belongings are usually stored in a labeled bag upon admission and are handed over to the family during the first ICU visit. If the family cannot be located at the time of admission, valuable items such as a wallet, jewelry, phone, and keys are kept safe by hospital security to prevent loss. If you have any questions about a specific item, ask the nursing staff — they are here to help and guide you."
+  },
+  "normas": {
+    "name": "ICU guidelines",
+    "icon": "rule",
+    "content": "To ensure the safety of all patients, the ICU at Hospital Universitario Río Hortega has established the following guidelines. A maximum of 2 visitors per patient are allowed at a time during each visit. Children under 12 years of age are not permitted in the ICU; if there are exceptional circumstances, these must be coordinated in advance with the nursing team. Hand hygiene is mandatory: use the alcohol-based hand sanitizer available both when entering and leaving the unit. If you have a fever, cough, or other respiratory symptoms, please do not enter the visiting area and inform the unit staff so they can take the necessary measures. Mobile phones must be set to silent mode inside the ICU; check with the nursing staff if you may use yours in the patient's room. Please keep noise to a minimum at all times and follow the instructions of the healthcare staff. Do not touch any medical equipment under any circumstances, as it is specifically configured for each patient's treatment. The main hospital door is open from 6:45 AM to 10:30 PM. These guidelines may seem strict, but they are all designed to ensure the safety and well-being of your loved one — following them is one of the most important ways you can help."
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "title": "Medical devices",
+  "subtitle": "What each device you see in the ICU does",
+  "ventilador": {
+    "name": "Ventilator",
+    "summary": "The ventilator is a machine that helps your loved one breathe when their body needs to rest or cannot do so on its own. It is one of the most common pieces of equipment in the ICU and plays a vital role in their recovery.",
+    "whatIsIt": "The ventilator is a device that delivers air with oxygen to your loved one's lungs when their body needs help breathing. It does not mean they will never be able to breathe on their own again — it simply means that right now their body needs this extra support so it can focus all its energy on recovery. It works through a tube that is gently inserted through the mouth or nose down to the trachea, which is the airway that carries air to the lungs. In some cases, if the patient needs the ventilator for a longer period of time, the doctors may perform a tracheostomy, which is a small opening in the neck where the tube is connected directly. The medical team adjusts the ventilator settings on an individual basis according to each patient's needs, regulating the amount of oxygen and the rate at which air is delivered.",
+    "howItWorks": "The ventilator takes air from the environment, enriches it with the exact amount of oxygen your loved one needs, and gently delivers it to their lungs through the tube. The machine can do all the work of breathing for the patient, or it can simply give a boost each time they try to breathe on their own. The doctors and nurses program very precise parameters on the ventilator screen, such as how many times per minute it should deliver air and how much air volume in each breath. The ventilator also warms and humidifies the air before delivering it, making it as comfortable as possible for the lungs. All of this is constantly monitored and adjusted as your loved one improves.",
+    "whatYouWillSee": "You will see a large machine next to the bed with a screen displaying graphs and colored numbers. A corrugated tube (like an accordion) runs from the machine to the tube connected to your loved one's mouth or neck. It is normal to hear a soft rhythmic sound, similar to a sigh, each time the machine delivers air — that sound is completely normal and means the ventilator is working properly. You may also hear an alarm from time to time; do not be alarmed, as most alarms are simply routine alerts that the nursing staff checks immediately.",
+    "importantNotes": [
+      "It is normal for your loved one not to be able to speak while the ventilator tube is in place. This does not mean they cannot hear you — talk to them with love, because many people remember the voices of their loved ones during this time.",
+      "The alarms you may hear do not always mean something is wrong. They are often triggered by small movements, a cough, or simply because the machine needs a minor adjustment. The nursing team checks them right away.",
+      "The patient usually receives medication to stay calm and comfortable while connected to the ventilator. If you notice their eyes are closed or they appear to be sleeping, this is part of the treatment to help them rest better.",
+      "Do not touch or move the ventilator tubes. If you notice something that seems out of place, let the nursing staff know — they will be happy to help.",
+      "Every day the medical team evaluates whether your loved one can begin breathing more on their own. Weaning off the ventilator is done gradually and safely, following the patient's pace of recovery."
+    ],
+    "faqs": [
+      {
+        "question": "Does the tube hurt them?",
+        "answer": "The medical team ensures your loved one is comfortable at all times. Pain medication and sedation are administered so they do not feel discomfort from the tube. Additionally, the nursing staff frequently checks the position of the tube and the condition of the mouth and surrounding skin to prevent any irritation. Although it may look uncomfortable, your loved one is receiving all the care necessary to ensure they are not in pain."
+      },
+      {
+        "question": "How long will they be connected to the ventilator?",
+        "answer": "The length of time a person needs the ventilator varies greatly from patient to patient and depends on the reason it was needed in the first place and how they are progressing. The doctors evaluate every day whether your loved one is ready to begin breathing more on their own. Weaning off the ventilator is done progressively and carefully, never in a rush. The most important thing is that the team works every day with the goal of helping your loved one breathe on their own as soon as possible and in the safest way."
+      },
+      {
+        "question": "Can they hear me even though they are connected to the ventilator?",
+        "answer": "Yes, there is strong evidence that patients connected to a ventilator can hear their loved ones, even when sedated. Your voice can be an enormous source of comfort and reassurance. We encourage you to speak to them calmly, share everyday stories, read to them, or simply let them know you are there. Avoid conversations that might cause distress and choose words of affection and encouragement instead. Your presence and your voice are an important part of their recovery."
+      }
+    ]
+  },
+  "monitor": {
+    "name": "Vital signs monitor",
+    "summary": "The vital signs monitor is the screen that continuously shows how your loved one's heart, lungs, and other vital signs are functioning. It is like a silent guardian that helps the medical team care for your loved one 24 hours a day.",
+    "whatIsIt": "The vital signs monitor is a screen located near the head of the bed that displays real-time information about your loved one's health status. It measures and shows data such as heart rate (how fast the heart is beating), blood pressure, blood oxygen saturation (how much oxygen is reaching the organs), respiratory rate (how many times they breathe per minute), and body temperature. All this information allows the medical and nursing team to quickly detect any changes and act immediately if needed. It is one of the most important tools in the ICU because it provides continuous information without the need to constantly disturb the patient.",
+    "howItWorks": "The monitor works through several small sensors placed on your loved one's body. Adhesive patches called electrodes are gently applied to the chest to record the heart's electrical activity and display the electrocardiogram (the line that rises and falls that you have probably seen in movies). A small clip or sensor with a red light placed on the finger measures the amount of oxygen in the blood without causing any discomfort. In the ICU, blood pressure is usually measured invasively through an arterial catheter, which allows the exact pressure to be seen with each heartbeat, displayed as a continuous wave on the screen. All this information is sent to the monitor, which processes it and displays it on the screen with colored numbers and graphs so the healthcare team can easily interpret it.",
+    "whatYouWillSee": "You will see a large screen with several colored lines moving continuously: the green line usually represents the heart, the blue line represents breathing, and the red line represents blood oxygen, although colors may vary by hospital. Next to each line, numbers change constantly — this is completely normal and reflects the small natural changes that happen in the body all the time.",
+    "importantNotes": [
+      "The numbers on the screen change constantly, and that is completely normal. The human body is not a static machine: heart rate goes up and down, blood pressure varies, and this is all part of the body's natural functioning.",
+      "Monitor alarms go off frequently for non-concerning reasons, such as a small patient movement, a sensor that has shifted slightly, or a blood pressure cuff inflating. The nursing staff knows how to distinguish an important alarm from a routine one.",
+      "You do not need to try to understand all the numbers and lines on the screen. The medical team is the one who interprets that information and will explain everything you need to know about your loved one's condition.",
+      "If a number catches your attention or causes you concern, do not hesitate to ask the nurse. They are there to help and will be happy to explain what you see on the screen."
+    ],
+    "faqs": [
+      {
+        "question": "What do the monitor alarms mean?",
+        "answer": "Alarms are automatic alerts that are triggered when a value falls outside the programmed range. Most of the time they are caused by minor issues: the patient moved a little, a cable came slightly loose, or the finger sensor shifted. The nursing team evaluates each alarm immediately and takes the necessary steps. If an alarm were truly urgent, you would see the staff act quickly, but this is uncommon. We ask that you do not try to silence the alarms or touch the monitor; if an alarm bothers you, let the staff know."
+      },
+      {
+        "question": "Do the cables and sensors cause pain or discomfort?",
+        "answer": "No, the monitor sensors are completely painless. The chest electrodes are soft adhesive patches that simply stick to the skin, the finger sensor is a lightweight clip that does not squeeze, and the blood pressure cuff only causes a brief, mild pressure when it inflates — just like when your blood pressure is taken at a regular doctor's visit. The nursing team periodically checks the skin beneath the patches to make sure they do not cause irritation and repositions them if needed."
+      },
+      {
+        "question": "Can I touch my loved one with all those cables on?",
+        "answer": "Yes, in most cases you can gently touch your loved one, hold their hand, or stroke them. You just need to be careful not to pull on the cables or peel off the adhesive patches. If you have any doubts about where or how you can touch them, ask the nursing staff — they will guide you on the best way to have physical contact with your loved one. Human touch is very valuable and is part of the recovery process."
+      }
+    ]
+  },
+  "bombas_infusion": {
+    "name": "Infusion pumps",
+    "summary": "Infusion pumps are devices that deliver medications, fluids, and nutrition precisely and in a controlled manner directly into your loved one's veins. They ensure that each medication arrives in the exact amount and at the correct rate.",
+    "whatIsIt": "Infusion pumps are electronic devices that deliver medications, IV fluids, nutrition, and other substances directly into your loved one's bloodstream through a catheter (a thin tube inserted into a vein). In the ICU, it is common to see several pumps operating at the same time, each administering a different medication. These machines are extremely precise and allow exact control over how much medication the patient receives each hour — something that would be impossible to achieve by hand with the same accuracy. Thanks to these pumps, your loved one receives the treatment they need continuously, safely, and without interruption. It is one of the most common devices in any ICU, and you will notice that virtually every patient has at least one.",
+    "howItWorks": "Each infusion pump has a mechanism that pushes the liquid medication or fluid through a flexible tube (called an infusion line or set) into the catheter in the patient's vein. The nurse programs the pump with the exact rate at which the liquid should flow, usually measured in milliliters per hour. The pump controls this rate very precisely, drop by drop or in a continuous flow, depending on what is needed. If the liquid runs out, if there is an air bubble in the tube, or if it detects a problem with the line, the pump automatically detects it and triggers an alarm so the nursing staff can respond. Some medications need to be infused very slowly over many hours, while others are given over a short period — the pumps adapt to each need.",
+    "whatYouWillSee": "You will see one or more rectangular devices mounted near the head of the bed. From each pump, a thin, transparent tube runs from a bag or syringe hanging at the top of the IV pole down to your loved one's catheter. The screen on each pump displays numbers showing the infusion rate and the volume of liquid that has been administered. It is common to see several pumps stacked on top of one another, each with a different colored label identifying the medication it contains. You may also hear small beeps when a bag is about to run out or when the nurse needs to make an adjustment.",
+    "importantNotes": [
+      "It is completely normal for your loved one to have several pumps running at the same time. Each one delivers a different medication or fluid, and the medical team has carefully calculated the dose and rate for each one.",
+      "If you hear a pump alarm, do not worry or try to touch it. The most common alarms occur because a fluid bag has run out, the tubing has kinked slightly, or the patient has shifted position. The nurse will respond quickly.",
+      "Never touch the pumps or the tubing, as any accidental change could alter the medication dose your loved one is receiving. If you see something that seems unusual, always alert the staff.",
+      "Some medications may slightly change the color of the patient's skin or urine. This is usually a normal and expected effect, but if it concerns you, do not hesitate to ask about it."
+    ],
+    "faqs": [
+      {
+        "question": "Why are there so many medications?",
+        "answer": "In the ICU, patients often need several types of treatment simultaneously. Some medications help maintain stable blood pressure, others fight infections, others relieve pain, others keep the patient sedated and comfortable, and others provide nutrition and hydration. Each one serves a specific and important role in recovery. The medical team reviews all the medications your loved one receives daily and adjusts, adds, or removes them as needed based on their progress. It may seem like a lot, but every medication has a clear purpose."
+      },
+      {
+        "question": "What if the pump stops or an alarm sounds?",
+        "answer": "Infusion pumps are designed with multiple safety systems. If one stops for any reason, it immediately triggers an audible and visual alarm, and the nurse responds within seconds or minutes. The most common causes are a depleted fluid bag, slight kinking of the tubing from movement, or a minor technical adjustment needed on the pump. Under no circumstances can the pump deliver an incorrect amount of medication without an alarm going off, so you can rest assured."
+      },
+      {
+        "question": "Do the IV lines and needle sticks cause pain?",
+        "answer": "Inserting an IV line can cause brief discomfort, similar to a regular blood draw. Once in place, the line usually does not hurt. The nursing team regularly checks the insertion site to ensure there is no redness, swelling, or discomfort. Additionally, many ICU patients already receive pain medication, so any discomfort is well managed. If at any point your loved one shows signs of discomfort, the staff will detect it and take steps to address it."
+      }
+    ]
+  },
+  "cateteres": {
+    "name": "Catheters (central venous, arterial, urinary)",
+    "summary": "Catheters are thin, flexible tubes placed in different parts of the body to deliver medications, measure blood pressure precisely, or collect urine. They are essential tools that help the medical team provide better care for your loved one.",
+    "whatIsIt": "Catheters are small, flexible tubes inserted into your loved one's body to serve several important functions. A central venous catheter is a tube placed in a large vein, usually in the neck, chest below the collarbone, or groin, and allows multiple medications to be given at once, blood to be drawn for testing without repeated needle sticks, and venous pressure to be measured. An arterial catheter is placed in an artery, usually in the wrist or groin, and allows blood pressure to be measured continuously and precisely beat by beat, as well as making it easier to collect blood samples. A urinary catheter (or Foley catheter) is a thin tube inserted through the urethra into the bladder to collect urine continuously, allowing the medical team to track exactly how much fluid your loved one's kidneys are producing. All of these catheters are placed using sterile techniques and with great care.",
+    "howItWorks": "Each type of catheter works slightly differently depending on its purpose. The central venous catheter has several ports (called lumens) that allow different medications and fluids to be connected simultaneously — it works like a multi-lane highway where different treatments can travel at the same time without mixing. The arterial catheter is connected to a very sensitive pressure sensor (called a transducer) that records the blood pressure with each heartbeat and sends that information to the vital signs monitor, displaying a continuous wave on the screen. The urinary catheter has a small balloon at the tip that, once inside the bladder, is gently inflated with a small amount of sterile water to keep it in place, and urine flows by gravity through the tube into a collection bag that the nursing staff monitors and empties periodically.",
+    "whatYouWillSee": "You may see a dressing (a special bandage) on your loved one's neck, chest, or groin, covering the site where the central venous catheter was inserted. Several small tubes with colored connectors extend from that point and connect to the infusion pumps. On the wrist or groin, you may notice a smaller dressing for the arterial catheter, connected by a thin tube to a pressure system that goes to the monitor. You will also see a tube coming out from under the sheets leading to a transparent bag hung on the lower part of the bed, where urine is collected — the color and amount of urine are data the medical team monitors constantly.",
+    "importantNotes": [
+      "Catheters are placed following strict hygiene protocols to prevent infections. The nursing team cares for and checks the insertion sites multiple times a day, changing dressings as needed.",
+      "It is very important not to pull on or move the catheters, as they are placed in very precise positions. If you want to touch your loved one, you can do so carefully while avoiding the areas where the catheters are located.",
+      "Catheters are not permanent. They will be removed as soon as your loved one no longer needs them, and removal is generally a quick procedure with little or no discomfort.",
+      "If you notice that a catheter dressing is stained, wet, or coming loose, or if you see redness on the surrounding skin, let the nursing staff know. They will check it and change it if necessary.",
+      "The color of the urine in the bag may vary depending on the medications your loved one is receiving. Darker or lighter shades than usual do not always indicate a problem, but the medical team monitors it closely."
+    ],
+    "faqs": [
+      {
+        "question": "Do the catheters hurt once they are in place?",
+        "answer": "Once in place, catheters generally do not cause pain. Your loved one may feel a slight sensation of pressure or discomfort at the insertion site, but catheters are made of very soft, flexible materials designed to minimize discomfort. Additionally, most ICU patients receive pain medication that helps manage any potential discomfort. The nursing team constantly monitors your loved one's comfort and will act if they detect any signs of pain related to the catheters."
+      },
+      {
+        "question": "Why do they need so many tubes?",
+        "answer": "We understand that seeing so many tubes can be overwhelming and even distressing. Each catheter serves a specific and necessary function: some allow medications that cannot be mixed with each other to be given, others provide vital information about blood pressure and kidney function, and others prevent the need to repeatedly stick your loved one for blood tests. Although it may seem like a lot, every tube has a clear purpose and is contributing to your loved one's recovery. As they improve, the tubes will be removed gradually."
+      },
+      {
+        "question": "Can catheters cause infections?",
+        "answer": "As with any device inserted into the body, catheters carry a small risk of infection, but the healthcare team takes every possible precaution to prevent this. They are placed using rigorous sterile techniques, covered with special dressings, and staff wash their hands and wear gloves every time they handle a catheter. Additionally, insertion sites are checked multiple times a day for any signs of infection. If a catheter is no longer strictly necessary, it is removed as soon as possible to reduce risks. You can trust that your loved one is well protected."
+      }
+    ]
+  },
+  "dialisis": {
+    "name": "Dialysis machine / Hemofiltration",
+    "summary": "The dialysis machine does the work the kidneys cannot do right now: cleaning the blood of waste products and removing excess fluids from the body. It is a temporary support that helps the body while the kidneys recover.",
+    "whatIsIt": "The dialysis or hemofiltration machine is a device that temporarily takes over the function of the kidneys when they are unable to work properly. The kidneys are the organs responsible for filtering the blood, removing waste products and excess fluids from the body through urine. When for some reason the kidneys cannot perform this function, those substances build up in the blood and can be harmful, so this machine takes over the cleaning work. In the ICU, a method called continuous hemodiafiltration is frequently used, which works gently and slowly over many hours a day, being gentler on the patient's body than conventional dialysis. The fact that your loved one needs this machine does not necessarily mean their kidneys are permanently damaged — in many cases, kidney function recovers once the illness that caused the problem improves.",
+    "howItWorks": "Your loved one's blood leaves the body through a special catheter (usually placed in a large vein in the neck or groin) and reaches the machine, where it passes through a very fine filter called a hemofilter. This filter works like a very sophisticated sieve: it allows waste products and excess fluids to pass through but retains the blood cells and proteins the body needs. The clean blood then returns to the patient's body through the same catheter. During this process, replacement solutions containing minerals and necessary substances are added to maintain the correct balance in the blood. The entire circuit is treated with anticoagulant medication to prevent blood from clotting inside the tubes. The machine automatically controls the speed of the process and the amount of fluid removed.",
+    "whatYouWillSee": "You will see a large machine, usually yellow or white, located next to your loved one's bed. It has a screen displaying various numerical data and graphs. Tubes containing dark red blood extend from the machine — some going from the patient to the machine and others from the machine back to the patient. It is normal to see blood in the tubes; do not be frightened — the blood is circulating in a controlled and safe closed circuit. You will also see bags of clear fluids connected to the machine that are used for the filtration process. The machine makes soft sounds while operating and may occasionally trigger an alarm that the staff promptly addresses.",
+    "importantNotes": [
+      "Seeing your loved one's blood outside their body in the tubes may be startling, but it is completely normal and safe. The blood circulates in a closed, sterile circuit and returns to the body clean.",
+      "This treatment is usually temporary. Many patients recover kidney function once the underlying illness improves. The medical team regularly evaluates whether the kidneys are beginning to function on their own.",
+      "During dialysis, your loved one's blood pressure may fluctuate slightly. The nursing team monitors this very closely and adjusts the treatment as needed to maintain stability.",
+      "Do not touch the tubes or the dialysis machine. Any accidental disconnection could be serious. If you see something that concerns you, alert the healthcare staff immediately.",
+      "You can continue talking to your loved one and keeping them company during dialysis treatment. Your presence does not interfere with the machine's operation."
+    ],
+    "faqs": [
+      {
+        "question": "Will they need dialysis forever?",
+        "answer": "Not necessarily. Many ICU patients need dialysis temporarily while their kidneys recover from an acute injury. In many cases, once the underlying illness is treated and the patient improves, the kidneys gradually resume their function. The medical team performs blood and urine tests regularly to assess kidney function. Only in some cases may the need for dialysis be prolonged. Every situation is different, and the doctors will keep you informed about your loved one's progress."
+      },
+      {
+        "question": "Does dialysis cause pain or discomfort?",
+        "answer": "The dialysis process itself is not painful. Your loved one does not feel the blood leaving or entering their body through the catheter. What they may notice at times is a slight sensation of cold, as the blood loses a little temperature when passing through the external circuit, but the machine has a warming system to minimize this. Occasionally there may be small drops in blood pressure that are managed with treatment adjustments. The healthcare team monitors the patient's well-being at all times during dialysis."
+      },
+      {
+        "question": "Is it dangerous for the blood to be outside the body?",
+        "answer": "Although it may seem concerning, the procedure is very safe. The amount of blood outside the body at any given time is relatively small (approximately a quarter of a liter). The circuit through which the blood flows is completely sterile and closed, preventing contact with the outside environment. The machine has multiple safety sensors that detect any anomaly, such as an air bubble or inadequate pressure, and stops automatically if something is not working correctly. The nursing staff also continuously monitors the system."
+      }
+    ]
+  },
+  "drenajes": {
+    "name": "Chest and abdominal drains",
+    "summary": "Drains are tubes placed in the chest or abdomen to remove fluids, air, or blood that have accumulated and could hinder organ function. They help the body recover by allowing the lungs and other organs to have the space they need to work properly.",
+    "whatIsIt": "Drains are tubes inserted through the skin into the chest cavity (chest drain) or abdominal cavity (abdominal drain) to remove substances that should not be there or that have accumulated in excess. Under normal conditions, both the chest and abdomen contain only a small amount of fluid that lubricates the organs. However, after surgery, trauma, or due to certain illnesses, fluid, blood, pus, or air can accumulate in these spaces, putting pressure on the organs and interfering with their function. Chest drains are especially important when air or fluid is trapped around the lungs, as this prevents them from expanding properly during breathing. Drains allow these accumulations to be removed safely and in a controlled manner, helping the organs return to normal function.",
+    "howItWorks": "A drain consists of a semi-rigid tube inserted through a small incision in the skin into the cavity where the accumulation is located. The tube is connected to a collection system that can work by gravity (the fluid simply flows down through the tube into a container positioned lower than the patient) or through a gentle suction system that creates a slight vacuum to help extract the contents. In the case of a chest drain, the system includes a water-seal chamber that acts as a one-way valve, allowing air and fluid to leave the chest but preventing them from re-entering. The nursing team measures and records the amount and appearance of the fluid collected so the doctors can evaluate progress. As fluid production decreases and the underlying cause is resolved, the drain is removed.",
+    "whatYouWillSee": "You will see one or more tubes coming out of your loved one's chest or abdomen, secured to the skin with stitches and covered with a dressing. These tubes are connected to a collection container or system usually placed on the floor or hung from the bed. In the case of a chest drain, you will see a transparent plastic container with several chambers containing water where the drained fluid collects — you may see bubbles in one of the chambers, which is normal when air is being evacuated from the chest. The collected fluid may be different colors: clear yellow, pink, red, or darker, depending on the cause and progress. It is normal for the volume of fluid to decrease over time as your loved one improves.",
+    "importantNotes": [
+      "It is very important that the drainage system is always positioned below the level of the patient's chest or abdomen for it to work properly by gravity. If you notice the container has shifted or is at the same height as your loved one, let the nursing staff know.",
+      "Never pull on or move the drain tubes. They are secured with stitches and placed in a very specific position. An accidental tug could cause pain and complications.",
+      "The fluid collected in the container may have an appearance that you find unpleasant or worrying, but its color and amount are valuable information for the medical team. If seeing it causes you distress, do not feel bad about looking away.",
+      "Drains are removed when they are no longer needed, usually when the amount of fluid they produce has decreased significantly. Removal is a quick procedure performed at the patient's bedside."
+    ],
+    "faqs": [
+      {
+        "question": "Does the drain hurt my loved one?",
+        "answer": "The area where the drain is inserted can cause some discomfort or pain, especially when moving or coughing. That is why the medical team makes sure your loved one receives adequate pain medication. It is important that pain is well managed, not only for comfort but because it allows the patient to breathe deeply and cough when necessary — something that is essential for lung recovery. If you notice that your loved one appears to be in pain, do not hesitate to let the nursing staff know so they can adjust the medication."
+      },
+      {
+        "question": "When will the drain be removed?",
+        "answer": "The drain is removed when it has served its purpose — that is, when the amount of fluid or air it is draining has decreased to a minimal level and imaging tests (such as an X-ray) confirm the accumulation has resolved. This can take anywhere from a few days to several weeks, depending on the cause and how your loved one's body responds. The medical team assesses progress daily and will decide to remove it at the right time. Removal is done at the bedside, is quick, and is performed with medication to minimize discomfort."
+      },
+      {
+        "question": "Is it normal to see bubbles in the container?",
+        "answer": "Yes, in the case of a chest drain, it is common to see bubbles in the water-seal chamber of the collection system, especially at the beginning of treatment. The bubbles indicate that air is being evacuated from the space surrounding the lung. Over time, the bubbles usually decrease as the lung re-expands and the air leak closes. If the bubbles appear intensely and continuously, or if they reappear after having stopped, the medical staff will evaluate it. It is useful information, so if you notice any changes, you can mention it to the team, although they also monitor it closely."
+      }
+    ]
+  },
+  "ecmo": {
+    "name": "ECMO (Extracorporeal Membrane Oxygenation)",
+    "summary": "ECMO is an advanced machine that does the work of the heart, lungs, or both when these organs need complete rest in order to recover. It is an extraordinary life support system that gives the body time to heal.",
+    "whatIsIt": "ECMO, which stands for Extracorporeal Membrane Oxygenation, is one of the most advanced technologies available in intensive care medicine. It is used when the heart, lungs, or both are so severely affected that they cannot perform their function despite conventional treatments such as a ventilator or medications. ECMO draws blood from the body, passes it through an artificial lung (called a membrane oxygenator) that adds oxygen and removes carbon dioxide, and then returns the oxygenated blood to the body. In this way, the affected organs can rest completely while ECMO does their work, giving them the opportunity to recover. It is important for you to know that ECMO does not cure the illness — rather, it buys valuable time for treatments to take effect and for the organs to heal. Its use is a decision the medical team makes carefully when they believe it is the best option for your loved one.",
+    "howItWorks": "ECMO works through cannulas (large, specialized tubes) that are inserted into large veins or arteries, usually in the neck, groin, or chest. A mechanical pump, acting as an artificial heart, drives the blood through the circuit. The blood reaches the membrane oxygenator, a device that functions as an artificial lung: it contains thousands of microscopic hollow fibers through which oxygen flows; the blood passes around these fibers and, through their very thin walls, oxygen enters the blood and carbon dioxide exits — exactly as it happens in healthy lungs. The oxygenated blood, now cleared of carbon dioxide, passes through a warmer that restores it to the correct body temperature and returns to the patient's body. There are two main types: venovenous ECMO, which supports lung function only, and venoarterial ECMO, which supports both heart and lung function. The entire system operates 24 hours a day and requires constant supervision by highly specialized staff.",
+    "whatYouWillSee": "You will see a sizable machine next to your loved one's bed, with a control screen and several visible components. The tubes (cannulas) coming from your loved one's body are larger than those of other devices and contain dark red blood (going toward the machine, with low oxygen) and bright red blood (already oxygenated, returning to the body). You will see the membrane oxygenator, which looks like a cylinder or box connected to the circuit. You will also notice the pump that drives the blood, which produces a soft continuous humming sound. There may be more equipment than usual around the bed, as ECMO is typically accompanied by other monitoring and treatment devices.",
+    "importantNotes": [
+      "ECMO is a highly specialized treatment used only in extremely serious situations. If your loved one is connected to ECMO, it means the medical team is using every available resource to give them the best possible chance of recovery.",
+      "Qualified staff will be monitoring the ECMO around the clock, 24 hours a day. This staff is specifically trained to operate this technology and to detect any issues immediately.",
+      "Visiting hours may be more restricted, or you may be asked to take extra precautions when approaching the bed. This is for the safety of both your loved one and the proper functioning of the equipment. Always follow the staff's instructions.",
+      "You can continue talking to your loved one and letting them know you are there. Your presence and your voice are important for their emotional well-being, even when they are deeply sedated.",
+      "The medical team will update you regularly on their progress. Do not hesitate to request a meeting with them if you need more explanations or have questions. It is your right to be informed, and the team is there to support you through this process."
+    ],
+    "faqs": [
+      {
+        "question": "Is it very serious that they need ECMO?",
+        "answer": "ECMO is used in serious situations where vital organs need extraordinary support, and it is understandable that this causes great concern. However, the fact that it is being used also means the medical team believes your loved one has a chance of improving and is doing everything possible to help them. ECMO has saved many lives in situations where there were previously no options. Every case is different, and the doctors will keep you informed of progress honestly and compassionately. It is important that you also take care of yourself during this difficult time and seek emotional support if you need it."
+      },
+      {
+        "question": "How long can they be connected to ECMO?",
+        "answer": "The duration of ECMO treatment varies enormously depending on each case. Some patients need it for just a few days, while others may need it for several weeks. The medical team evaluates heart and lung function daily to determine whether they are beginning to recover and whether the ECMO support can be gradually reduced. Weaning is done very gradually and in a controlled manner, ensuring the organs can resume their function. The doctors will keep you informed about the treatment plan and the progress they observe."
+      },
+      {
+        "question": "Can I be with my loved one while they are connected to ECMO?",
+        "answer": "Yes, although visits may be somewhat more regulated than with other devices. The team will let you know when and how you can be with your loved one. It is important that you strictly follow hand hygiene instructions and that you do not touch any tubes or equipment. Your presence, your voice, and your gentle touch (when the staff indicates it is safe) are very valuable. Many ICU professionals recognize that the presence of loved ones has a positive effect on patient recovery. Do not underestimate the power of being there — even if you feel like you are not doing anything, being present means a great deal."
+      }
+    ]
+  }
+}
