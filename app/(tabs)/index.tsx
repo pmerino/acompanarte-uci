@@ -174,20 +174,19 @@ const styles = StyleSheet.create({
   logosRow: {
     flexDirection: 'row',
     alignItems: 'center',
-    justifyContent: 'center',
+    justifyContent: 'space-between',
     paddingTop: spacing.xl,
-    paddingHorizontal: spacing.base,
-    gap: spacing.lg,
+    paddingHorizontal: spacing.xl,
   },
   // SACYL: 483x219 → ratio 2.2:1
   logoSacyl: {
-    height: 52,
-    width: 115,
+    height: 54,
+    width: 119,
   },
   // UCI: 653x415 → ratio 1.57:1
   logoUci: {
-    height: 56,
-    width: 88,
+    height: 58,
+    width: 91,
   },
   hero: {
     alignItems: 'center',
