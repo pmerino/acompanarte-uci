@@ -68,5 +68,5 @@
     }
   ],
   "whenToCall": "Llama a la centralita del hospital (983 42 04 00) siempre que tengas una duda o preocupación sobre tu familiar. El personal de enfermería de la UCI puede atenderte e informarte. Si es fuera del horario de visitas y estás preocupado/a, no dudes en llamar: es mejor preguntar que quedarse con la incertidumbre.",
-  "afterHours": "Fuera del horario de visitas (11:45 h y 19:00 h), puedes llamar a la centralita (983 42 04 00) y pedir que te comuniquen con la UCI. El equipo de enfermería está disponible las 24 horas y puede informarte del estado general de tu familiar. Recuerda que la puerta principal del hospital cierra a las 22:30 h."
+  "afterHours": "Fuera del horario de visitas (12:45 h y 19:00 h), puedes llamar a la centralita (983 42 04 00) y pedir que te comuniquen con la UCI. El equipo de enfermería está disponible las 24 horas y puede informarte del estado general de tu familiar. Recuerda que la puerta principal del hospital cierra a las 22:30 h."
 }

@@ -4,7 +4,7 @@
   "horarios": {
     "name": "Horarios de visita",
     "icon": "schedule",
-    "content": "La UCI del Hospital Universitario Río Hortega tiene dos horarios de visita diarios: a las 11.45 h y a las 19.00 h, todos los días de la semana. Se permite la entrada de un máximo de 2 personas a la vez, que podrán intercambiarse en la sala de espera. Durante la visita de la mañana, el médico responsable informa a los familiares sobre la evolución del paciente. Es importante que llegues con algo de antelación para recibir esta información y prepararte para entrar. Ten en cuenta que los horarios pueden modificarse en función de la actividad asistencial de la unidad; el personal te avisará si hay algún cambio puntual. Consulta siempre con el equipo cualquier duda sobre los horarios o si tienes circunstancias especiales que necesites comunicar, ya que buscaremos soluciones alternativas."
+    "content": "La UCI del Hospital Universitario Río Hortega tiene dos horarios de visita diarios: a las 12:45 h y a las 19:00 h, todos los días de la semana. Se permite la entrada de un máximo de 2 personas a la vez, que podrán intercambiarse en la sala de espera. Durante la visita de la mañana, el médico responsable informa a los familiares sobre la evolución del paciente. Es importante que llegues con algo de antelación para recibir esta información y prepararte para entrar. Ten en cuenta que los horarios pueden modificarse en función de la actividad asistencial de la unidad; el personal te avisará si hay algún cambio puntual. Consulta siempre con el equipo cualquier duda sobre los horarios o si tienes circunstancias especiales que necesites comunicar, ya que buscaremos soluciones alternativas."
   },
   "cafeteria": {
     "name": "Cafetería y comidas",
